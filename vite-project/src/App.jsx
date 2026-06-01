@@ -1,7 +1,8 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import './App.css';
 import Question from './components/Question';
 import ScoreSummary from './components/ScoreSummary';
+import questionsData from './data/questions.json';
 
 const shuffleQuestions = (questions) => {
   const shuffled = [...questions];
@@ -23,28 +24,11 @@ const buildQuestionSet = (data) => {
 };
 
 function App() {
-  const [questions, setQuestions] = useState([]);
+  const [questions, setQuestions] = useState(() => buildQuestionSet(questionsData));
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [answers, setAnswers] = useState({});
   const [showFeedback, setShowFeedback] = useState(false);
   const [showScore, setShowScore] = useState(false);
-
-  useEffect(() => {
-    let isMounted = true;
-
-    fetch('/src/data/questions.json')
-      .then(response => response.json())
-      .then(data => {
-        if (isMounted) {
-          setQuestions(buildQuestionSet(data));
-        }
-      })
-      .catch(error => console.error('Error loading questions:', error));
-
-    return () => {
-      isMounted = false;
-    };
-  }, []);
 
   const handleAnswer = (questionId, selectedOption) => {
     setAnswers(prev => ({
@@ -68,11 +52,7 @@ function App() {
     setAnswers({});
     setShowFeedback(false);
     setShowScore(false);
-
-    fetch('/src/data/questions.json')
-      .then(response => response.json())
-      .then(data => setQuestions(buildQuestionSet(data)))
-      .catch(error => console.error('Error loading questions:', error));
+    setQuestions(buildQuestionSet(questionsData));
   };
 
   if (questions.length === 0) {
