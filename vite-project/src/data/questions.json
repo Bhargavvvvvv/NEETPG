@@ -2,652 +2,652 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the normal hemoglobin range for adult males?",
+      "question": "What is the most common cause of uncomplicated urinary tract infections?",
       "options": [
-        "10-12 g/dL",
-        "13-17 g/dL",
-        "7-9 g/dL",
-        "18-22 g/dL"
+        "Escherichia coli",
+        "Staphylococcus aureus",
+        "Pseudomonas aeruginosa",
+        "Enterococcus faecalis"
       ],
-      "correctAnswer": 1,
-      "explanation": "Normal hemoglobin range for adult males is 13-17 g/dL. For females, it is 12-15 g/dL.",
+      "correctAnswer": 0,
+      "explanation": "Escherichia coli is the most common bacterial pathogen responsible for uncomplicated urinary tract infections, accounting for up to 75-95% of cases.",
       "difficulty": "easy"
     },
     {
       "id": 2,
-      "question": "Which of the following is the most common cause of acute appendicitis?",
+      "question": "Which organelle is classically known as the powerhouse of the cell?",
       "options": [
-        "Fecalith obstruction",
-        "Bacterial infection",
-        "Viral infection",
-        "Parasitic infestation"
+        "Nucleus",
+        "Mitochondria",
+        "Golgi apparatus",
+        "Endoplasmic reticulum"
       ],
-      "correctAnswer": 0,
-      "explanation": "Obstruction of the appendiceal lumen, most commonly by a fecalith, leads to inflammation and acute appendicitis.",
+      "correctAnswer": 1,
+      "explanation": "Mitochondria generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy, thereby acting as the powerhouse of the cell.",
       "difficulty": "easy"
     },
     {
       "id": 3,
-      "question": "Which vitamin is essential for the synthesis of clotting factors?",
+      "question": "What is the approximate normal lifespan of a mature red blood cell?",
       "options": [
-        "Vitamin A",
-        "Vitamin D",
-        "Vitamin K",
-        "Vitamin E"
+        "60 days",
+        "90 days",
+        "120 days",
+        "150 days"
       ],
       "correctAnswer": 2,
-      "explanation": "Vitamin K is required for the gamma-carboxylation of clotting factors II, VII, IX, and X.",
+      "explanation": "The normal lifespan of a circulating erythrocyte (red blood cell) in humans is roughly 100 to 120 days.",
       "difficulty": "easy"
     },
     {
       "id": 4,
-      "question": "What is the normal fasting blood glucose level?",
+      "question": "Which mosquito vector is primarily responsible for the transmission of Dengue fever?",
       "options": [
-        "60-80 mg/dL",
-        "70-100 mg/dL",
-        "100-125 mg/dL",
-        "126-140 mg/dL"
+        "Anopheles mosquito",
+        "Culex mosquito",
+        "Sandfly",
+        "Aedes aegypti mosquito"
       ],
-      "correctAnswer": 1,
-      "explanation": "Normal fasting plasma glucose is 70-100 mg/dL. 100-125 mg/dL indicates prediabetes, and ≥126 mg/dL indicates diabetes.",
+      "correctAnswer": 3,
+      "explanation": "Dengue fever is a viral infection transmitted to humans through the bite of infected mosquitoes, primarily the Aedes aegypti mosquito.",
       "difficulty": "easy"
     },
     {
       "id": 5,
-      "question": "Which is the most common site for osteosarcoma?",
+      "question": "Which bone is the longest and strongest in the human body?",
       "options": [
-        "Distal femur",
-        "Proximal humerus",
-        "Ribs",
-        "Vertebrae"
+        "Femur",
+        "Tibia",
+        "Humerus",
+        "Fibula"
       ],
       "correctAnswer": 0,
-      "explanation": "Osteosarcoma most commonly occurs around the knee, particularly the distal femur and proximal tibia.",
+      "explanation": "The femur, or thigh bone, is the longest, heaviest, and strongest bone in the human body.",
       "difficulty": "easy"
     },
     {
       "id": 6,
-      "question": "Which hormone stimulates gallbladder contraction?",
+      "question": "A severe deficiency of Vitamin C classically leads to which condition?",
       "options": [
-        "Secretin",
-        "Cholecystokinin (CCK)",
-        "Gastrin",
-        "Insulin"
+        "Rickets",
+        "Scurvy",
+        "Pellagra",
+        "Beriberi"
       ],
       "correctAnswer": 1,
-      "explanation": "Cholecystokinin (CCK) is released by the intestine in response to fats and proteins, causing gallbladder contraction and pancreatic enzyme secretion.",
+      "explanation": "Vitamin C (ascorbic acid) deficiency results in impaired collagen synthesis, leading to scurvy, which is characterized by bleeding gums, petechiae, and poor wound healing.",
       "difficulty": "easy"
     },
     {
       "id": 7,
-      "question": "What is the normal platelet count range?",
+      "question": "Which blood type is considered the universal red blood cell donor?",
       "options": [
-        "50,000-150,000/mm³",
-        "150,000-450,000/mm³",
-        "450,000-650,000/mm³",
-        "650,000-850,000/mm³"
+        "A positive",
+        "AB positive",
+        "O negative",
+        "B negative"
       ],
-      "correctAnswer": 1,
-      "explanation": "Normal platelet count is 150,000 to 450,000 per mm³. Values below 150,000 indicate thrombocytopenia.",
+      "correctAnswer": 2,
+      "explanation": "O negative blood lacks A, B, and Rh antigens, meaning it can be transfused into patients of any blood type with minimal risk of an immune reaction.",
       "difficulty": "easy"
     },
     {
       "id": 8,
-      "question": "Which ECG lead best views the lateral wall of the left ventricle?",
+      "question": "How many cervical vertebrae are present in the standard human spine?",
       "options": [
-        "Lead II",
-        "Lead aVF",
-        "Lead V1",
-        "Lead I and aVL"
+        "5",
+        "6",
+        "12",
+        "7"
       ],
       "correctAnswer": 3,
-      "explanation": "Leads I, aVL, V5, and V6 examine the lateral wall of the left ventricle.",
+      "explanation": "The human vertebral column typically contains 7 cervical vertebrae, 12 thoracic vertebrae, and 5 lumbar vertebrae.",
       "difficulty": "easy"
     },
     {
       "id": 9,
-      "question": "Which of the following is NOT a symptom of hyperthyroidism?",
+      "question": "What is the normal resting heart rate range for a healthy adult?",
       "options": [
-        "Weight loss",
-        "Heat intolerance",
-        "Bradycardia",
-        "Tremor"
+        "60-100 bpm",
+        "40-60 bpm",
+        "100-120 bpm",
+        "120-140 bpm"
       ],
-      "correctAnswer": 2,
-      "explanation": "Hyperthyroidism causes tachycardia, not bradycardia. Other symptoms include weight loss, heat intolerance, and tremor.",
+      "correctAnswer": 0,
+      "explanation": "A normal resting heart rate for adults ranges from 60 to 100 beats per minute.",
       "difficulty": "easy"
     },
     {
       "id": 10,
-      "question": "What is the most common cause of viral hepatitis worldwide?",
+      "question": "What is the primary first-line medication for the treatment of anaphylaxis?",
       "options": [
-        "Hepatitis A virus",
-        "Hepatitis B virus",
-        "Hepatitis C virus",
-        "Hepatitis E virus"
+        "Atropine",
+        "Epinephrine",
+        "Diphenhydramine",
+        "Hydrocortisone"
       ],
       "correctAnswer": 1,
-      "explanation": "Hepatitis B virus is the most common cause of viral hepatitis globally, with over 250 million chronic carriers.",
+      "explanation": "Intramuscular epinephrine is the treatment of choice and the first-line medication administered for life-threatening anaphylaxis.",
       "difficulty": "easy"
     },
     {
       "id": 11,
-      "question": "Which lymphocyte is primarily responsible for humoral immunity?",
+      "question": "Where is dietary iron primarily absorbed in the gastrointestinal tract?",
       "options": [
-        "T lymphocyte",
-        "Natural killer cell",
-        "B lymphocyte",
-        "Macrophage"
+        "Stomach",
+        "Ileum",
+        "Duodenum",
+        "Colon"
       ],
       "correctAnswer": 2,
-      "explanation": "B lymphocytes differentiate into plasma cells that produce antibodies, mediating humoral immunity.",
+      "explanation": "Iron is predominantly absorbed in the proximal small intestine, specifically the duodenum and the upper jejunum.",
       "difficulty": "easy"
     },
     {
       "id": 12,
-      "question": "What is the normal respiratory exchange ratio (RER) at rest?",
+      "question": "What is the specific antidote for acetaminophen (paracetamol) toxicity?",
       "options": [
-        "0.5",
-        "0.7",
-        "0.8",
-        "1.0"
+        "Naloxone",
+        "Flumazenil",
+        "Atropine",
+        "N-acetylcysteine"
       ],
-      "correctAnswer": 2,
-      "explanation": "At rest, the respiratory exchange ratio (VCO2/VO2) is approximately 0.8, reflecting a mix of carbohydrate and fat metabolism.",
+      "correctAnswer": 3,
+      "explanation": "N-acetylcysteine (NAC) replenishes glutathione stores in the liver and is the specific antidote for acetaminophen poisoning.",
       "difficulty": "easy"
     },
     {
       "id": 13,
-      "question": "Which of the following is the most common congenital heart defect?",
+      "question": "Which microorganism is the causative agent of Syphilis?",
       "options": [
-        "Ventricular septal defect",
-        "Atrial septal defect",
-        "Patent ductus arteriosus",
-        "Tetralogy of Fallot"
+        "Treponema pallidum",
+        "Neisseria gonorrhoeae",
+        "Chlamydia trachomatis",
+        "Haemophilus ducreyi"
       ],
       "correctAnswer": 0,
-      "explanation": "Ventricular septal defect (VSD) is the most common congenital heart defect, accounting for about 30% of cases.",
+      "explanation": "Syphilis is a sexually transmitted infection caused by the spirochete bacterium Treponema pallidum.",
       "difficulty": "easy"
     },
     {
       "id": 14,
-      "question": "Which antibiotic is contraindicated in children under 8 years due to teeth discoloration?",
+      "question": "Which of the following is the largest organ in the human body by surface area?",
       "options": [
-        "Amoxicillin",
-        "Ciprofloxacin",
-        "Tetracycline",
-        "Azithromycin"
+        "Liver",
+        "Skin",
+        "Lungs",
+        "Brain"
       ],
-      "correctAnswer": 2,
-      "explanation": "Tetracyclines bind to developing dental calcium, causing permanent yellow-gray-brown discoloration of teeth in children under 8.",
+      "correctAnswer": 1,
+      "explanation": "The skin is the body's largest organ, accounting for about 15% of total adult body weight and covering an extensive surface area.",
       "difficulty": "easy"
     },
     {
       "id": 15,
-      "question": "What is the mechanism of action of omeprazole?",
+      "question": "Vitamin B12 deficiency is most classically associated with which specific type of anemia?",
       "options": [
-        "H2 receptor antagonist",
-        "Prokinetic agent",
-        "Proton pump inhibitor",
-        "Mucosal protectant"
+        "Microcytic hypochromic anemia",
+        "Hemolytic anemia",
+        "Pernicious anemia",
+        "Aplastic anemia"
       ],
       "correctAnswer": 2,
-      "explanation": "Omeprazole irreversibly inhibits the H+/K+ ATPase (proton pump) of gastric parietal cells, reducing acid secretion.",
+      "explanation": "Pernicious anemia is an autoimmune condition that impairs intrinsic factor production, leading to Vitamin B12 malabsorption and megaloblastic anemia.",
       "difficulty": "easy"
     },
     {
       "id": 16,
-      "question": "Which of the following is the most common cause of pulmonary hypertension?",
+      "question": "What is the approximate normal tidal volume in a healthy adult at rest?",
       "options": [
-        "Left heart disease",
-        "Chronic thromboembolic disease",
-        "HIV infection",
-        "Idiopathic"
+        "150 mL",
+        "300 mL",
+        "1000 mL",
+        "500 mL"
       ],
-      "correctAnswer": 0,
-      "explanation": "Left heart disease (e.g., systolic or diastolic dysfunction) is the most common cause of pulmonary hypertension, termed Group 2 PH.",
+      "correctAnswer": 3,
+      "explanation": "Tidal volume is the amount of air that moves in or out of the lungs with each respiratory cycle, measuring approximately 500 mL in a healthy adult.",
       "difficulty": "easy"
     },
     {
       "id": 17,
-      "question": "What is the normal range for serum creatinine in adult men?",
+      "question": "Which cranial nerve is widely known as the Vagus nerve?",
       "options": [
-        "0.2-0.4 mg/dL",
-        "0.6-1.2 mg/dL",
-        "1.5-2.0 mg/dL",
-        "2.2-2.8 mg/dL"
+        "Cranial Nerve X",
+        "Cranial Nerve IX",
+        "Cranial Nerve XI",
+        "Cranial Nerve VII"
       ],
-      "correctAnswer": 1,
-      "explanation": "Normal serum creatinine for adult men is approximately 0.6-1.2 mg/dL; for women, 0.5-1.1 mg/dL.",
+      "correctAnswer": 0,
+      "explanation": "The Vagus nerve is the tenth cranial nerve (CN X), playing a crucial role in parasympathetic control of the heart, lungs, and digestive tract.",
       "difficulty": "easy"
     },
     {
       "id": 18,
-      "question": "Which of the following vitamins is synthesized by skin upon exposure to sunlight?",
+      "question": "What is the primary intracellular cation in the human body?",
       "options": [
-        "Vitamin A",
-        "Vitamin C",
-        "Vitamin D",
-        "Vitamin E"
+        "Sodium",
+        "Potassium",
+        "Calcium",
+        "Magnesium"
       ],
-      "correctAnswer": 2,
-      "explanation": "Vitamin D3 (cholecalciferol) is synthesized in the skin from 7-dehydrocholesterol upon UVB radiation.",
+      "correctAnswer": 1,
+      "explanation": "Potassium is the major intracellular cation, essential for maintaining resting membrane potential and proper cellular function.",
       "difficulty": "easy"
     },
     {
       "id": 19,
-      "question": "Which of the following is NOT a type of hypersensitivity reaction?",
+      "question": "The first cervical vertebra (C1) is also anatomically referred to as what?",
       "options": [
-        "Type I (IgE-mediated)",
-        "Type II (cytotoxic)",
-        "Type IV (delayed-type)",
-        "Type V (stimulatory)"
+        "Axis",
+        "Prominens",
+        "Atlas",
+        "Coccyx"
       ],
-      "correctAnswer": 3,
-      "explanation": "The Gell and Coombs classification includes Types I, II, III, and IV. Type V is not a standard hypersensitivity category.",
+      "correctAnswer": 2,
+      "explanation": "The first cervical vertebra is named the Atlas, as it supports the globe of the head, analogous to the mythical figure Atlas.",
       "difficulty": "easy"
     },
     {
       "id": 20,
-      "question": "What is the most common cause of community-acquired pneumonia in elderly patients?",
+      "question": "Which hormone, secreted by the pineal gland, is primarily responsible for regulating sleep-wake cycles?",
       "options": [
-        "Streptococcus pneumoniae",
-        "Staphylococcus aureus",
-        "Klebsiella pneumoniae",
-        "Pseudomonas aeruginosa"
+        "Cortisol",
+        "Thyroxine",
+        "Insulin",
+        "Melatonin"
       ],
-      "correctAnswer": 0,
-      "explanation": "Streptococcus pneumoniae remains the most common cause of community-acquired pneumonia across all adult age groups, including the elderly.",
+      "correctAnswer": 3,
+      "explanation": "Melatonin is a hormone produced by the pineal gland at night, serving as a key regulator of the circadian rhythm and sleep-wake cycle.",
       "difficulty": "easy"
     },
     {
       "id": 21,
-      "question": "A 50-year-old man presents with crushing substernal chest pain radiating to the left arm, diaphoresis, and nausea. ECG shows ST-segment elevation in leads II, III, and aVF. Which artery is most likely occluded?",
+      "question": "What is considered the drug of choice for the treatment of Trigeminal Neuralgia?",
       "options": [
-        "Left anterior descending (LAD)",
-        "Left circumflex (LCx)",
-        "Right coronary artery (RCA)",
-        "Left main"
+        "Carbamazepine",
+        "Gabapentin",
+        "Phenytoin",
+        "Valproic acid"
       ],
-      "correctAnswer": 2,
-      "explanation": "ST elevation in leads II, III, and aVF indicates infarction of the inferior wall of the left ventricle, typically due to occlusion of the right coronary artery.",
+      "correctAnswer": 0,
+      "explanation": "Carbamazepine is the first-line and most effective medication for managing the sharp, shooting facial pain characteristic of trigeminal neuralgia.",
       "difficulty": "medium"
     },
     {
       "id": 22,
-      "question": "Which of the following is the most specific diagnostic test for myasthenia gravis?",
+      "question": "Which tumor marker is most classically monitored in the management of ovarian cancer?",
       "options": [
-        "Edrophonium (Tensilon) test",
-        "Acetylcholine receptor antibody assay",
-        "Repetitive nerve stimulation",
-        "Chest CT for thymoma"
+        "CEA",
+        "CA-125",
+        "AFP",
+        "PSA"
       ],
       "correctAnswer": 1,
-      "explanation": "Detection of acetylcholine receptor antibodies is highly specific for myasthenia gravis, present in about 80-90% of generalized cases.",
+      "explanation": "Cancer Antigen 125 (CA-125) is elevated in most epithelial ovarian cancers and is used to monitor treatment response and detect recurrence.",
       "difficulty": "medium"
     },
     {
       "id": 23,
-      "question": "A patient with HIV presents with violaceous plaques on the palate and lower extremities. Biopsy shows spindle-shaped cells forming vascular slits. What is the diagnosis?",
+      "question": "Which carpal bone is the most frequently fractured, often resulting from a fall on an outstretched hand?",
       "options": [
-        "Kaposi sarcoma",
-        "Basal cell carcinoma",
-        "Melanoma",
-        "Pyogenic granuloma"
+        "Lunate",
+        "Pisiform",
+        "Scaphoid",
+        "Trapezium"
       ],
-      "correctAnswer": 0,
-      "explanation": "Kaposi sarcoma, caused by HHV-8, appears as violaceous lesions and is common in HIV-infected individuals with low CD4 counts.",
+      "correctAnswer": 2,
+      "explanation": "The scaphoid is the most commonly fractured carpal bone, highly susceptible to injury when breaking a fall with an extended wrist.",
       "difficulty": "medium"
     },
     {
       "id": 24,
-      "question": "What is the mechanism of action of clopidogrel?",
+      "question": "Wernicke's encephalopathy is primarily caused by a severe deficiency in which vitamin?",
       "options": [
-        "Inhibits cyclooxygenase-1",
-        "Blocks glycoprotein IIb/IIIa receptors",
-        "Inhibits P2Y12 ADP receptor",
-        "Activates plasminogen"
+        "Riboflavin (B2)",
+        "Niacin (B3)",
+        "Pyridoxine (B6)",
+        "Thiamine (B1)"
       ],
-      "correctAnswer": 2,
-      "explanation": "Clopidogrel is a thienopyridine that irreversibly inhibits the P2Y12 ADP receptor on platelets, preventing aggregation.",
+      "correctAnswer": 3,
+      "explanation": "Wernicke's encephalopathy is an acute neurological condition driven by a deficiency of Vitamin B1 (thiamine), commonly seen in chronic alcoholism.",
       "difficulty": "medium"
     },
     {
       "id": 25,
-      "question": "Which of the following is the most common cause of secondary amenorrhea in women of reproductive age?",
+      "question": "Which clinical feature is considered a classic hallmark motor symptom of Parkinson's disease?",
       "options": [
-        "Pregnancy",
-        "Polycystic ovary syndrome (PCOS)",
-        "Hyperprolactinemia",
-        "Thyroid dysfunction"
+        "Resting tremor",
+        "Intention tremor",
+        "Chorea",
+        "Athetosis"
       ],
       "correctAnswer": 0,
-      "explanation": "Pregnancy is the most common cause of secondary amenorrhea and must be ruled out first in any woman of reproductive age presenting with amenorrhea.",
+      "explanation": "A \"pill-rolling\" resting tremor is one of the cardinal motor manifestations of Parkinson's disease, alongside bradykinesia and rigidity.",
       "difficulty": "medium"
     },
     {
       "id": 26,
-      "question": "A 65-year-old woman with osteoporosis presents with acute back pain after lifting a heavy object. X-ray shows a wedge compression fracture of T12. What is the most appropriate initial management?",
+      "question": "The Philadelphia chromosome, characterized by the t(9;22) translocation, is most strongly associated with which malignancy?",
       "options": [
-        "Bed rest for 6 weeks",
-        "Vertebroplasty",
-        "Bisphosphonate therapy",
-        "Calcitonin nasal spray"
+        "Acute Lymphoblastic Leukemia (ALL)",
+        "Chronic Myeloid Leukemia (CML)",
+        "Hodgkin Lymphoma",
+        "Multiple Myeloma"
       ],
-      "correctAnswer": 2,
-      "explanation": "Bisphosphonates (e.g., alendronate) are first-line for osteoporosis to prevent further fractures. Pain control and mobilization are also important.",
+      "correctAnswer": 1,
+      "explanation": "The Philadelphia chromosome results in the BCR-ABL1 fusion gene, which is the defining pathogenic driver of Chronic Myeloid Leukemia (CML).",
       "difficulty": "medium"
     },
     {
       "id": 27,
-      "question": "Which of the following arterial blood gas findings is characteristic of acute respiratory acidosis?",
+      "question": "Kimmelstiel-Wilson nodules are a pathognomonic histological finding indicative of which condition?",
       "options": [
-        "pH ↓, PaCO2 ↑, HCO3− normal",
-        "pH ↑, PaCO2 ↓, HCO3− ↓",
-        "pH ↓, PaCO2 ↓, HCO3− ↓",
-        "pH ↑, PaCO2 ↑, HCO3− ↑"
+        "Hypertensive nephrosclerosis",
+        "Lupus nephritis",
+        "Diabetic nephropathy",
+        "IgA nephropathy"
       ],
-      "correctAnswer": 0,
-      "explanation": "Acute respiratory acidosis shows decreased pH, increased PaCO2, and normal bicarbonate (no renal compensation yet).",
+      "correctAnswer": 2,
+      "explanation": "Kimmelstiel-Wilson nodules are areas of nodular glomerulosclerosis found in the kidneys of patients with advanced diabetic nephropathy.",
       "difficulty": "medium"
     },
     {
       "id": 28,
-      "question": "What is the most common cause of cushingoid state?",
+      "question": "What is the recommended first-line intravenous pharmacological treatment for Status Epilepticus?",
       "options": [
-        "Pituitary adenoma",
-        "Adrenal tumor",
-        "Exogenous glucocorticoids",
-        "Ectopic ACTH"
+        "Phenobarbital",
+        "Propofol",
+        "Levetiracetam",
+        "Lorazepam"
       ],
-      "correctAnswer": 2,
-      "explanation": "Exogenous glucocorticoid use (e.g., prednisone) is the most frequent cause of Cushingoid features, surpassing endogenous causes.",
+      "correctAnswer": 3,
+      "explanation": "Intravenous benzodiazepines, particularly lorazepam, are the drug of choice for the immediate termination of status epilepticus.",
       "difficulty": "medium"
     },
     {
       "id": 29,
-      "question": "Which of the following is the most sensitive early marker of myocardial infarction?",
+      "question": "Aschoff bodies are classically found in the myocardium of patients suffering from which condition?",
       "options": [
-        "CK-MB",
-        "Troponin I",
-        "Myoglobin",
-        "LDH"
+        "Rheumatic fever",
+        "Infective endocarditis",
+        "Viral myocarditis",
+        "Chagas disease"
       ],
-      "correctAnswer": 1,
-      "explanation": "Cardiac troponin I (or T) rises within 3-4 hours of myocardial injury and is more specific and sensitive than CK-MB or myoglobin.",
+      "correctAnswer": 0,
+      "explanation": "Aschoff bodies are areas of focal interstitial myocardial inflammation representing the pathognomonic lesion of acute rheumatic heart disease.",
       "difficulty": "medium"
     },
     {
       "id": 30,
-      "question": "A patient presents with abdominal pain, vomiting, and currant-jelly stools. What is the most likely diagnosis?",
+      "question": "Which is the most common histological type of thyroid carcinoma?",
       "options": [
-        "Intussusception",
-        "Appendicitis",
-        "Meckel diverticulum",
-        "Hirschsprung disease"
+        "Follicular carcinoma",
+        "Papillary carcinoma",
+        "Medullary carcinoma",
+        "Anaplastic carcinoma"
       ],
-      "correctAnswer": 0,
-      "explanation": "Currant-jelly stools (mixture of blood and mucus) are classic for intussusception, particularly in infants aged 6-36 months.",
+      "correctAnswer": 1,
+      "explanation": "Papillary thyroid carcinoma accounts for approximately 80% of all thyroid cancers, making it the most common histological subtype.",
       "difficulty": "medium"
     },
     {
       "id": 31,
-      "question": "What is the mechanism of resistance to vancomycin in Enterococci (VRE)?",
+      "question": "A 'cherry-red spot' on the macula is a classic ophthalmologic finding in an infant with which disease?",
       "options": [
-        "Altered penicillin-binding proteins",
-        "Production of beta-lactamase",
-        "Altered peptidoglycan precursors reducing drug binding",
-        "Efflux pumps"
+        "Gaucher's disease",
+        "Fabry disease",
+        "Tay-Sachs disease",
+        "Pompe disease"
       ],
       "correctAnswer": 2,
-      "explanation": "Vancomycin-resistant Enterococci acquire genes (vanA/B) that alter the D-alanine-D-alanine terminus of peptidoglycan to D-alanine-D-lactate, decreasing vancomycin affinity.",
+      "explanation": "In Tay-Sachs disease (hexosaminidase A deficiency), lipid accumulation in the retinal ganglion cells leaves the normal central fovea appearing as a prominent cherry-red spot.",
       "difficulty": "medium"
     },
     {
       "id": 32,
-      "question": "Which of the following is the most common causative organism of acute otitis media in children?",
+      "question": "Courvoisier's law, characterized by a palpable, non-tender gallbladder with progressive jaundice, is highly suggestive of what condition?",
       "options": [
-        "Haemophilus influenzae",
-        "Streptococcus pneumoniae",
-        "Moraxella catarrhalis",
-        "Staphylococcus aureus"
+        "Choledocholithiasis",
+        "Acute cholecystitis",
+        "Hepatocellular carcinoma",
+        "Carcinoma of the head of pancreas"
       ],
-      "correctAnswer": 1,
-      "explanation": "Streptococcus pneumoniae is the most common bacterial pathogen in acute otitis media, followed by Haemophilus influenzae.",
+      "correctAnswer": 3,
+      "explanation": "Courvoisier's law states that in a jaundiced patient, a palpable, non-tender gallbladder is unlikely to be due to gallstones and strongly points toward an obstructing pancreatic or biliary malignancy.",
       "difficulty": "medium"
     },
     {
       "id": 33,
-      "question": "Which of the following statements about the menstrual cycle is correct?",
+      "question": "The presence of hypersegmented neutrophils on a peripheral blood smear is strongly indicative of what type of anemia?",
       "options": [
-        "Ovulation occurs on day 14 in all women",
-        "The luteal phase is longer than the follicular phase",
-        "Follicle-stimulating hormone (FSH) surge triggers ovulation",
-        "The endometrium is thickest during the secretory phase"
+        "Megaloblastic anemia",
+        "Iron deficiency anemia",
+        "Lead poisoning",
+        "Thalassemia"
       ],
-      "correctAnswer": 3,
-      "explanation": "The endometrium reaches maximal thickness during the secretory (progesterone-dominant) phase in preparation for implantation.",
+      "correctAnswer": 0,
+      "explanation": "Hypersegmented neutrophils (having 5 or more lobes) are a hallmark morphological finding in megaloblastic anemias caused by B12 or folate deficiency.",
       "difficulty": "medium"
     },
     {
       "id": 34,
-      "question": "Which of the following is the most common cause of hyperkalemia in hospitalized patients?",
+      "question": "A surge in which hormone directly triggers ovulation in the female menstrual cycle?",
       "options": [
-        "Excessive potassium intake",
-        "Renin-angiotensin-aldosterone system (RAAS) inhibitors",
-        "Adrenal insufficiency",
-        "Rhabdomyolysis"
+        "Follicle-Stimulating Hormone (FSH)",
+        "Luteinizing Hormone (LH)",
+        "Estrogen",
+        "Progesterone"
       ],
       "correctAnswer": 1,
-      "explanation": "RAAS inhibitors (ACE inhibitors, ARBs, spironolactone) reduce potassium excretion and are a frequent cause of hyperkalemia in hospitalized patients.",
+      "explanation": "The LH surge, which occurs approximately 24 to 36 hours before ovulation, provides the direct hormonal stimulus for the release of the ovum.",
       "difficulty": "medium"
     },
     {
       "id": 35,
-      "question": "What is the normal intracranial pressure (ICP) in adults?",
+      "question": "Which specific organism is the most common causative agent of gas gangrene (clostridial myonecrosis)?",
       "options": [
-        "0-5 mmHg",
-        "5-15 mmHg",
-        "15-25 mmHg",
-        "25-35 mmHg"
+        "Staphylococcus aureus",
+        "Streptococcus pyogenes",
+        "Clostridium perfringens",
+        "Pseudomonas aeruginosa"
       ],
-      "correctAnswer": 1,
-      "explanation": "Normal ICP in adults is 5-15 mmHg when measured in the lateral decubitus position. Values >20 mmHg are considered elevated.",
+      "correctAnswer": 2,
+      "explanation": "Clostridium perfringens is an anaerobic, spore-forming bacillus that produces toxins causing rapid tissue necrosis and gas formation, leading to gas gangrene.",
       "difficulty": "medium"
     },
     {
       "id": 36,
-      "question": "Which of the following is the most common cause of testicular neoplasm in young men?",
+      "question": "What is the most common anatomical site for an ectopic pregnancy to implant?",
       "options": [
-        "Leydig cell tumor",
-        "Sertoli cell tumor",
-        "Germ cell tumor (seminoma)",
-        "Lymphoma"
+        "Ovary",
+        "Cervix",
+        "Abdominal cavity",
+        "Ampulla of the fallopian tube"
       ],
-      "correctAnswer": 2,
-      "explanation": "Germ cell tumors account for >95% of testicular neoplasms, with seminoma being the most common subtype in men aged 20-40.",
+      "correctAnswer": 3,
+      "explanation": "Over 90% of ectopic pregnancies occur in the fallopian tube, with the ampullary segment being the most frequent site of implantation.",
       "difficulty": "medium"
     },
     {
       "id": 37,
-      "question": "A patient with chronic liver disease presents with asterixis and encephalopathy. Which precipitating factor is most common?",
+      "question": "An 'apple core' lesion visualized on a barium enema is classically associated with which pathology?",
       "options": [
-        "Hypokalemia",
-        "Alkalosis",
-        "Infection",
-        "Hyponatremia"
+        "Colorectal carcinoma",
+        "Crohn's disease",
+        "Ulcerative colitis",
+        "Diverticulitis"
       ],
-      "correctAnswer": 2,
-      "explanation": "Infection (e.g., spontaneous bacterial peritonitis, urinary tract infection) is the most common precipitant of hepatic encephalopathy in cirrhosis.",
+      "correctAnswer": 0,
+      "explanation": "The 'apple core' sign represents a stricture typically caused by an annular constricting colorectal carcinoma narrowing the colonic lumen.",
       "difficulty": "medium"
     },
     {
       "id": 38,
-      "question": "What is the mechanism of action of heparin?",
+      "question": "What is the primary first-line drug for the treatment of childhood absence seizures?",
       "options": [
-        "Inhibits thrombin directly",
-        "Activates antithrombin III",
-        "Inhibits vitamin K epoxide reductase",
-        "Blocks platelet GPIIb/IIIa"
+        "Phenytoin",
+        "Ethosuximide",
+        "Carbamazepine",
+        "Diazepam"
       ],
       "correctAnswer": 1,
-      "explanation": "Heparin binds to antithrombin III, accelerating its inactivation of thrombin (factor IIa) and factor Xa.",
+      "explanation": "Ethosuximide blocks T-type calcium channels in the thalamus and is highly effective and specific for treating absence seizures.",
       "difficulty": "medium"
     },
     {
       "id": 39,
-      "question": "Which of the following is the most common location for duodenal ulcers?",
+      "question": "Which specific type of cast found in a urinalysis is considered pathognomonic for acute tubular necrosis (ATN)?",
       "options": [
-        "First part",
-        "Second part",
-        "Third part",
-        "Fourth part"
+        "RBC casts",
+        "WBC casts",
+        "Muddy brown granular casts",
+        "Hyaline casts"
       ],
-      "correctAnswer": 1,
-      "explanation": "Over 95% of duodenal ulcers occur in the first portion (cap) of the duodenum, just beyond the pylorus.",
+      "correctAnswer": 2,
+      "explanation": "Muddy brown granular casts are formed from sloughed necrotic tubular epithelial cells and are the classic hallmark of acute tubular necrosis.",
       "difficulty": "medium"
     },
     {
       "id": 40,
-      "question": "Which of the following is the most common cause of dementia in the elderly?",
+      "question": "What is the most common organism responsible for community-acquired atypical pneumonia?",
       "options": [
-        "Vascular dementia",
-        "Lewy body dementia",
-        "Alzheimer's disease",
-        "Frontotemporal dementia"
+        "Streptococcus pneumoniae",
+        "Haemophilus influenzae",
+        "Klebsiella pneumoniae",
+        "Mycoplasma pneumoniae"
       ],
-      "correctAnswer": 2,
-      "explanation": "Alzheimer's disease accounts for 60-80% of dementia cases in individuals over 65 years of age.",
+      "correctAnswer": 3,
+      "explanation": "Mycoplasma pneumoniae lacks a cell wall and is the leading cause of 'walking pneumonia', an atypical presentation of community-acquired pneumonia.",
       "difficulty": "medium"
     },
     {
       "id": 41,
-      "question": "A 30-year-old woman presents with recurrent miscarriages and livedo reticularis. Laboratory studies show prolonged aPTT that does not correct with mixing. Which antibody is most likely present?",
+      "question": "Which interleukin is primarily responsible for the recruitment, activation, and survival of eosinophils in asthma pathogenesis?",
       "options": [
-        "Antinuclear antibody (ANA)",
-        "Anti-dsDNA antibody",
-        "Lupus anticoagulant",
-        "Anti-cardiolipin IgG"
+        "IL-5",
+        "IL-2",
+        "IL-8",
+        "IL-10"
       ],
-      "correctAnswer": 2,
-      "explanation": "Lupus anticoagulant (part of antiphospholipid syndrome) causes a prolonged aPTT that does not correct with mixing due to phospholipid-binding antibodies.",
+      "correctAnswer": 0,
+      "explanation": "Interleukin-5 (IL-5) is the major cytokine involved in eosinophil differentiation and recruitment, making it a target for biological therapies in severe asthma.",
       "difficulty": "hard"
     },
     {
       "id": 42,
-      "question": "Which of the following is the most specific immunohistochemical marker for hepatocellular carcinoma?",
+      "question": "What is the specific genetic defect associated with Chediak-Higashi syndrome?",
       "options": [
-        "CK7",
-        "HepPar-1",
-        "AFP",
-        "CD10"
+        "WAS gene mutation",
+        "LYST gene mutation",
+        "ATM gene mutation",
+        "BTK gene mutation"
       ],
       "correctAnswer": 1,
-      "explanation": "HepPar-1 (hepatocyte paraffin 1) is a highly sensitive and specific marker for hepatocellular carcinoma, although AFP is a serum marker.",
+      "explanation": "Chediak-Higashi syndrome is caused by an autosomal recessive mutation in the LYST gene, leading to defective lysosomal trafficking and giant granules in leukocytes.",
       "difficulty": "hard"
     },
     {
       "id": 43,
-      "question": "What is the mechanism of action of rituximab?",
+      "question": "Call-Exner bodies are the classic histological hallmark of which specific type of ovarian tumor?",
       "options": [
-        "Binds CD25 and inhibits IL-2",
-        "Binds CD20 and induces B-cell lysis",
-        "Binds CD3 and activates T cells",
-        "Binds TNF-alpha"
+        "Dysgerminoma",
+        "Yolk sac tumor",
+        "Granulosa cell tumor",
+        "Krukenberg tumor"
       ],
-      "correctAnswer": 1,
-      "explanation": "Rituximab is a chimeric monoclonal antibody against CD20, leading to B-cell depletion via complement-dependent cytotoxicity and apoptosis.",
+      "correctAnswer": 2,
+      "explanation": "Call-Exner bodies are small, gland-like structures filled with eosinophilic material, pathognomonic for granulosa cell tumors of the ovary.",
       "difficulty": "hard"
     },
     {
       "id": 44,
-      "question": "Which of the following is the most common genetic alteration in colorectal cancer?",
+      "question": "What is the precise mechanism of action of Omalizumab in the management of severe, uncontrolled asthma?",
       "options": [
-        "KRAS mutation",
-        "TP53 mutation",
-        "APC mutation",
-        "BRAF V600E"
+        "Leukotriene receptor antagonist",
+        "Mast cell stabilizer",
+        "Anti-IL-5 antibody",
+        "Anti-IgE monoclonal antibody"
       ],
-      "correctAnswer": 2,
-      "explanation": "APC gene mutation is the earliest and most common alteration in the adenoma-carcinoma sequence of colorectal cancer, present in ~70-80% of sporadic cases.",
+      "correctAnswer": 3,
+      "explanation": "Omalizumab binds to free IgE in the serum, preventing it from attaching to mast cells and basophils, thereby blocking the allergic inflammatory cascade.",
       "difficulty": "hard"
     },
     {
       "id": 45,
-      "question": "A patient presents with progressive dysphagia to solids only, weight loss, and endoscopic findings of a distal esophageal stricture with mucosal irregularity. Biopsy shows malignant glands invading the stroma. What is the most likely diagnosis?",
+      "question": "Electron microscopy in a patient with Minimal Change Disease characteristically shows which of the following findings?",
       "options": [
-        "Achalasia",
-        "Diffuse esophageal spasm",
-        "Esophageal adenocarcinoma",
-        "Barrett esophagus without dysplasia"
+        "Podocyte foot process effacement",
+        "Subepithelial immune complex humps",
+        "Tram-track appearance of basement membrane",
+        "Linear IgG deposition"
       ],
-      "correctAnswer": 2,
-      "explanation": "Progressive dysphagia to solids, weight loss, and malignant glands in the distal esophagus are characteristic of esophageal adenocarcinoma, often arising in Barrett esophagus.",
+      "correctAnswer": 0,
+      "explanation": "While light microscopy appears normal, electron microscopy reveals diffuse effacement (fusion) of podocyte foot processes, the defining lesion of Minimal Change Disease.",
       "difficulty": "hard"
     },
     {
       "id": 46,
-      "question": "Which of the following is the most common cause of acute viral encephalitis in immunocompetent adults in the United States?",
+      "question": "What is the recognized pharmacological treatment of choice to slow disease progression in Primary Biliary Cholangitis (PBC)?",
       "options": [
-        "Enterovirus",
-        "Herpes simplex virus type 1 (HSV-1)",
-        "West Nile virus",
-        "Varicella-zoster virus"
+        "Corticosteroids",
+        "Ursodeoxycholic acid",
+        "Interferon-alpha",
+        "D-penicillamine"
       ],
       "correctAnswer": 1,
-      "explanation": "HSV-1 is the most common cause of sporadic acute encephalitis in immunocompetent adults in the US, with predilection for temporal lobes.",
+      "explanation": "Ursodeoxycholic acid (UDCA) is a hydrophilic bile acid that improves biliary secretion and is the first-line therapy to delay progression in PBC.",
       "difficulty": "hard"
     },
     {
       "id": 47,
-      "question": "What is the mechanism of action of imatinib in gastrointestinal stromal tumor (GIST)?",
+      "question": "Pompe disease (Glycogen storage disease type II) is caused by the systemic deficiency of which specific enzyme?",
       "options": [
-        "Inhibits VEGF receptor",
-        "Inhibits BCR-ABL tyrosine kinase",
-        "Inhibits c-KIT tyrosine kinase",
-        "Inhibits EGFR"
+        "Glucose-6-phosphatase",
+        "Debranching enzyme",
+        "Acid alpha-glucosidase",
+        "Muscle phosphorylase"
       ],
       "correctAnswer": 2,
-      "explanation": "Imatinib inhibits the constitutively active c-KIT tyrosine kinase receptor, which is mutated in the majority of GISTs, leading to apoptosis of tumor cells.",
+      "explanation": "Pompe disease results from a deficiency of lysosomal acid alpha-glucosidase (acid maltase), leading to pathological glycogen accumulation, especially in cardiac and skeletal muscle.",
       "difficulty": "hard"
     },
     {
       "id": 48,
-      "question": "A 55-year-old man with type 2 diabetes presents with mononeuropathy multiplex affecting the peroneal and ulnar nerves. What is the most likely underlying pathophysiologic mechanism?",
+      "question": "Which of the following is the most common congenital cardiac anomaly associated with Turner syndrome?",
       "options": [
-        "Axonal degeneration due to metabolic insufficiency",
-        "Demyelination due to autoimmune attack",
-        "Ischemic microvascular injury to nerves",
-        "Direct toxic effect of hyperglycemia on axons"
+        "Ventricular septal defect",
+        "Atrial septal defect",
+        "Tetralogy of Fallot",
+        "Bicuspid aortic valve"
       ],
-      "correctAnswer": 2,
-      "explanation": "Mononeuropathy multiplex in diabetes results from ischemic infarction of nerve segments due to microvascular vasculitis (vasorum), not purely metabolic toxicity.",
+      "correctAnswer": 3,
+      "explanation": "While coarctation of the aorta is highly characteristic, the bicuspid aortic valve is the most frequently occurring cardiovascular defect in patients with Turner syndrome.",
       "difficulty": "hard"
     },
     {
       "id": 49,
-      "question": "Which of the following is the most common cause of congenital long QT syndrome?",
+      "question": "Which autoantibody is considered most highly specific for the diagnosis of diffuse systemic sclerosis (scleroderma)?",
       "options": [
-        "Mutation in KCNH2 (hERG) gene",
-        "Mutation in KCNQ1 gene",
-        "Mutation in SCN5A gene",
-        "Mutation in ANK2 gene"
+        "Anti-Scl-70 (Anti-topoisomerase I)",
+        "Anti-centromere antibody",
+        "Anti-Ro/SSA",
+        "Anti-Jo-1"
       ],
-      "correctAnswer": 1,
-      "explanation": "Mutations in KCNQ1 (LQT1) account for approximately 30-35% of congenital long QT syndrome cases, making it the most common genetic cause.",
+      "correctAnswer": 0,
+      "explanation": "Anti-Scl-70 (anti-topoisomerase I) antibodies are highly specific for diffuse cutaneous systemic sclerosis and correlate with a higher risk of interstitial lung disease.",
       "difficulty": "hard"
     },
     {
       "id": 50,
-      "question": "What is the mechanism of action of aspirin as an antiplatelet agent?",
+      "question": "A massive 'water bottle' heart appearance on a standard chest X-ray is most indicative of which condition?",
       "options": [
-        "Blocks ADP receptors",
-        "Inhibits thromboxane A2 synthesis via COX-1 inhibition",
-        "Inhibits thrombin directly",
-        "Activates plasminogen"
+        "Left ventricular hypertrophy",
+        "Pericardial effusion",
+        "Dilated cardiomyopathy",
+        "Tetralogy of Fallot"
       ],
       "correctAnswer": 1,
-      "explanation": "Aspirin irreversibly inhibits cyclooxygenase-1 (COX-1) in platelets, reducing thromboxane A2 formation and thus platelet aggregation.",
+      "explanation": "A large pericardial effusion causes uniform enlargement of the cardiac silhouette on a chest radiograph, classically described as resembling a water bottle.",
       "difficulty": "hard"
     }
   ]
