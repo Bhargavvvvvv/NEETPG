@@ -2,652 +2,652 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following is the most common cause of community-acquired pneumonia in adults?",
+      "question": "What is the normal hemoglobin range for adult males?",
       "options": [
-        "Streptococcus pneumoniae",
-        "Haemophilus influenzae",
-        "Mycoplasma pneumoniae",
-        "Staphylococcus aureus"
+        "10-12 g/dL",
+        "13-17 g/dL",
+        "7-9 g/dL",
+        "18-22 g/dL"
       ],
-      "correctAnswer": 0,
-      "explanation": "Streptococcus pneumoniae is the most common bacterial cause of community-acquired pneumonia in adults, accounting for approximately 30-50% of cases.",
+      "correctAnswer": 1,
+      "explanation": "Normal hemoglobin range for adult males is 13-17 g/dL. For females, it is 12-15 g/dL.",
       "difficulty": "easy"
     },
     {
       "id": 2,
-      "question": "What is the normal range for serum potassium levels?",
+      "question": "Which of the following is the most common cause of acute appendicitis?",
       "options": [
-        "4.0-5.5 mEq/L",
-        "3.5-5.0 mEq/L",
-        "2.5-4.0 mEq/L",
-        "5.0-6.5 mEq/L"
+        "Fecalith obstruction",
+        "Bacterial infection",
+        "Viral infection",
+        "Parasitic infestation"
       ],
-      "correctAnswer": 1,
-      "explanation": "The normal serum potassium level ranges from 3.5 to 5.0 mEq/L. Values below 3.5 indicate hypokalemia, while values above 5.0 indicate hyperkalemia.",
+      "correctAnswer": 0,
+      "explanation": "Obstruction of the appendiceal lumen, most commonly by a fecalith, leads to inflammation and acute appendicitis.",
       "difficulty": "easy"
     },
     {
       "id": 3,
-      "question": "Which vitamin deficiency causes night blindness?",
+      "question": "Which vitamin is essential for the synthesis of clotting factors?",
       "options": [
-        "Vitamin B12",
-        "Vitamin C",
         "Vitamin A",
-        "Vitamin D"
+        "Vitamin D",
+        "Vitamin K",
+        "Vitamin E"
       ],
       "correctAnswer": 2,
-      "explanation": "Vitamin A deficiency is the primary cause of night blindness (nyctalopia) as it is essential for the synthesis of rhodopsin, a pigment in the retina necessary for low-light vision.",
+      "explanation": "Vitamin K is required for the gamma-carboxylation of clotting factors II, VII, IX, and X.",
       "difficulty": "easy"
     },
     {
       "id": 4,
-      "question": "What is the normal adult human heart rate at rest?",
+      "question": "What is the normal fasting blood glucose level?",
       "options": [
-        "40-60 beats per minute",
-        "100-120 beats per minute",
-        "120-140 beats per minute",
-        "60-100 beats per minute"
+        "60-80 mg/dL",
+        "70-100 mg/dL",
+        "100-125 mg/dL",
+        "126-140 mg/dL"
       ],
-      "correctAnswer": 3,
-      "explanation": "The normal resting heart rate for adults ranges from 60 to 100 beats per minute. Rates below 60 are considered bradycardia, while rates above 100 are tachycardia.",
+      "correctAnswer": 1,
+      "explanation": "Normal fasting plasma glucose is 70-100 mg/dL. 100-125 mg/dL indicates prediabetes, and ≥126 mg/dL indicates diabetes.",
       "difficulty": "easy"
     },
     {
       "id": 5,
-      "question": "Which of the following is NOT a symptom of diabetes mellitus?",
+      "question": "Which is the most common site for osteosarcoma?",
       "options": [
-        "Weight gain",
-        "Polyuria",
-        "Polydipsia",
-        "Polyphagia"
+        "Distal femur",
+        "Proximal humerus",
+        "Ribs",
+        "Vertebrae"
       ],
       "correctAnswer": 0,
-      "explanation": "The classic triad of diabetes mellitus symptoms includes polyuria (excessive urination), polydipsia (excessive thirst), and polyphagia (excessive hunger). Weight loss, not weight gain, is typical in uncontrolled diabetes due to inability to utilize glucose.",
+      "explanation": "Osteosarcoma most commonly occurs around the knee, particularly the distal femur and proximal tibia.",
       "difficulty": "easy"
     },
     {
       "id": 6,
-      "question": "What is the universal donor blood type?",
+      "question": "Which hormone stimulates gallbladder contraction?",
       "options": [
-        "AB positive",
-        "O negative",
-        "A negative",
-        "B positive"
+        "Secretin",
+        "Cholecystokinin (CCK)",
+        "Gastrin",
+        "Insulin"
       ],
       "correctAnswer": 1,
-      "explanation": "O negative blood type is considered the universal donor for red blood cells because it lacks A, B, and Rh antigens, making it compatible with all other blood types in emergencies.",
+      "explanation": "Cholecystokinin (CCK) is released by the intestine in response to fats and proteins, causing gallbladder contraction and pancreatic enzyme secretion.",
       "difficulty": "easy"
     },
     {
       "id": 7,
-      "question": "Which part of the brain is primarily responsible for regulating body temperature?",
+      "question": "What is the normal platelet count range?",
       "options": [
-        "Cerebellum",
-        "Thalamus",
-        "Hypothalamus",
-        "Medulla oblongata"
+        "50,000-150,000/mm³",
+        "150,000-450,000/mm³",
+        "450,000-650,000/mm³",
+        "650,000-850,000/mm³"
       ],
-      "correctAnswer": 2,
-      "explanation": "The hypothalamus acts as the body's thermostat, regulating body temperature through mechanisms like sweating, shivering, and vasodilation/constriction.",
+      "correctAnswer": 1,
+      "explanation": "Normal platelet count is 150,000 to 450,000 per mm³. Values below 150,000 indicate thrombocytopenia.",
       "difficulty": "easy"
     },
     {
       "id": 8,
-      "question": "What is the normal pH range of arterial blood?",
+      "question": "Which ECG lead best views the lateral wall of the left ventricle?",
       "options": [
-        "7.00-7.35",
-        "7.45-7.55",
-        "7.20-7.35",
-        "7.35-7.45"
+        "Lead II",
+        "Lead aVF",
+        "Lead V1",
+        "Lead I and aVL"
       ],
       "correctAnswer": 3,
-      "explanation": "The normal arterial blood pH range is 7.35 to 7.45. Values below 7.35 indicate acidosis, while values above 7.45 indicate alkalosis.",
+      "explanation": "Leads I, aVL, V5, and V6 examine the lateral wall of the left ventricle.",
       "difficulty": "easy"
     },
     {
       "id": 9,
-      "question": "Which of the following is the most common site for ectopic pregnancy?",
+      "question": "Which of the following is NOT a symptom of hyperthyroidism?",
       "options": [
-        "Fallopian tube",
-        "Ovary",
-        "Cervix",
-        "Abdominal cavity"
+        "Weight loss",
+        "Heat intolerance",
+        "Bradycardia",
+        "Tremor"
       ],
-      "correctAnswer": 0,
-      "explanation": "Over 95% of ectopic pregnancies occur in the fallopian tube, most commonly in the ampullary portion.",
+      "correctAnswer": 2,
+      "explanation": "Hyperthyroidism causes tachycardia, not bradycardia. Other symptoms include weight loss, heat intolerance, and tremor.",
       "difficulty": "easy"
     },
     {
       "id": 10,
-      "question": "What is the primary neurotransmitter involved in Parkinson's disease?",
+      "question": "What is the most common cause of viral hepatitis worldwide?",
       "options": [
-        "Serotonin",
-        "Dopamine",
-        "Acetylcholine",
-        "GABA"
+        "Hepatitis A virus",
+        "Hepatitis B virus",
+        "Hepatitis C virus",
+        "Hepatitis E virus"
       ],
       "correctAnswer": 1,
-      "explanation": "Parkinson's disease is characterized by the degeneration of dopamine-producing neurons in the substantia nigra, leading to dopamine deficiency in the basal ganglia.",
+      "explanation": "Hepatitis B virus is the most common cause of viral hepatitis globally, with over 250 million chronic carriers.",
       "difficulty": "easy"
     },
     {
       "id": 11,
-      "question": "Which immunoglobulin is primarily responsible for allergic reactions?",
+      "question": "Which lymphocyte is primarily responsible for humoral immunity?",
       "options": [
-        "IgG",
-        "IgM",
-        "IgE",
-        "IgA"
+        "T lymphocyte",
+        "Natural killer cell",
+        "B lymphocyte",
+        "Macrophage"
       ],
       "correctAnswer": 2,
-      "explanation": "IgE is the immunoglobulin class primarily responsible for mediating allergic reactions and hypersensitivity responses by binding to mast cells and basophils.",
+      "explanation": "B lymphocytes differentiate into plasma cells that produce antibodies, mediating humoral immunity.",
       "difficulty": "easy"
     },
     {
       "id": 12,
-      "question": "What is the normal duration of PR interval on an ECG?",
+      "question": "What is the normal respiratory exchange ratio (RER) at rest?",
       "options": [
-        "0.20-0.30 seconds",
-        "0.08-0.12 seconds",
-        "0.30-0.40 seconds",
-        "0.12-0.20 seconds"
+        "0.5",
+        "0.7",
+        "0.8",
+        "1.0"
       ],
-      "correctAnswer": 3,
-      "explanation": "The normal PR interval on an ECG ranges from 0.12 to 0.20 seconds (3-5 small squares), representing the time from atrial depolarization to ventricular depolarization.",
+      "correctAnswer": 2,
+      "explanation": "At rest, the respiratory exchange ratio (VCO2/VO2) is approximately 0.8, reflecting a mix of carbohydrate and fat metabolism.",
       "difficulty": "easy"
     },
     {
       "id": 13,
-      "question": "Which vitamin is essential for blood clotting?",
+      "question": "Which of the following is the most common congenital heart defect?",
       "options": [
-        "Vitamin K",
-        "Vitamin C",
-        "Vitamin E",
-        "Vitamin B6"
+        "Ventricular septal defect",
+        "Atrial septal defect",
+        "Patent ductus arteriosus",
+        "Tetralogy of Fallot"
       ],
       "correctAnswer": 0,
-      "explanation": "Vitamin K is essential for the synthesis of clotting factors II, VII, IX, and X in the liver. Deficiency leads to impaired coagulation and bleeding tendencies.",
+      "explanation": "Ventricular septal defect (VSD) is the most common congenital heart defect, accounting for about 30% of cases.",
       "difficulty": "easy"
     },
     {
       "id": 14,
-      "question": "What is the most common cause of maternal mortality worldwide?",
+      "question": "Which antibiotic is contraindicated in children under 8 years due to teeth discoloration?",
       "options": [
-        "Preeclampsia",
-        "Postpartum hemorrhage",
-        "Infection",
-        "Obstructed labor"
+        "Amoxicillin",
+        "Ciprofloxacin",
+        "Tetracycline",
+        "Azithromycin"
       ],
-      "correctAnswer": 1,
-      "explanation": "Postpartum hemorrhage is the leading cause of maternal mortality globally, accounting for approximately 27% of maternal deaths.",
+      "correctAnswer": 2,
+      "explanation": "Tetracyclines bind to developing dental calcium, causing permanent yellow-gray-brown discoloration of teeth in children under 8.",
       "difficulty": "easy"
     },
     {
       "id": 15,
-      "question": "Which of the following is NOT a component of the Glasgow Coma Scale?",
+      "question": "What is the mechanism of action of omeprazole?",
       "options": [
-        "Eye opening",
-        "Verbal response",
-        "Pupillary response",
-        "Motor response"
+        "H2 receptor antagonist",
+        "Prokinetic agent",
+        "Proton pump inhibitor",
+        "Mucosal protectant"
       ],
       "correctAnswer": 2,
-      "explanation": "The Glasgow Coma Scale assesses three components: eye opening, verbal response, and motor response. Pupillary response is assessed separately but is not part of the GCS score.",
+      "explanation": "Omeprazole irreversibly inhibits the H+/K+ ATPase (proton pump) of gastric parietal cells, reducing acid secretion.",
       "difficulty": "easy"
     },
     {
       "id": 16,
-      "question": "What is the normal range for systolic blood pressure in adults?",
+      "question": "Which of the following is the most common cause of pulmonary hypertension?",
       "options": [
-        "120-140 mmHg",
-        "140-160 mmHg",
-        "160-180 mmHg",
-        "90-120 mmHg"
+        "Left heart disease",
+        "Chronic thromboembolic disease",
+        "HIV infection",
+        "Idiopathic"
       ],
-      "correctAnswer": 3,
-      "explanation": "Normal systolic blood pressure in adults ranges from 90 to 120 mmHg. Values of 120-129 are considered elevated, and 130-139 mmHg is stage 1 hypertension.",
+      "correctAnswer": 0,
+      "explanation": "Left heart disease (e.g., systolic or diastolic dysfunction) is the most common cause of pulmonary hypertension, termed Group 2 PH.",
       "difficulty": "easy"
     },
     {
       "id": 17,
-      "question": "Which hormone is primarily responsible for regulating blood calcium levels?",
+      "question": "What is the normal range for serum creatinine in adult men?",
       "options": [
-        "Parathyroid hormone (PTH)",
-        "Thyroid hormone",
-        "Insulin",
-        "Cortisol"
+        "0.2-0.4 mg/dL",
+        "0.6-1.2 mg/dL",
+        "1.5-2.0 mg/dL",
+        "2.2-2.8 mg/dL"
       ],
-      "correctAnswer": 0,
-      "explanation": "Parathyroid hormone (PTH) is the primary regulator of blood calcium levels, increasing calcium reabsorption in kidneys, stimulating vitamin D activation, and promoting calcium release from bones.",
+      "correctAnswer": 1,
+      "explanation": "Normal serum creatinine for adult men is approximately 0.6-1.2 mg/dL; for women, 0.5-1.1 mg/dL.",
       "difficulty": "easy"
     },
     {
       "id": 18,
-      "question": "What is the most common cause of acute pancreatitis?",
+      "question": "Which of the following vitamins is synthesized by skin upon exposure to sunlight?",
       "options": [
-        "Alcohol",
-        "Gallstones",
-        "Hypertriglyceridemia",
-        "Medications"
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin E"
       ],
-      "correctAnswer": 1,
-      "explanation": "Gallstones are the most common cause of acute pancreatitis, accounting for approximately 40-70% of cases, followed by alcohol use (25-35%).",
+      "correctAnswer": 2,
+      "explanation": "Vitamin D3 (cholecalciferol) is synthesized in the skin from 7-dehydrocholesterol upon UVB radiation.",
       "difficulty": "easy"
     },
     {
       "id": 19,
-      "question": "Which blood test is used to monitor long-term glucose control in diabetes?",
+      "question": "Which of the following is NOT a type of hypersensitivity reaction?",
       "options": [
-        "Fasting glucose",
-        "Oral glucose tolerance test",
-        "HbA1c",
-        "Random glucose"
+        "Type I (IgE-mediated)",
+        "Type II (cytotoxic)",
+        "Type IV (delayed-type)",
+        "Type V (stimulatory)"
       ],
-      "correctAnswer": 2,
-      "explanation": "HbA1c (glycated hemoglobin) reflects average blood glucose levels over the past 2-3 months and is used to monitor long-term glucose control in diabetes management.",
+      "correctAnswer": 3,
+      "explanation": "The Gell and Coombs classification includes Types I, II, III, and IV. Type V is not a standard hypersensitivity category.",
       "difficulty": "easy"
     },
     {
       "id": 20,
-      "question": "What is the normal respiratory rate for adults at rest?",
+      "question": "What is the most common cause of community-acquired pneumonia in elderly patients?",
       "options": [
-        "8-12 breaths per minute",
-        "20-28 breaths per minute",
-        "28-35 breaths per minute",
-        "12-20 breaths per minute"
+        "Streptococcus pneumoniae",
+        "Staphylococcus aureus",
+        "Klebsiella pneumoniae",
+        "Pseudomonas aeruginosa"
       ],
-      "correctAnswer": 3,
-      "explanation": "The normal respiratory rate for adults at rest ranges from 12 to 20 breaths per minute. Rates below 12 are bradypnea, while rates above 20 are tachypnea.",
+      "correctAnswer": 0,
+      "explanation": "Streptococcus pneumoniae remains the most common cause of community-acquired pneumonia across all adult age groups, including the elderly.",
       "difficulty": "easy"
     },
     {
       "id": 21,
-      "question": "A 45-year-old man presents with sudden onset of severe headache, neck stiffness, and photophobia. CSF analysis shows elevated opening pressure, lymphocytic pleocytosis, elevated protein, and decreased glucose. What is the most likely diagnosis?",
+      "question": "A 50-year-old man presents with crushing substernal chest pain radiating to the left arm, diaphoresis, and nausea. ECG shows ST-segment elevation in leads II, III, and aVF. Which artery is most likely occluded?",
       "options": [
-        "Tuberculous meningitis",
-        "Bacterial meningitis",
-        "Viral meningitis",
-        "Subarachnoid hemorrhage"
+        "Left anterior descending (LAD)",
+        "Left circumflex (LCx)",
+        "Right coronary artery (RCA)",
+        "Left main"
       ],
-      "correctAnswer": 0,
-      "explanation": "The CSF findings of lymphocytic pleocytosis, elevated protein, and decreased glucose are characteristic of tuberculous meningitis. Bacterial meningitis typically shows neutrophilic pleocytosis, while viral meningitis shows normal or slightly decreased glucose. Subarachnoid hemorrhage would show xanthochromia and RBCs in CSF.",
+      "correctAnswer": 2,
+      "explanation": "ST elevation in leads II, III, and aVF indicates infarction of the inferior wall of the left ventricle, typically due to occlusion of the right coronary artery.",
       "difficulty": "medium"
     },
     {
       "id": 22,
-      "question": "Which of the following is the most common genetic mutation associated with cystic fibrosis?",
+      "question": "Which of the following is the most specific diagnostic test for myasthenia gravis?",
       "options": [
-        "G551D",
-        "ΔF508",
-        "W1282X",
-        "N1303K"
+        "Edrophonium (Tensilon) test",
+        "Acetylcholine receptor antibody assay",
+        "Repetitive nerve stimulation",
+        "Chest CT for thymoma"
       ],
       "correctAnswer": 1,
-      "explanation": "The ΔF508 mutation (deletion of phenylalanine at position 508) accounts for approximately 70% of cystic fibrosis alleles worldwide and is the most common CFTR mutation.",
+      "explanation": "Detection of acetylcholine receptor antibodies is highly specific for myasthenia gravis, present in about 80-90% of generalized cases.",
       "difficulty": "medium"
     },
     {
       "id": 23,
-      "question": "A patient presents with hypertension, hypokalemia, metabolic alkalosis, and suppressed renin and aldosterone levels. Which condition is most likely?",
+      "question": "A patient with HIV presents with violaceous plaques on the palate and lower extremities. Biopsy shows spindle-shaped cells forming vascular slits. What is the diagnosis?",
       "options": [
-        "Cushing's syndrome",
-        "Liddle syndrome",
-        "Primary hyperaldosteronism",
-        "Bartter syndrome"
+        "Kaposi sarcoma",
+        "Basal cell carcinoma",
+        "Melanoma",
+        "Pyogenic granuloma"
       ],
-      "correctAnswer": 2,
-      "explanation": "Primary hyperaldosteronism (Conn's syndrome) presents with hypertension, hypokalemia, metabolic alkalosis, and suppressed renin due to autonomous aldosterone secretion. Liddle syndrome also presents similarly but with low aldosterone levels.",
+      "correctAnswer": 0,
+      "explanation": "Kaposi sarcoma, caused by HHV-8, appears as violaceous lesions and is common in HIV-infected individuals with low CD4 counts.",
       "difficulty": "medium"
     },
     {
       "id": 24,
-      "question": "What is the mechanism of action of metformin in type 2 diabetes mellitus?",
+      "question": "What is the mechanism of action of clopidogrel?",
       "options": [
-        "Increases insulin secretion from pancreatic beta cells",
-        "Inhibits intestinal glucose absorption",
-        "Increases glycogen synthesis in liver",
-        "Decreases hepatic glucose production and increases insulin sensitivity"
+        "Inhibits cyclooxygenase-1",
+        "Blocks glycoprotein IIb/IIIa receptors",
+        "Inhibits P2Y12 ADP receptor",
+        "Activates plasminogen"
       ],
-      "correctAnswer": 3,
-      "explanation": "Metformin primarily works by decreasing hepatic gluconeogenesis and increasing insulin sensitivity in peripheral tissues. It does not increase insulin secretion from pancreatic beta cells.",
+      "correctAnswer": 2,
+      "explanation": "Clopidogrel is a thienopyridine that irreversibly inhibits the P2Y12 ADP receptor on platelets, preventing aggregation.",
       "difficulty": "medium"
     },
     {
       "id": 25,
-      "question": "Which of the following statements about atrial fibrillation is correct?",
+      "question": "Which of the following is the most common cause of secondary amenorrhea in women of reproductive age?",
       "options": [
-        "It increases the risk of stroke primarily due to left atrial appendage thrombus formation",
-        "It is characterized by regular ventricular response",
-        "Digoxin is first-line for rate control in all patients",
-        "Electrical cardioversion is contraindicated in patients with AF >48 hours duration"
+        "Pregnancy",
+        "Polycystic ovary syndrome (PCOS)",
+        "Hyperprolactinemia",
+        "Thyroid dysfunction"
       ],
       "correctAnswer": 0,
-      "explanation": "Atrial fibrillation increases stroke risk due to blood stasis and thrombus formation in the left atrial appendage. Anticoagulation is crucial for stroke prevention. Rate control can be achieved with beta-blockers, calcium channel blockers, or digoxin (though digoxin has limitations). Cardioversion can be performed after appropriate anticoagulation.",
+      "explanation": "Pregnancy is the most common cause of secondary amenorrhea and must be ruled out first in any woman of reproductive age presenting with amenorrhea.",
       "difficulty": "medium"
     },
     {
       "id": 26,
-      "question": "A 65-year-old man with a 40-pack-year smoking history presents with progressive dyspnea on exertion and dry cough. Pulmonary function tests show decreased FVC, decreased FEV1, normal FEV1/FVC ratio, and decreased DLCO. What is the most likely diagnosis?",
+      "question": "A 65-year-old woman with osteoporosis presents with acute back pain after lifting a heavy object. X-ray shows a wedge compression fracture of T12. What is the most appropriate initial management?",
       "options": [
-        "Chronic obstructive pulmonary disease",
-        "Idiopathic pulmonary fibrosis",
-        "Asthma",
-        "Bronchiectasis"
+        "Bed rest for 6 weeks",
+        "Vertebroplasty",
+        "Bisphosphonate therapy",
+        "Calcitonin nasal spray"
       ],
-      "correctAnswer": 1,
-      "explanation": "The PFT pattern shows restrictive lung disease (decreased FVC and FEV1 with normal FEV1/FVC ratio) and decreased DLCO (diffusing capacity), which is characteristic of interstitial lung diseases like idiopathic pulmonary fibrosis. COPD would show obstructive pattern (reduced FEV1/FVC ratio).",
+      "correctAnswer": 2,
+      "explanation": "Bisphosphonates (e.g., alendronate) are first-line for osteoporosis to prevent further fractures. Pain control and mobilization are also important.",
       "difficulty": "medium"
     },
     {
       "id": 27,
-      "question": "Which of the following is the most common cause of secondary hypertension in young adults?",
+      "question": "Which of the following arterial blood gas findings is characteristic of acute respiratory acidosis?",
       "options": [
-        "Renal artery stenosis",
-        "Pheochromocytoma",
-        "Coarctation of aorta",
-        "Cushing's syndrome"
+        "pH ↓, PaCO2 ↑, HCO3− normal",
+        "pH ↑, PaCO2 ↓, HCO3− ↓",
+        "pH ↓, PaCO2 ↓, HCO3− ↓",
+        "pH ↑, PaCO2 ↑, HCO3− ↑"
       ],
-      "correctAnswer": 2,
-      "explanation": "Coarctation of the aorta is a common cause of secondary hypertension in young adults, typically presenting with upper extremity hypertension and diminished femoral pulses. Renal artery stenosis is more common in older adults with atherosclerotic risk factors.",
+      "correctAnswer": 0,
+      "explanation": "Acute respiratory acidosis shows decreased pH, increased PaCO2, and normal bicarbonate (no renal compensation yet).",
       "difficulty": "medium"
     },
     {
       "id": 28,
-      "question": "What is the Jerusalem classification used for?",
+      "question": "What is the most common cause of cushingoid state?",
       "options": [
-        "Staging of gastric cancer",
-        "Grading of esophageal varices",
-        "Classification of inflammatory bowel disease",
-        "Classification of pancreatitis severity"
+        "Pituitary adenoma",
+        "Adrenal tumor",
+        "Exogenous glucocorticoids",
+        "Ectopic ACTH"
       ],
-      "correctAnswer": 3,
-      "explanation": "The Jerusalem classification is used to grade the severity of acute pancreatitis based on clinical, laboratory, and radiographic findings. It categorizes pancreatitis as mild, moderate, or severe.",
+      "correctAnswer": 2,
+      "explanation": "Exogenous glucocorticoid use (e.g., prednisone) is the most frequent cause of Cushingoid features, surpassing endogenous causes.",
       "difficulty": "medium"
     },
     {
       "id": 29,
-      "question": "A patient on long-term corticosteroid therapy presents with avascular necrosis of the femoral head. Which of the following is the most appropriate preventive measure?",
+      "question": "Which of the following is the most sensitive early marker of myocardial infarction?",
       "options": [
-        "Limiting corticosteroid dose to <7.5 mg/day prednisone equivalent",
-        "Bisphosphonates",
-        "Calcium and vitamin D supplementation",
-        "Regular MRI screening"
+        "CK-MB",
+        "Troponin I",
+        "Myoglobin",
+        "LDH"
       ],
-      "correctAnswer": 0,
-      "explanation": "The risk of avascular necrosis is dose-dependent with corticosteroids. Limiting the dose to less than 7.5 mg/day of prednisone equivalent significantly reduces the risk. While bisphosphonates and calcium/vitamin D are used for osteoporosis prevention, they don't specifically prevent AVN.",
+      "correctAnswer": 1,
+      "explanation": "Cardiac troponin I (or T) rises within 3-4 hours of myocardial injury and is more specific and sensitive than CK-MB or myoglobin.",
       "difficulty": "medium"
     },
     {
       "id": 30,
-      "question": "Which of the following hormones stimulates osteoclast activity and bone resorption?",
+      "question": "A patient presents with abdominal pain, vomiting, and currant-jelly stools. What is the most likely diagnosis?",
       "options": [
-        "Calcitonin",
-        "Parathyroid hormone (PTH)",
-        "Vitamin D",
-        "Estrogen"
+        "Intussusception",
+        "Appendicitis",
+        "Meckel diverticulum",
+        "Hirschsprung disease"
       ],
-      "correctAnswer": 1,
-      "explanation": "Parathyroid hormone (PTH) stimulates osteoclast activity and bone resorption to increase serum calcium levels. Calcitonin inhibits osteoclasts, vitamin D promotes calcium absorption, and estrogen inhibits bone resorption.",
+      "correctAnswer": 0,
+      "explanation": "Currant-jelly stools (mixture of blood and mucus) are classic for intussusception, particularly in infants aged 6-36 months.",
       "difficulty": "medium"
     },
     {
       "id": 31,
-      "question": "What is the diagnostic criterion for diabetes mellitus based on HbA1c?",
+      "question": "What is the mechanism of resistance to vancomycin in Enterococci (VRE)?",
       "options": [
-        "≥6.0%",
-        "≥7.0%",
-        "≥6.5%",
-        "≥5.7%"
+        "Altered penicillin-binding proteins",
+        "Production of beta-lactamase",
+        "Altered peptidoglycan precursors reducing drug binding",
+        "Efflux pumps"
       ],
       "correctAnswer": 2,
-      "explanation": "According to ADA guidelines, diabetes mellitus is diagnosed when HbA1c is ≥6.5% (48 mmol/mol). Values between 5.7-6.4% indicate prediabetes.",
+      "explanation": "Vancomycin-resistant Enterococci acquire genes (vanA/B) that alter the D-alanine-D-alanine terminus of peptidoglycan to D-alanine-D-lactate, decreasing vancomycin affinity.",
       "difficulty": "medium"
     },
     {
       "id": 32,
-      "question": "Which of the following is NOT a feature of Marfan syndrome?",
+      "question": "Which of the following is the most common causative organism of acute otitis media in children?",
       "options": [
-        "Aortic root dilation",
-        "Pectus excavatum",
-        "Joint hypermobility",
-        "Intellectual disability"
+        "Haemophilus influenzae",
+        "Streptococcus pneumoniae",
+        "Moraxella catarrhalis",
+        "Staphylococcus aureus"
       ],
-      "correctAnswer": 3,
-      "explanation": "Marfan syndrome is a connective tissue disorder caused by fibrillin-1 gene mutation. Features include aortic root dilation, pectus deformities, joint hypermobility, and lens dislocation. Intellectual disability is not a feature of Marfan syndrome.",
+      "correctAnswer": 1,
+      "explanation": "Streptococcus pneumoniae is the most common bacterial pathogen in acute otitis media, followed by Haemophilus influenzae.",
       "difficulty": "medium"
     },
     {
       "id": 33,
-      "question": "What is the most common cause of heart failure in developed countries?",
+      "question": "Which of the following statements about the menstrual cycle is correct?",
       "options": [
-        "Isotropic heart disease",
-        "Valvular heart disease",
-        "Hypertension",
-        "Cardiomyopathy"
+        "Ovulation occurs on day 14 in all women",
+        "The luteal phase is longer than the follicular phase",
+        "Follicle-stimulating hormone (FSH) surge triggers ovulation",
+        "The endometrium is thickest during the secretory phase"
       ],
-      "correctAnswer": 0,
-      "explanation": "Ischemic heart disease (coronary artery disease) is the most common cause of heart failure in developed countries, followed by hypertension and valvular heart disease.",
+      "correctAnswer": 3,
+      "explanation": "The endometrium reaches maximal thickness during the secretory (progesterone-dominant) phase in preparation for implantation.",
       "difficulty": "medium"
     },
     {
       "id": 34,
-      "question": "A patient presents with painless progressive jaundice, palpable gallbladder (Courvoisier's sign), and weight loss. What is the most likely diagnosis?",
+      "question": "Which of the following is the most common cause of hyperkalemia in hospitalized patients?",
       "options": [
-        "Choledocholithiasis",
-        "Pancreatic head carcinoma",
-        "Acute cholecystitis",
-        "Hepatitis"
+        "Excessive potassium intake",
+        "Renin-angiotensin-aldosterone system (RAAS) inhibitors",
+        "Adrenal insufficiency",
+        "Rhabdomyolysis"
       ],
       "correctAnswer": 1,
-      "explanation": "Courvoisier's law states that in the presence of jaundice, a palpably enlarged gallbladder is unlikely to be due to gallstones and suggests malignant obstruction (e.g., pancreatic head carcinoma or cholangiocarcinoma).",
+      "explanation": "RAAS inhibitors (ACE inhibitors, ARBs, spironolactone) reduce potassium excretion and are a frequent cause of hyperkalemia in hospitalized patients.",
       "difficulty": "medium"
     },
     {
       "id": 35,
-      "question": "Which of the following is the most common cause of pulmonary embolism?",
+      "question": "What is the normal intracranial pressure (ICP) in adults?",
       "options": [
-        "Air embolism",
-        "Fat embolism",
-        "Deep vein thrombosis of femoral veins",
-        "Tumor embolism"
+        "0-5 mmHg",
+        "5-15 mmHg",
+        "15-25 mmHg",
+        "25-35 mmHg"
       ],
-      "correctAnswer": 2,
-      "explanation": "Over 90% of pulmonary emboli originate from deep vein thrombosis, most commonly from the femoral or iliac veins. Air, fat, and tumor emboli are much less common causes.",
+      "correctAnswer": 1,
+      "explanation": "Normal ICP in adults is 5-15 mmHg when measured in the lateral decubitus position. Values >20 mmHg are considered elevated.",
       "difficulty": "medium"
     },
     {
       "id": 36,
-      "question": "What is the mechanism of action of warfarin?",
+      "question": "Which of the following is the most common cause of testicular neoplasm in young men?",
       "options": [
-        "Inhibits thrombin directly",
-        "Activates antithrombin III",
-        "Inhibits platelet aggregation",
-        "Inhibits vitamin K epoxide reductase, preventing clotting factor synthesis"
+        "Leydig cell tumor",
+        "Sertoli cell tumor",
+        "Germ cell tumor (seminoma)",
+        "Lymphoma"
       ],
-      "correctAnswer": 3,
-      "explanation": "Warfarin is a vitamin K antagonist that inhibits vitamin K epoxide reductase complex 1 (VKORC1), preventing the recycling of vitamin K and thus the synthesis of functional clotting factors II, VII, IX, and X.",
+      "correctAnswer": 2,
+      "explanation": "Germ cell tumors account for >95% of testicular neoplasms, with seminoma being the most common subtype in men aged 20-40.",
       "difficulty": "medium"
     },
     {
       "id": 37,
-      "question": "A 25-year-old woman presents with malar rash, photosensitivity, oral ulcers, and arthritis. ANA is positive. Which additional finding would most specific for SLE diagnosis?",
+      "question": "A patient with chronic liver disease presents with asterixis and encephalopathy. Which precipitating factor is most common?",
       "options": [
-        "Anti-dsDNA antibodies",
-        "Rheumatoid factor",
-        "Anti-CCP antibodies",
-        "ANCA"
+        "Hypokalemia",
+        "Alkalosis",
+        "Infection",
+        "Hyponatremia"
       ],
-      "correctAnswer": 0,
-      "explanation": "Anti-double-stranded DNA (anti-dsDNA) antibodies are highly specific for systemic lupus erythematosus (SLE) and are part of the diagnostic criteria. While ANA is sensitive but not specific, anti-dsDNA has high specificity for SLE.",
+      "correctAnswer": 2,
+      "explanation": "Infection (e.g., spontaneous bacterial peritonitis, urinary tract infection) is the most common precipitant of hepatic encephalopathy in cirrhosis.",
       "difficulty": "medium"
     },
     {
       "id": 38,
-      "question": "What is the normal anion gap range?",
+      "question": "What is the mechanism of action of heparin?",
       "options": [
-        "12-16 mEq/L",
-        "8-12 mEq/L",
-        "4-8 mEq/L",
-        "16-20 mEq/L"
+        "Inhibits thrombin directly",
+        "Activates antithrombin III",
+        "Inhibits vitamin K epoxide reductase",
+        "Blocks platelet GPIIb/IIIa"
       ],
       "correctAnswer": 1,
-      "explanation": "The normal anion gap (calculated as [Na+] - [Cl- + HCO3-]) ranges from 8 to 12 mEq/L when using standard laboratory methods. An elevated anion gap suggests unmeasured anions like lactate, ketones, or toxins.",
+      "explanation": "Heparin binds to antithrombin III, accelerating its inactivation of thrombin (factor IIa) and factor Xa.",
       "difficulty": "medium"
     },
     {
       "id": 39,
-      "question": "Which of the following is the most common cause of hyperthyroidism?",
+      "question": "Which of the following is the most common location for duodenal ulcers?",
       "options": [
-        "Toxic multinodular goiter",
-        "Thyroiditis",
-        "Graves' disease",
-        "Thyroid adenoma"
+        "First part",
+        "Second part",
+        "Third part",
+        "Fourth part"
       ],
-      "correctAnswer": 2,
-      "explanation": "Graves' disease, an autoimmune disorder causing TSH receptor antibody stimulation, is the most common cause of hyperthyroidism, accounting for 60-80% of cases.",
+      "correctAnswer": 1,
+      "explanation": "Over 95% of duodenal ulcers occur in the first portion (cap) of the duodenum, just beyond the pylorus.",
       "difficulty": "medium"
     },
     {
       "id": 40,
-      "question": "What is the mechanism of resistance in MRSA (Methicillin-resistant Staphylococcus aureus)?",
+      "question": "Which of the following is the most common cause of dementia in the elderly?",
       "options": [
-        "Production of beta-lactamase enzymes",
-        "Efflux pumps",
-        "Decreased cell wall permeability",
-        "Altered penicillin-binding protein (PBP2a)"
+        "Vascular dementia",
+        "Lewy body dementia",
+        "Alzheimer's disease",
+        "Frontotemporal dementia"
       ],
-      "correctAnswer": 3,
-      "explanation": "MRSA resistance is mediated by the mecA gene, which encodes an altered penicillin-binding protein (PBP2a) with low affinity for beta-lactam antibiotics, allowing cell wall synthesis to continue in the presence of methicillin and other beta-lactams.",
+      "correctAnswer": 2,
+      "explanation": "Alzheimer's disease accounts for 60-80% of dementia cases in individuals over 65 years of age.",
       "difficulty": "medium"
     },
     {
       "id": 41,
-      "question": "A 58-year-old man with type 2 diabetes mellitus presents with painful ophthalmoplegia and diplopia. Pupillary reflexes are preserved. Which cranial nerve is most likely affected?",
+      "question": "A 30-year-old woman presents with recurrent miscarriages and livedo reticularis. Laboratory studies show prolonged aPTT that does not correct with mixing. Which antibody is most likely present?",
       "options": [
-        "Abducens nerve (CN VI)",
-        "Oculomotor nerve (CN III)",
-        "Trochlear nerve (CN IV)",
-        "Trigeminal nerve (CN V1)"
+        "Antinuclear antibody (ANA)",
+        "Anti-dsDNA antibody",
+        "Lupus anticoagulant",
+        "Anti-cardiolipin IgG"
       ],
-      "correctAnswer": 0,
-      "explanation": "In diabetic neuropathy, the abducens nerve (CN VI) is most commonly affected, causing lateral rectus palsy with horizontal diplopia. Importantly, pupillary reflexes are preserved in ischemic cranial neuropathies (like diabetic vasculopathy) but are affected in compressive lesions.",
+      "correctAnswer": 2,
+      "explanation": "Lupus anticoagulant (part of antiphospholipid syndrome) causes a prolonged aPTT that does not correct with mixing due to phospholipid-binding antibodies.",
       "difficulty": "hard"
     },
     {
       "id": 42,
-      "question": "Which of the following is the most specific tumor marker for hepatocellular carcinoma?",
+      "question": "Which of the following is the most specific immunohistochemical marker for hepatocellular carcinoma?",
       "options": [
-        "CEA (Carcinoembryonic antigen)",
-        "AFP (Alpha-fetoprotein)",
-        "CA 19-9",
-        "PSA (Prostate-specific antigen)"
+        "CK7",
+        "HepPar-1",
+        "AFP",
+        "CD10"
       ],
       "correctAnswer": 1,
-      "explanation": "Alpha-fetoprotein (AFP) is the most specific tumor marker for hepatocellular carcinoma, particularly when levels are >400 ng/mL. However, AFP can also be elevated in germ cell tumors and during pregnancy.",
+      "explanation": "HepPar-1 (hepatocyte paraffin 1) is a highly sensitive and specific marker for hepatocellular carcinoma, although AFP is a serum marker.",
       "difficulty": "hard"
     },
     {
       "id": 43,
-      "question": "A patient presents with recurrent episodes of vertigo, tinnitus, hearing loss, and aural fullness. Which condition is most likely?",
+      "question": "What is the mechanism of action of rituximab?",
       "options": [
-        "Benign paroxysmal positional vertigo (BPPV)",
-        "Vestibular neuritis",
-        "Meniere's disease",
-        "Acoustic neuroma"
+        "Binds CD25 and inhibits IL-2",
+        "Binds CD20 and induces B-cell lysis",
+        "Binds CD3 and activates T cells",
+        "Binds TNF-alpha"
       ],
-      "correctAnswer": 2,
-      "explanation": "Meniere's disease is characterized by the triad of episodic vertigo, fluctuating sensorineural hearing loss, and tinnitus, often with aural fullness. BPPV presents with brief vertigo episodes triggered by positional changes without hearing loss.",
+      "correctAnswer": 1,
+      "explanation": "Rituximab is a chimeric monoclonal antibody against CD20, leading to B-cell depletion via complement-dependent cytotoxicity and apoptosis.",
       "difficulty": "hard"
     },
     {
       "id": 44,
-      "question": "What is the mechanism of action of sirolimus (rapamycin) as an immunosuppressant?",
+      "question": "Which of the following is the most common genetic alteration in colorectal cancer?",
       "options": [
-        "Inhibits calcineurin phosphatase activity",
-        "Blocks IL-2 receptor signaling",
-        "Inhibits purine synthesis",
-        "Inhibits mTOR pathway, blocking IL-2-mediated signal transduction"
+        "KRAS mutation",
+        "TP53 mutation",
+        "APC mutation",
+        "BRAF V600E"
       ],
-      "correctAnswer": 3,
-      "explanation": "Sirolimus (rapamycin) binds to FKBP12 and inhibits the mammalian target of rapamycin (mTOR) pathway, thereby blocking IL-2-mediated signal transduction and T-cell proliferation. Unlike calcineurin inhibitors, it does not inhibit IL-2 production.",
+      "correctAnswer": 2,
+      "explanation": "APC gene mutation is the earliest and most common alteration in the adenoma-carcinoma sequence of colorectal cancer, present in ~70-80% of sporadic cases.",
       "difficulty": "hard"
     },
     {
       "id": 45,
-      "question": "Which of the following statements about the pathophysiology of preeclampsia is correct?",
+      "question": "A patient presents with progressive dysphagia to solids only, weight loss, and endoscopic findings of a distal esophageal stricture with mucosal irregularity. Biopsy shows malignant glands invading the stroma. What is the most likely diagnosis?",
       "options": [
-        "It is primarily caused by maternal endothelial dysfunction due to placental factors",
-        "It results from excessive progesterone production",
-        "It is caused by maternal hypervolemia",
-        "It is due to fetal insulin resistance"
+        "Achalasia",
+        "Diffuse esophageal spasm",
+        "Esophageal adenocarcinoma",
+        "Barrett esophagus without dysplasia"
       ],
-      "correctAnswer": 0,
-      "explanation": "Preeclampsia pathophysiology involves abnormal placental implantation leading to release of anti-angiogenic factors (sFlt-1, soluble endoglin) causing maternal endothelial dysfunction, vasoconstriction, and the characteristic hypertension and proteinuria.",
+      "correctAnswer": 2,
+      "explanation": "Progressive dysphagia to solids, weight loss, and malignant glands in the distal esophagus are characteristic of esophageal adenocarcinoma, often arising in Barrett esophagus.",
       "difficulty": "hard"
     },
     {
       "id": 46,
-      "question": "A 62-year-old man presents with progressive dysphagia to solids and liquids, weight loss, and regurgitation of undigested food. Barium swallow shows a 'bird's beak' appearance. What is the most likely diagnosis?",
+      "question": "Which of the following is the most common cause of acute viral encephalitis in immunocompetent adults in the United States?",
       "options": [
-        "Diffuse esophageal spasm",
-        "Achalasia",
-        "Esophageal carcinoma",
-        "Zenker's diverticulum"
+        "Enterovirus",
+        "Herpes simplex virus type 1 (HSV-1)",
+        "West Nile virus",
+        "Varicella-zoster virus"
       ],
       "correctAnswer": 1,
-      "explanation": "The classic 'bird's beak' appearance on barium swallow is diagnostic of achalasia, resulting from failure of lower esophageal sphincter relaxation and absent esophageal peristalsis. Symptoms include dysphagia to both solids and liquids, regurgitation of undigested food, and chest pain.",
+      "explanation": "HSV-1 is the most common cause of sporadic acute encephalitis in immunocompetent adults in the US, with predilection for temporal lobes.",
       "difficulty": "hard"
     },
     {
       "id": 47,
-      "question": "What is the most common cause of Cushing's syndrome?",
+      "question": "What is the mechanism of action of imatinib in gastrointestinal stromal tumor (GIST)?",
       "options": [
-        "Pituitary adenoma (Cushing's disease)",
-        "Adrenal adenoma",
-        "Exogenous glucocorticoid use",
-        "Ectopic ACTH production"
+        "Inhibits VEGF receptor",
+        "Inhibits BCR-ABL tyrosine kinase",
+        "Inhibits c-KIT tyrosine kinase",
+        "Inhibits EGFR"
       ],
       "correctAnswer": 2,
-      "explanation": "Exogenous glucocorticoid use is the most common cause of Cushing's syndrome overall. Among endogenous causes, pituitary adenoma (Cushing's disease) accounts for 60-70% of cases, followed by adrenal tumors and ectopic ACTH production.",
+      "explanation": "Imatinib inhibits the constitutively active c-KIT tyrosine kinase receptor, which is mutated in the majority of GISTs, leading to apoptosis of tumor cells.",
       "difficulty": "hard"
     },
     {
       "id": 48,
-      "question": "Which of the following is the most accurate statement regarding the diagnosis of polycystic ovary syndrome (PCOS) according to Rotterdam criteria?",
+      "question": "A 55-year-old man with type 2 diabetes presents with mononeuropathy multiplex affecting the peroneal and ulnar nerves. What is the most likely underlying pathophysiologic mechanism?",
       "options": [
-        "Requires presence of all three: oligo/anovulation, hyperandrogenism, and polycystic ovaries",
-        "Requires elevated LH/FSH ratio >2:1",
-        "Diagnosis requires insulin resistance and obesity",
-        "Diagnosis requires two of three: oligo/anovulation, hyperandrogenism, or polycystic ovaries"
+        "Axonal degeneration due to metabolic insufficiency",
+        "Demyelination due to autoimmune attack",
+        "Ischemic microvascular injury to nerves",
+        "Direct toxic effect of hyperglycemia on axons"
       ],
-      "correctAnswer": 3,
-      "explanation": "According to the Rotterdam criteria, PCOS is diagnosed when at least two of the following three criteria are present: oligo- or anovulation, clinical and/or biochemical signs of hyperandrogenism, and polycystic ovaries on ultrasound. Other causes must be excluded.",
+      "correctAnswer": 2,
+      "explanation": "Mononeuropathy multiplex in diabetes results from ischemic infarction of nerve segments due to microvascular vasculitis (vasorum), not purely metabolic toxicity.",
       "difficulty": "hard"
     },
     {
       "id": 49,
-      "question": "A patient presents with acute onset of severe back pain followed by lower extremity weakness and urinary retention. MRI shows a spinal epidural abscess. What is the most common causative organism?",
+      "question": "Which of the following is the most common cause of congenital long QT syndrome?",
       "options": [
-        "Staphylococcus aureus",
-        "Escherichia coli",
-        "Pseudomonas aeruginosa",
-        "Mycobacterium tuberculosis"
+        "Mutation in KCNH2 (hERG) gene",
+        "Mutation in KCNQ1 gene",
+        "Mutation in SCN5A gene",
+        "Mutation in ANK2 gene"
       ],
-      "correctAnswer": 0,
-      "explanation": "Staphylococcus aureus is the most common causative organism of spinal epidural abscess, accounting for approximately 60-70% of cases. Other organisms include streptococci, gram-negative bacteria (like E. coli), and anaerobes.",
+      "correctAnswer": 1,
+      "explanation": "Mutations in KCNQ1 (LQT1) account for approximately 30-35% of congenital long QT syndrome cases, making it the most common genetic cause.",
       "difficulty": "hard"
     },
     {
       "id": 50,
-      "question": "What is the mechanism of action of imatinib in chronic myeloid leukemia (CML)?",
+      "question": "What is the mechanism of action of aspirin as an antiplatelet agent?",
       "options": [
-        "Inhibits DNA topoisomerase II",
-        "Blocks BCR-ABL tyrosine kinase activity",
-        "Inhibits proteasome function",
-        "Activates p53 tumor suppressor"
+        "Blocks ADP receptors",
+        "Inhibits thromboxane A2 synthesis via COX-1 inhibition",
+        "Inhibits thrombin directly",
+        "Activates plasminogen"
       ],
       "correctAnswer": 1,
-      "explanation": "Imatinib (Gleevec) is a tyrosine kinase inhibitor that specifically targets the BCR-ABL fusion protein resulting from the Philadelphia chromosome translocation. It binds to the ATP-binding site of BCR-ABL, inhibiting its constitutive tyrosine kinase activity and downstream signaling pathways.",
+      "explanation": "Aspirin irreversibly inhibits cyclooxygenase-1 (COX-1) in platelets, reducing thromboxane A2 formation and thus platelet aggregation.",
       "difficulty": "hard"
     }
   ]
