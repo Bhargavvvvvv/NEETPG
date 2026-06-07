@@ -2,280 +2,20 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the most common cause of uncomplicated urinary tract infections?",
+      "question": "What is considered the drug of choice for the treatment of childhood absence seizures?",
       "options": [
-        "Escherichia coli",
-        "Staphylococcus aureus",
-        "Pseudomonas aeruginosa",
-        "Enterococcus faecalis"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Escherichia coli is the most common bacterial pathogen responsible for uncomplicated urinary tract infections, accounting for up to 75-95% of cases.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 2,
-      "question": "Which organelle is classically known as the powerhouse of the cell?",
-      "options": [
-        "Nucleus",
-        "Mitochondria",
-        "Golgi apparatus",
-        "Endoplasmic reticulum"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Mitochondria generate most of the cell's supply of adenosine triphosphate (ATP), used as a source of chemical energy, thereby acting as the powerhouse of the cell.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 3,
-      "question": "What is the approximate normal lifespan of a mature red blood cell?",
-      "options": [
-        "60 days",
-        "90 days",
-        "120 days",
-        "150 days"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The normal lifespan of a circulating erythrocyte (red blood cell) in humans is roughly 100 to 120 days.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 4,
-      "question": "Which mosquito vector is primarily responsible for the transmission of Dengue fever?",
-      "options": [
-        "Anopheles mosquito",
-        "Culex mosquito",
-        "Sandfly",
-        "Aedes aegypti mosquito"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Dengue fever is a viral infection transmitted to humans through the bite of infected mosquitoes, primarily the Aedes aegypti mosquito.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 5,
-      "question": "Which bone is the longest and strongest in the human body?",
-      "options": [
-        "Femur",
-        "Tibia",
-        "Humerus",
-        "Fibula"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The femur, or thigh bone, is the longest, heaviest, and strongest bone in the human body.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 6,
-      "question": "A severe deficiency of Vitamin C classically leads to which condition?",
-      "options": [
-        "Rickets",
-        "Scurvy",
-        "Pellagra",
-        "Beriberi"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Vitamin C (ascorbic acid) deficiency results in impaired collagen synthesis, leading to scurvy, which is characterized by bleeding gums, petechiae, and poor wound healing.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 7,
-      "question": "Which blood type is considered the universal red blood cell donor?",
-      "options": [
-        "A positive",
-        "AB positive",
-        "O negative",
-        "B negative"
-      ],
-      "correctAnswer": 2,
-      "explanation": "O negative blood lacks A, B, and Rh antigens, meaning it can be transfused into patients of any blood type with minimal risk of an immune reaction.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 8,
-      "question": "How many cervical vertebrae are present in the standard human spine?",
-      "options": [
-        "5",
-        "6",
-        "12",
-        "7"
-      ],
-      "correctAnswer": 3,
-      "explanation": "The human vertebral column typically contains 7 cervical vertebrae, 12 thoracic vertebrae, and 5 lumbar vertebrae.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 9,
-      "question": "What is the normal resting heart rate range for a healthy adult?",
-      "options": [
-        "60-100 bpm",
-        "40-60 bpm",
-        "100-120 bpm",
-        "120-140 bpm"
-      ],
-      "correctAnswer": 0,
-      "explanation": "A normal resting heart rate for adults ranges from 60 to 100 beats per minute.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 10,
-      "question": "What is the primary first-line medication for the treatment of anaphylaxis?",
-      "options": [
-        "Atropine",
-        "Epinephrine",
-        "Diphenhydramine",
-        "Hydrocortisone"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Intramuscular epinephrine is the treatment of choice and the first-line medication administered for life-threatening anaphylaxis.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 11,
-      "question": "Where is dietary iron primarily absorbed in the gastrointestinal tract?",
-      "options": [
-        "Stomach",
-        "Ileum",
-        "Duodenum",
-        "Colon"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Iron is predominantly absorbed in the proximal small intestine, specifically the duodenum and the upper jejunum.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 12,
-      "question": "What is the specific antidote for acetaminophen (paracetamol) toxicity?",
-      "options": [
-        "Naloxone",
-        "Flumazenil",
-        "Atropine",
-        "N-acetylcysteine"
-      ],
-      "correctAnswer": 3,
-      "explanation": "N-acetylcysteine (NAC) replenishes glutathione stores in the liver and is the specific antidote for acetaminophen poisoning.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 13,
-      "question": "Which microorganism is the causative agent of Syphilis?",
-      "options": [
-        "Treponema pallidum",
-        "Neisseria gonorrhoeae",
-        "Chlamydia trachomatis",
-        "Haemophilus ducreyi"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Syphilis is a sexually transmitted infection caused by the spirochete bacterium Treponema pallidum.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 14,
-      "question": "Which of the following is the largest organ in the human body by surface area?",
-      "options": [
-        "Liver",
-        "Skin",
-        "Lungs",
-        "Brain"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The skin is the body's largest organ, accounting for about 15% of total adult body weight and covering an extensive surface area.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 15,
-      "question": "Vitamin B12 deficiency is most classically associated with which specific type of anemia?",
-      "options": [
-        "Microcytic hypochromic anemia",
-        "Hemolytic anemia",
-        "Pernicious anemia",
-        "Aplastic anemia"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Pernicious anemia is an autoimmune condition that impairs intrinsic factor production, leading to Vitamin B12 malabsorption and megaloblastic anemia.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 16,
-      "question": "What is the approximate normal tidal volume in a healthy adult at rest?",
-      "options": [
-        "150 mL",
-        "300 mL",
-        "1000 mL",
-        "500 mL"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Tidal volume is the amount of air that moves in or out of the lungs with each respiratory cycle, measuring approximately 500 mL in a healthy adult.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 17,
-      "question": "Which cranial nerve is widely known as the Vagus nerve?",
-      "options": [
-        "Cranial Nerve X",
-        "Cranial Nerve IX",
-        "Cranial Nerve XI",
-        "Cranial Nerve VII"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The Vagus nerve is the tenth cranial nerve (CN X), playing a crucial role in parasympathetic control of the heart, lungs, and digestive tract.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 18,
-      "question": "What is the primary intracellular cation in the human body?",
-      "options": [
-        "Sodium",
-        "Potassium",
-        "Calcium",
-        "Magnesium"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Potassium is the major intracellular cation, essential for maintaining resting membrane potential and proper cellular function.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 19,
-      "question": "The first cervical vertebra (C1) is also anatomically referred to as what?",
-      "options": [
-        "Axis",
-        "Prominens",
-        "Atlas",
-        "Coccyx"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The first cervical vertebra is named the Atlas, as it supports the globe of the head, analogous to the mythical figure Atlas.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 20,
-      "question": "Which hormone, secreted by the pineal gland, is primarily responsible for regulating sleep-wake cycles?",
-      "options": [
-        "Cortisol",
-        "Thyroxine",
-        "Insulin",
-        "Melatonin"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Melatonin is a hormone produced by the pineal gland at night, serving as a key regulator of the circadian rhythm and sleep-wake cycle.",
-      "difficulty": "easy"
-    },
-    {
-      "id": 21,
-      "question": "What is considered the drug of choice for the treatment of Trigeminal Neuralgia?",
-      "options": [
-        "Carbamazepine",
-        "Gabapentin",
+        "Ethosuximide",
         "Phenytoin",
-        "Valproic acid"
+        "Carbamazepine",
+        "Diazepam"
       ],
       "correctAnswer": 0,
-      "explanation": "Carbamazepine is the first-line and most effective medication for managing the sharp, shooting facial pain characteristic of trigeminal neuralgia.",
+      "explanation": "Ethosuximide blocks T-type calcium channels in the thalamus and is highly effective and specific for treating uncomplicated absence seizures in children.",
       "difficulty": "medium"
     },
     {
-      "id": 22,
-      "question": "Which tumor marker is most classically monitored in the management of ovarian cancer?",
+      "id": 2,
+      "question": "Which tumor marker is most classically monitored in the management and follow-up of ovarian cancer?",
       "options": [
         "CEA",
         "CA-125",
@@ -283,24 +23,24 @@
         "PSA"
       ],
       "correctAnswer": 1,
-      "explanation": "Cancer Antigen 125 (CA-125) is elevated in most epithelial ovarian cancers and is used to monitor treatment response and detect recurrence.",
+      "explanation": "Cancer Antigen 125 (CA-125) is elevated in most epithelial ovarian cancers and is used to monitor treatment response and detect disease recurrence.",
       "difficulty": "medium"
     },
     {
-      "id": 23,
-      "question": "Which carpal bone is the most frequently fractured, often resulting from a fall on an outstretched hand?",
+      "id": 3,
+      "question": "A fracture of the scaphoid bone is highly susceptible to which of the following complications due to its retrograde blood supply?",
       "options": [
-        "Lunate",
-        "Pisiform",
-        "Scaphoid",
-        "Trapezium"
+        "Compartment syndrome",
+        "Osteomyelitis",
+        "Avascular necrosis",
+        "Fat embolism"
       ],
       "correctAnswer": 2,
-      "explanation": "The scaphoid is the most commonly fractured carpal bone, highly susceptible to injury when breaking a fall with an extended wrist.",
+      "explanation": "The scaphoid bone receives its blood supply from distal to proximal. A fracture can disrupt this supply, leading to avascular necrosis of the proximal fragment.",
       "difficulty": "medium"
     },
     {
-      "id": 24,
+      "id": 4,
       "question": "Wernicke's encephalopathy is primarily caused by a severe deficiency in which vitamin?",
       "options": [
         "Riboflavin (B2)",
@@ -309,11 +49,11 @@
         "Thiamine (B1)"
       ],
       "correctAnswer": 3,
-      "explanation": "Wernicke's encephalopathy is an acute neurological condition driven by a deficiency of Vitamin B1 (thiamine), commonly seen in chronic alcoholism.",
+      "explanation": "Wernicke's encephalopathy is an acute neurological condition driven by a deficiency of Vitamin B1 (thiamine), commonly seen in chronic alcoholism or severe malnutrition.",
       "difficulty": "medium"
     },
     {
-      "id": 25,
+      "id": 5,
       "question": "Which clinical feature is considered a classic hallmark motor symptom of Parkinson's disease?",
       "options": [
         "Resting tremor",
@@ -322,11 +62,11 @@
         "Athetosis"
       ],
       "correctAnswer": 0,
-      "explanation": "A \"pill-rolling\" resting tremor is one of the cardinal motor manifestations of Parkinson's disease, alongside bradykinesia and rigidity.",
+      "explanation": "A \"pill-rolling\" resting tremor is one of the cardinal motor manifestations of Parkinson's disease, alongside bradykinesia, rigidity, and postural instability.",
       "difficulty": "medium"
     },
     {
-      "id": 26,
+      "id": 6,
       "question": "The Philadelphia chromosome, characterized by the t(9;22) translocation, is most strongly associated with which malignancy?",
       "options": [
         "Acute Lymphoblastic Leukemia (ALL)",
@@ -339,7 +79,7 @@
       "difficulty": "medium"
     },
     {
-      "id": 27,
+      "id": 7,
       "question": "Kimmelstiel-Wilson nodules are a pathognomonic histological finding indicative of which condition?",
       "options": [
         "Hypertensive nephrosclerosis",
@@ -352,7 +92,7 @@
       "difficulty": "medium"
     },
     {
-      "id": 28,
+      "id": 8,
       "question": "What is the recommended first-line intravenous pharmacological treatment for Status Epilepticus?",
       "options": [
         "Phenobarbital",
@@ -361,11 +101,11 @@
         "Lorazepam"
       ],
       "correctAnswer": 3,
-      "explanation": "Intravenous benzodiazepines, particularly lorazepam, are the drug of choice for the immediate termination of status epilepticus.",
+      "explanation": "Intravenous benzodiazepines, particularly lorazepam or diazepam, are the drugs of choice for the immediate termination of status epilepticus.",
       "difficulty": "medium"
     },
     {
-      "id": 29,
+      "id": 9,
       "question": "Aschoff bodies are classically found in the myocardium of patients suffering from which condition?",
       "options": [
         "Rheumatic fever",
@@ -378,7 +118,7 @@
       "difficulty": "medium"
     },
     {
-      "id": 30,
+      "id": 10,
       "question": "Which is the most common histological type of thyroid carcinoma?",
       "options": [
         "Follicular carcinoma",
@@ -391,7 +131,7 @@
       "difficulty": "medium"
     },
     {
-      "id": 31,
+      "id": 11,
       "question": "A 'cherry-red spot' on the macula is a classic ophthalmologic finding in an infant with which disease?",
       "options": [
         "Gaucher's disease",
@@ -400,11 +140,11 @@
         "Pompe disease"
       ],
       "correctAnswer": 2,
-      "explanation": "In Tay-Sachs disease (hexosaminidase A deficiency), lipid accumulation in the retinal ganglion cells leaves the normal central fovea appearing as a prominent cherry-red spot.",
+      "explanation": "In Tay-Sachs disease, lipid accumulation in the retinal ganglion cells leaves the normal central fovea appearing as a prominent cherry-red spot against the pale retina.",
       "difficulty": "medium"
     },
     {
-      "id": 32,
+      "id": 12,
       "question": "Courvoisier's law, characterized by a palpable, non-tender gallbladder with progressive jaundice, is highly suggestive of what condition?",
       "options": [
         "Choledocholithiasis",
@@ -413,11 +153,11 @@
         "Carcinoma of the head of pancreas"
       ],
       "correctAnswer": 3,
-      "explanation": "Courvoisier's law states that in a jaundiced patient, a palpable, non-tender gallbladder is unlikely to be due to gallstones and strongly points toward an obstructing pancreatic or biliary malignancy.",
+      "explanation": "Courvoisier's law suggests that in a jaundiced patient, a palpable, non-tender gallbladder strongly points toward an obstructing pancreatic or biliary malignancy rather than gallstones.",
       "difficulty": "medium"
     },
     {
-      "id": 33,
+      "id": 13,
       "question": "The presence of hypersegmented neutrophils on a peripheral blood smear is strongly indicative of what type of anemia?",
       "options": [
         "Megaloblastic anemia",
@@ -426,11 +166,11 @@
         "Thalassemia"
       ],
       "correctAnswer": 0,
-      "explanation": "Hypersegmented neutrophils (having 5 or more lobes) are a hallmark morphological finding in megaloblastic anemias caused by B12 or folate deficiency.",
+      "explanation": "Hypersegmented neutrophils (having 5 or more lobes) are a hallmark morphological finding in megaloblastic anemias caused by Vitamin B12 or folate deficiency.",
       "difficulty": "medium"
     },
     {
-      "id": 34,
+      "id": 14,
       "question": "A surge in which hormone directly triggers ovulation in the female menstrual cycle?",
       "options": [
         "Follicle-Stimulating Hormone (FSH)",
@@ -439,11 +179,11 @@
         "Progesterone"
       ],
       "correctAnswer": 1,
-      "explanation": "The LH surge, which occurs approximately 24 to 36 hours before ovulation, provides the direct hormonal stimulus for the release of the ovum.",
+      "explanation": "The LH surge, which occurs approximately 24 to 36 hours before ovulation, provides the direct hormonal stimulus for the rupture of the follicle and release of the ovum.",
       "difficulty": "medium"
     },
     {
-      "id": 35,
+      "id": 15,
       "question": "Which specific organism is the most common causative agent of gas gangrene (clostridial myonecrosis)?",
       "options": [
         "Staphylococcus aureus",
@@ -452,11 +192,11 @@
         "Pseudomonas aeruginosa"
       ],
       "correctAnswer": 2,
-      "explanation": "Clostridium perfringens is an anaerobic, spore-forming bacillus that produces toxins causing rapid tissue necrosis and gas formation, leading to gas gangrene.",
+      "explanation": "Clostridium perfringens is an anaerobic, spore-forming bacillus that produces alpha toxins causing rapid tissue necrosis and gas formation, leading to gas gangrene.",
       "difficulty": "medium"
     },
     {
-      "id": 36,
+      "id": 16,
       "question": "What is the most common anatomical site for an ectopic pregnancy to implant?",
       "options": [
         "Ovary",
@@ -465,11 +205,11 @@
         "Ampulla of the fallopian tube"
       ],
       "correctAnswer": 3,
-      "explanation": "Over 90% of ectopic pregnancies occur in the fallopian tube, with the ampullary segment being the most frequent site of implantation.",
+      "explanation": "Over 90% of ectopic pregnancies occur in the fallopian tube, with the ampullary segment being the most frequent site of abnormal implantation.",
       "difficulty": "medium"
     },
     {
-      "id": 37,
+      "id": 17,
       "question": "An 'apple core' lesion visualized on a barium enema is classically associated with which pathology?",
       "options": [
         "Colorectal carcinoma",
@@ -478,24 +218,24 @@
         "Diverticulitis"
       ],
       "correctAnswer": 0,
-      "explanation": "The 'apple core' sign represents a stricture typically caused by an annular constricting colorectal carcinoma narrowing the colonic lumen.",
+      "explanation": "The 'apple core' sign represents a stricture typically caused by an annular, constricting colorectal carcinoma that narrows the colonic lumen.",
       "difficulty": "medium"
     },
     {
-      "id": 38,
-      "question": "What is the primary first-line drug for the treatment of childhood absence seizures?",
+      "id": 18,
+      "question": "Multiple ring-enhancing lesions in the basal ganglia on a brain MRI of an HIV-positive patient with low CD4 count are most likely due to:",
       "options": [
-        "Phenytoin",
-        "Ethosuximide",
-        "Carbamazepine",
-        "Diazepam"
+        "Primary CNS Lymphoma",
+        "Toxoplasmosis",
+        "Progressive Multifocal Leukoencephalopathy",
+        "Cytomegalovirus encephalitis"
       ],
       "correctAnswer": 1,
-      "explanation": "Ethosuximide blocks T-type calcium channels in the thalamus and is highly effective and specific for treating absence seizures.",
+      "explanation": "Toxoplasma gondii reactivation in immunocompromised patients classically presents as multiple ring-enhancing brain lesions, often involving the basal ganglia.",
       "difficulty": "medium"
     },
     {
-      "id": 39,
+      "id": 19,
       "question": "Which specific type of cast found in a urinalysis is considered pathognomonic for acute tubular necrosis (ATN)?",
       "options": [
         "RBC casts",
@@ -504,12 +244,12 @@
         "Hyaline casts"
       ],
       "correctAnswer": 2,
-      "explanation": "Muddy brown granular casts are formed from sloughed necrotic tubular epithelial cells and are the classic hallmark of acute tubular necrosis.",
+      "explanation": "Muddy brown granular casts are formed from sloughed, necrotic tubular epithelial cells and are the classic hallmark of acute tubular necrosis.",
       "difficulty": "medium"
     },
     {
-      "id": 40,
-      "question": "What is the most common organism responsible for community-acquired atypical pneumonia?",
+      "id": 20,
+      "question": "What is the most common organism responsible for atypical 'walking' pneumonia in young adults?",
       "options": [
         "Streptococcus pneumoniae",
         "Haemophilus influenzae",
@@ -517,11 +257,11 @@
         "Mycoplasma pneumoniae"
       ],
       "correctAnswer": 3,
-      "explanation": "Mycoplasma pneumoniae lacks a cell wall and is the leading cause of 'walking pneumonia', an atypical presentation of community-acquired pneumonia.",
+      "explanation": "Mycoplasma pneumoniae lacks a cell wall and is the leading cause of 'walking pneumonia', characterized by a milder, indolent clinical presentation.",
       "difficulty": "medium"
     },
     {
-      "id": 41,
+      "id": 21,
       "question": "Which interleukin is primarily responsible for the recruitment, activation, and survival of eosinophils in asthma pathogenesis?",
       "options": [
         "IL-5",
@@ -530,11 +270,11 @@
         "IL-10"
       ],
       "correctAnswer": 0,
-      "explanation": "Interleukin-5 (IL-5) is the major cytokine involved in eosinophil differentiation and recruitment, making it a target for biological therapies in severe asthma.",
+      "explanation": "Interleukin-5 (IL-5) is the major cytokine involved in eosinophil differentiation and recruitment, making it a critical target for biological therapies in severe eosinophilic asthma.",
       "difficulty": "hard"
     },
     {
-      "id": 42,
+      "id": 22,
       "question": "What is the specific genetic defect associated with Chediak-Higashi syndrome?",
       "options": [
         "WAS gene mutation",
@@ -543,11 +283,11 @@
         "BTK gene mutation"
       ],
       "correctAnswer": 1,
-      "explanation": "Chediak-Higashi syndrome is caused by an autosomal recessive mutation in the LYST gene, leading to defective lysosomal trafficking and giant granules in leukocytes.",
+      "explanation": "Chediak-Higashi syndrome is caused by an autosomal recessive mutation in the LYST (Lysosomal Trafficking Regulator) gene, leading to giant granules in leukocytes.",
       "difficulty": "hard"
     },
     {
-      "id": 43,
+      "id": 23,
       "question": "Call-Exner bodies are the classic histological hallmark of which specific type of ovarian tumor?",
       "options": [
         "Dysgerminoma",
@@ -556,25 +296,25 @@
         "Krukenberg tumor"
       ],
       "correctAnswer": 2,
-      "explanation": "Call-Exner bodies are small, gland-like structures filled with eosinophilic material, pathognomonic for granulosa cell tumors of the ovary.",
+      "explanation": "Call-Exner bodies are small, follicle-like structures filled with eosinophilic material, which are pathognomonic for granulosa cell tumors of the ovary.",
       "difficulty": "hard"
     },
     {
-      "id": 44,
+      "id": 24,
       "question": "What is the precise mechanism of action of Omalizumab in the management of severe, uncontrolled asthma?",
       "options": [
         "Leukotriene receptor antagonist",
         "Mast cell stabilizer",
-        "Anti-IL-5 antibody",
+        "Anti-IL-5 monoclonal antibody",
         "Anti-IgE monoclonal antibody"
       ],
       "correctAnswer": 3,
-      "explanation": "Omalizumab binds to free IgE in the serum, preventing it from attaching to mast cells and basophils, thereby blocking the allergic inflammatory cascade.",
+      "explanation": "Omalizumab is a recombinant humanized monoclonal antibody that selectively binds to free IgE in the serum, preventing it from attaching to mast cells and basophils.",
       "difficulty": "hard"
     },
     {
-      "id": 45,
-      "question": "Electron microscopy in a patient with Minimal Change Disease characteristically shows which of the following findings?",
+      "id": 25,
+      "question": "Electron microscopy in a pediatric patient with Minimal Change Disease characteristically shows which of the following findings?",
       "options": [
         "Podocyte foot process effacement",
         "Subepithelial immune complex humps",
@@ -582,11 +322,11 @@
         "Linear IgG deposition"
       ],
       "correctAnswer": 0,
-      "explanation": "While light microscopy appears normal, electron microscopy reveals diffuse effacement (fusion) of podocyte foot processes, the defining lesion of Minimal Change Disease.",
+      "explanation": "While light microscopy and immunofluorescence appear normal, electron microscopy reveals diffuse effacement (fusion) of podocyte foot processes in Minimal Change Disease.",
       "difficulty": "hard"
     },
     {
-      "id": 46,
+      "id": 26,
       "question": "What is the recognized pharmacological treatment of choice to slow disease progression in Primary Biliary Cholangitis (PBC)?",
       "options": [
         "Corticosteroids",
@@ -595,11 +335,11 @@
         "D-penicillamine"
       ],
       "correctAnswer": 1,
-      "explanation": "Ursodeoxycholic acid (UDCA) is a hydrophilic bile acid that improves biliary secretion and is the first-line therapy to delay progression in PBC.",
+      "explanation": "Ursodeoxycholic acid (UDCA) is a hydrophilic, non-toxic bile acid that replaces toxic endogenous bile acids and improves biliary secretion in PBC.",
       "difficulty": "hard"
     },
     {
-      "id": 47,
+      "id": 27,
       "question": "Pompe disease (Glycogen storage disease type II) is caused by the systemic deficiency of which specific enzyme?",
       "options": [
         "Glucose-6-phosphatase",
@@ -608,11 +348,11 @@
         "Muscle phosphorylase"
       ],
       "correctAnswer": 2,
-      "explanation": "Pompe disease results from a deficiency of lysosomal acid alpha-glucosidase (acid maltase), leading to pathological glycogen accumulation, especially in cardiac and skeletal muscle.",
+      "explanation": "Pompe disease results from a deficiency of lysosomal acid alpha-glucosidase (acid maltase), leading to pathological glycogen accumulation in cardiac and skeletal muscle.",
       "difficulty": "hard"
     },
     {
-      "id": 48,
+      "id": 28,
       "question": "Which of the following is the most common congenital cardiac anomaly associated with Turner syndrome?",
       "options": [
         "Ventricular septal defect",
@@ -621,33 +361,33 @@
         "Bicuspid aortic valve"
       ],
       "correctAnswer": 3,
-      "explanation": "While coarctation of the aorta is highly characteristic, the bicuspid aortic valve is the most frequently occurring cardiovascular defect in patients with Turner syndrome.",
+      "explanation": "While coarctation of the aorta is highly characteristic, the bicuspid aortic valve is actually the most frequently occurring cardiovascular defect in patients with Turner syndrome.",
       "difficulty": "hard"
     },
     {
-      "id": 49,
-      "question": "Which autoantibody is considered most highly specific for the diagnosis of diffuse systemic sclerosis (scleroderma)?",
+      "id": 29,
+      "question": "Which autoantibody is considered most highly specific for the diagnosis of diffuse cutaneous systemic sclerosis?",
       "options": [
-        "Anti-Scl-70 (Anti-topoisomerase I)",
         "Anti-centromere antibody",
+        "Anti-Scl-70 (Anti-topoisomerase I)",
         "Anti-Ro/SSA",
         "Anti-Jo-1"
       ],
-      "correctAnswer": 0,
-      "explanation": "Anti-Scl-70 (anti-topoisomerase I) antibodies are highly specific for diffuse cutaneous systemic sclerosis and correlate with a higher risk of interstitial lung disease.",
+      "correctAnswer": 1,
+      "explanation": "Anti-Scl-70 (anti-topoisomerase I) antibodies are highly specific for diffuse systemic sclerosis and correlate with a higher risk of extensive skin involvement and interstitial lung disease.",
       "difficulty": "hard"
     },
     {
-      "id": 50,
-      "question": "A massive 'water bottle' heart appearance on a standard chest X-ray is most indicative of which condition?",
+      "id": 30,
+      "question": "A massive 'water bottle' heart appearance on a standard AP chest X-ray is most indicative of which condition?",
       "options": [
         "Left ventricular hypertrophy",
-        "Pericardial effusion",
         "Dilated cardiomyopathy",
-        "Tetralogy of Fallot"
+        "Tetralogy of Fallot",
+        "Pericardial effusion"
       ],
-      "correctAnswer": 1,
-      "explanation": "A large pericardial effusion causes uniform enlargement of the cardiac silhouette on a chest radiograph, classically described as resembling a water bottle.",
+      "correctAnswer": 3,
+      "explanation": "A large, slowly accumulating pericardial effusion causes uniform enlargement of the cardiac silhouette on a chest radiograph, classically described as resembling a water bottle.",
       "difficulty": "hard"
     }
   ]
