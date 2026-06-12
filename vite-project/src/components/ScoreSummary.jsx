@@ -50,7 +50,7 @@ const ScoreSummary = ({ questions, answers, onRestart }) => {
       </div>
 
       <p className="owed-note">
-        You owe me {correctAnswers} hugs and {missedAnswers} kisses. XOXO
+        Don't care about kisses or hugs. I'm fucking the shit out of you soon.
       </p>
 
       <div className="review-section">
