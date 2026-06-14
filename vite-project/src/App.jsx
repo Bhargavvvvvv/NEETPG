@@ -16,9 +16,9 @@ const shuffleQuestions = (questions) => {
 };
 
 const buildQuestionSet = (data) => {
-  const easyQuestions = data.questions.filter(q => q.difficulty === 'easy').slice(0, 20);
-  const mediumQuestions = data.questions.filter(q => q.difficulty === 'medium').slice(0, 20);
-  const hardQuestions = data.questions.filter(q => q.difficulty === 'hard').slice(0, 10);
+  const easyQuestions = data.questions.filter(q => q.difficulty === 'easy');
+  const mediumQuestions = data.questions.filter(q => q.difficulty === 'medium');
+  const hardQuestions = data.questions.filter(q => q.difficulty === 'hard');
 
   return shuffleQuestions([...easyQuestions, ...mediumQuestions, ...hardQuestions]);
 };
