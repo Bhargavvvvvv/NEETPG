@@ -2,392 +2,392 @@
   "questions": [
     {
       "id": 1,
-      "question": "Which of the following is the most common cause of mitral stenosis in adults?",
+      "question": "A 32-year-old male presents with recurrent nephrolithiasis and peptic ulcer disease. Gastrin levels are elevated. Genetic testing reveals a mutation in the MEN1 gene. Which of the following proteins is encoded by this mutated gene?",
       "options": [
-        "Rheumatic heart disease",
-        "Degenerative calcific changes",
-        "Infective endocarditis",
-        "Congenital abnormality"
+        "Menin",
+        "Ret",
+        "Merlin",
+        "Neurofibromin"
       ],
       "correctAnswer": 0,
-      "explanation": "Rheumatic heart disease is the most common cause of mitral stenosis in adults, accounting for over 90% of cases in developing countries. It results from fibrosis and calcification of the mitral valve following rheumatic fever.",
-      "difficulty": "medium"
+      "explanation": "The MEN1 gene located on chromosome 11 encodes the tumor suppressor protein menin. A mutation here leads to Multiple Endocrine Neoplasia type 1, characterized by parathyroid, pancreatic, and pituitary tumors.",
+      "difficulty": "hard"
     },
     {
       "id": 2,
-      "question": "A 60-year-old man presents with painless hematuria. Cystoscopy reveals a bladder tumor. Which of the following is the most important prognostic factor for bladder cancer?",
+      "question": "Which of the following immunodeficiencies is characterized by a defect in the CD40 ligand (CD154) on T cells, leading to an inability of B cells to undergo isotype switching?",
       "options": [
-        "Tumor size",
-        "Grade of tumor",
-        "Depth of invasion",
-        "Presence of carcinoma in situ"
+        "Selective IgA deficiency",
+        "Hyper-IgM syndrome",
+        "Common variable immunodeficiency",
+        "Wiskott-Aldrich syndrome"
       ],
-      "correctAnswer": 2,
-      "explanation": "The depth of invasion (T stage) is the most important prognostic factor for bladder cancer. Superficial tumors (Ta, T1) have a much better prognosis than muscle-invasive tumors (T2-T4).",
-      "difficulty": "medium"
+      "correctAnswer": 1,
+      "explanation": "Hyper-IgM syndrome is primarily an X-linked recessive disorder caused by a defect in the CD40L on helper T cells, preventing class switching. This results in high IgM levels but severely deficient IgG, IgA, and IgE.",
+      "difficulty": "hard"
     },
     {
       "id": 3,
-      "question": "Which of the following statements about heparin-induced thrombocytopenia (HIT) is correct?",
+      "question": "In a pediatric patient diagnosed with tuberous sclerosis, which of the following primary cardiac tumors is most likely to be found, often regressing spontaneously during childhood?",
       "options": [
-        "It typically occurs within 24 hours of heparin initiation",
-        "It is caused by direct toxicity of heparin on platelets",
-        "It involves IgG antibodies against platelet factor 4-heparin complexes",
-        "Warfarin is safe to use for anticoagulation in acute HIT"
+        "Myxoma",
+        "Fibroma",
+        "Rhabdomyoma",
+        "Lipoma"
       ],
       "correctAnswer": 2,
-      "explanation": "HIT is an immune-mediated disorder caused by IgG antibodies that recognize complexes of platelet factor 4 (PF4) and heparin. It typically occurs 5-14 days after heparin initiation. Warfarin should be avoided in acute HIT due to risk of skin necrosis and thrombosis.",
-      "difficulty": "medium"
+      "explanation": "Rhabdomyomas are the most common primary cardiac tumors in children and are strongly associated with tuberous sclerosis complex. They typically regress spontaneously over time.",
+      "difficulty": "hard"
     },
     {
       "id": 4,
-      "question": "A patient with chronic kidney disease develops symptomatic anemia. Which of the following is the most appropriate initial management?",
+      "question": "The 'Figure of 3' sign on a plain chest radiograph and inferior rib notching are classic radiological hallmarks for which congenital cardiovascular defect?",
       "options": [
-        "Oral iron supplementation",
-        "Vitamin B12 supplementation",
-        "Erythropoiesis-stimulating agents",
-        "Blood transfusion"
+        "Tetralogy of Fallot",
+        "Transposition of the great arteries",
+        "Ebstein's anomaly",
+        "Coarctation of the aorta"
       ],
-      "correctAnswer": 2,
-      "explanation": "Anemia in chronic kidney disease is primarily due to decreased erythropoietin production. Erythropoiesis-stimulating agents (ESAs) are the mainstay of treatment for symptomatic anemia in CKD, after ensuring adequate iron stores.",
-      "difficulty": "medium"
+      "correctAnswer": 3,
+      "explanation": "Coarctation of the aorta produces a 'Figure of 3' sign on chest X-ray due to pre-stenotic aortic dilation and post-stenotic dilation. Rib notching occurs due to dilated collateral intercostal arteries eroding the ribs.",
+      "difficulty": "hard"
     },
     {
       "id": 5,
-      "question": "Which of the following is the most sensitive test for detecting myocardial infarction in the early phase (within 3-4 hours)?",
+      "question": "Which of the following anti-arrhythmic medications is a class IC agent that acts by heavily blocking fast sodium channels, significantly prolonging the QRS complex without affecting the QT interval?",
       "options": [
-        "CK-MB",
-        "Myoglobin",
-        "Troponin I or T",
-        "LDH"
+        "Flecainide",
+        "Amiodarone",
+        "Sotalol",
+        "Procainamide"
       ],
-      "correctAnswer": 2,
-      "explanation": "Cardiac troponins (I or T) rise within 3-4 hours of myocardial injury and are more sensitive and specific than CK-MB or myoglobin for early detection of myocardial infarction.",
-      "difficulty": "medium"
+      "correctAnswer": 0,
+      "explanation": "Flecainide (and Propafenone) are Class IC antiarrhythmics. They exhibit strong sodium channel blockade, markedly slowing phase 0 depolarization and widening the QRS without prolonging the action potential duration or QT interval.",
+      "difficulty": "hard"
     },
     {
       "id": 6,
-      "question": "Which of the following is the most common cause of cushingoid syndrome?",
+      "question": "The pathogenesis of Wilson's disease is primarily driven by a mutation in a specific hepatocyte copper-transporting ATPase. Which gene is affected?",
       "options": [
-        "Pituitary adenoma",
-        "Adrenal tumor",
-        "Exogenous glucocorticoid use",
-        "Ectopic ACTH production"
+        "ATP7A",
+        "ATP7B",
+        "ATP1A1",
+        "ATP2A1"
       ],
-      "correctAnswer": 2,
-      "explanation": "Exogenous glucocorticoid use is the most common cause of cushingoid syndrome overall. Among endogenous causes, pituitary adenoma (Cushing's disease) accounts for 60-70% of cases.",
-      "difficulty": "medium"
+      "correctAnswer": 1,
+      "explanation": "Wilson's disease is an autosomal recessive disorder caused by a mutation in the ATP7B gene on chromosome 13, leading to impaired biliary excretion of copper and its toxic accumulation in the liver and brain.",
+      "difficulty": "hard"
     },
     {
       "id": 7,
-      "question": "A 55-year-old woman presents with progressive dysphagia to solids and liquids, regurgitation of undigested food, and weight loss. Barium swallow shows a 'bird's beak' appearance. What is the most likely diagnosis?",
+      "question": "Which of the following intracellular histopathological inclusions is the absolute diagnostic hallmark of Parkinson's disease, typically found aggregating in the substantia nigra?",
       "options": [
-        "Diffuse esophageal spasm",
-        "Achalasia",
-        "Esophageal carcinoma",
-        "Zenker's diverticulum"
+        "Neurofibrillary tangles",
+        "Pick bodies",
+        "Lewy bodies",
+        "Hirano bodies"
       ],
-      "correctAnswer": 1,
-      "explanation": "The classic 'bird's beak' appearance on barium swallow is diagnostic of achalasia, resulting from failure of lower esophageal sphincter relaxation and absent esophageal peristalsis.",
-      "difficulty": "medium"
+      "correctAnswer": 2,
+      "explanation": "Lewy bodies, which are eosinophilic cytoplasmic inclusions predominantly composed of alpha-synuclein, are the pathognomonic finding in the substantia nigra pars compacta of patients with Parkinson's disease.",
+      "difficulty": "hard"
     },
     {
       "id": 8,
-      "question": "Which of the following is the most common causative organism of acute otitis media in children?",
+      "question": "Which specific lysosomal enzyme deficiency is responsible for the classic presentation of Niemann-Pick disease type A, manifesting with hepatosplenomegaly, neurodegeneration, and a cherry-red macular spot?",
       "options": [
-        "Haemophilus influenzae",
-        "Streptococcus pneumoniae",
-        "Moraxella catarrhalis",
-        "Staphylococcus aureus"
+        "Hexosaminidase A",
+        "Glucocerebrosidase",
+        "Alpha-galactosidase A",
+        "Sphingomyelinase"
       ],
-      "correctAnswer": 1,
-      "explanation": "Streptococcus pneumoniae is the most common bacterial pathogen in acute otitis media, particularly in children under 2 years of age.",
-      "difficulty": "medium"
+      "correctAnswer": 3,
+      "explanation": "Niemann-Pick disease is an autosomal recessive sphingolipidosis caused by a deficiency in sphingomyelinase, leading to the accumulation of sphingomyelin in 'foam cells' within the reticuloendothelial system.",
+      "difficulty": "hard"
     },
     {
       "id": 9,
-      "question": "What is the mechanism of action of metformin in type 2 diabetes mellitus?",
+      "question": "In the targeted management of acute promyelocytic leukemia (APL), all-trans retinoic acid (ATRA) effectively induces differentiation by targeting the fusion protein resulting from which chromosomal translocation?",
       "options": [
-        "Increases insulin secretion from pancreatic beta cells",
-        "Inhibits intestinal glucose absorption",
-        "Increases glycogen synthesis in liver",
-        "Decreases hepatic glucose production and increases insulin sensitivity"
+        "t(15;17)",
+        "t(9;22)",
+        "t(8;14)",
+        "t(11;14)"
       ],
-      "correctAnswer": 3,
-      "explanation": "Metformin primarily decreases hepatic gluconeogenesis and increases insulin sensitivity in peripheral tissues (especially muscle). It does not increase insulin secretion from pancreatic beta cells.",
-      "difficulty": "medium"
+      "correctAnswer": 0,
+      "explanation": "APL is famously characterized by the t(15;17) translocation creating the PML-RARA fusion protein. ATRA binds this altered retinoic acid receptor, forcing the immature promyelocytes to differentiate.",
+      "difficulty": "hard"
     },
     {
       "id": 10,
-      "question": "Which of the following statements about atrial fibrillation is correct?",
+      "question": "The presence of anti-U1 RNP (ribonucleoprotein) autoantibodies in high titers is considered the defining and essential diagnostic serological criterion for which condition?",
       "options": [
-        "It increases the risk of stroke primarily due to left atrial appendage thrombus formation",
-        "It is characterized by regular ventricular response",
-        "Digoxin is first-line for rate control in all patients",
-        "Electrical cardioversion is contraindicated in patients with AF >48 hours duration"
+        "Systemic lupus erythematosus",
+        "Mixed connective tissue disease",
+        "Sjogren's syndrome",
+        "Dermatomyositis"
       ],
-      "correctAnswer": 0,
-      "explanation": "Atrial fibrillation increases stroke risk due to blood stasis and thrombus formation in the left atrial appendage. Anticoagulation is crucial for stroke prevention in AF patients with risk factors.",
-      "difficulty": "medium"
+      "correctAnswer": 1,
+      "explanation": "Mixed Connective Tissue Disease (MCTD) presents with overlapping features of SLE, systemic sclerosis, and polymyositis. High titers of anti-U1 RNP antibodies are a sine qua non for its diagnosis.",
+      "difficulty": "hard"
     },
     {
       "id": 11,
-      "question": "A 65-year-old man with a 40-pack-year smoking history presents with progressive dyspnea on exertion and dry cough. Pulmonary function tests show decreased FVC, decreased FEV1, normal FEV1/FVC ratio, and decreased DLCO. What is the most likely diagnosis?",
+      "question": "Which of the following oncogenic viral agents is definitively proven to be the causative agent for the development of Kaposi sarcoma in immunocompromised patients?",
       "options": [
-        "Chronic obstructive pulmonary disease",
-        "Idiopathic pulmonary fibrosis",
-        "Asthma",
-        "Bronchiectasis"
+        "Epstein-Barr virus (EBV)",
+        "Cytomegalovirus (CMV)",
+        "Human herpesvirus 8 (HHV-8)",
+        "Human papillomavirus 16 (HPV-16)"
       ],
-      "correctAnswer": 1,
-      "explanation": "The PFT pattern shows restrictive lung disease (decreased FVC and FEV1 with normal FEV1/FVC ratio) and decreased DLCO, characteristic of interstitial lung diseases like idiopathic pulmonary fibrosis. COPD would show obstructive pattern.",
-      "difficulty": "medium"
+      "correctAnswer": 2,
+      "explanation": "Human herpesvirus 8 (HHV-8), also known as Kaposi sarcoma-associated herpesvirus (KSHV), drives the angiogenesis and proliferation characterizing all epidemiological forms of Kaposi sarcoma.",
+      "difficulty": "hard"
     },
     {
       "id": 12,
-      "question": "Which of the following is the most common cause of secondary hypertension in young adults?",
+      "question": "The classic 'tram-track' appearance of the glomerular basement membrane, visualized via silver stain and electron microscopy due to mesangial cell interposition, is the defining feature of which pathology?",
       "options": [
-        "Renal artery stenosis",
-        "Pheochromocytoma",
-        "Coarctation of aorta",
-        "Cushing's syndrome"
+        "IgA nephropathy",
+        "Post-streptococcal glomerulonephritis",
+        "Focal segmental glomerulosclerosis",
+        "Membranoproliferative glomerulonephritis"
       ],
-      "correctAnswer": 2,
-      "explanation": "Coarctation of the aorta is a common cause of secondary hypertension in young adults, typically presenting with upper extremity hypertension and diminished femoral pulses.",
-      "difficulty": "medium"
+      "correctAnswer": 3,
+      "explanation": "Type 1 Membranoproliferative Glomerulonephritis (MPGN) is characterized by subendothelial immune complex deposits triggering mesangial ingrowth, splitting the basement membrane to create the classic 'tram-track' appearance.",
+      "difficulty": "hard"
     },
     {
       "id": 13,
-      "question": "What is the diagnostic criterion for diabetes mellitus based on HbA1c?",
+      "question": "A patient recovering from a ruptured cerebral aneurysm develops delayed cerebral ischemia due to vasospasm on day 6. Which highly lipophilic calcium channel blocker is uniquely indicated to prevent this specific complication?",
       "options": [
-        "≥6.0%",
-        "≥7.0%",
-        "≥6.5%",
-        "≥5.7%"
+        "Nimodipine",
+        "Amlodipine",
+        "Diltiazem",
+        "Verapamil"
       ],
-      "correctAnswer": 2,
-      "explanation": "According to ADA guidelines, diabetes mellitus is diagnosed when HbA1c is ≥6.5% (48 mmol/mol). Values between 5.7-6.4% indicate prediabetes.",
-      "difficulty": "medium"
+      "correctAnswer": 0,
+      "explanation": "Nimodipine is a dihydropyridine calcium channel blocker with high lipid solubility, allowing it to cross the blood-brain barrier effectively to prevent and reduce the severity of delayed cerebral vasospasm following a subarachnoid hemorrhage.",
+      "difficulty": "hard"
     },
     {
       "id": 14,
-      "question": "Which of the following is NOT a feature of Marfan syndrome?",
+      "question": "Which specific histological variant of thyroid carcinoma originates from parafollicular C cells, secretes calcitonin, is characterized by an amyloid stroma, and is associated with MEN 2 syndromes?",
       "options": [
-        "Aortic root dilation",
-        "Pectus excavatum",
-        "Joint hypermobility",
-        "Intellectual disability"
+        "Papillary carcinoma",
+        "Medullary carcinoma",
+        "Follicular carcinoma",
+        "Anaplastic carcinoma"
       ],
-      "correctAnswer": 3,
-      "explanation": "Marfan syndrome is a connective tissue disorder caused by fibrillin-1 gene mutation. Intellectual disability is not a feature of Marfan syndrome.",
-      "difficulty": "medium"
+      "correctAnswer": 1,
+      "explanation": "Medullary thyroid carcinoma arises from the neuroendocrine parafollicular C cells. The calcitonin produced locally misfolds and deposits as extracellular amyloid, which stains positively with Congo red.",
+      "difficulty": "hard"
     },
     {
       "id": 15,
-      "question": "What is the most common cause of heart failure in developed countries?",
+      "question": "During fetal embryogenesis, the failure of the vagal neural crest cells to properly migrate in a craniocaudal direction into the distal colon specifically results in which congenital anomaly?",
       "options": [
-        "Ischemic heart disease",
-        "Valvular heart disease",
-        "Hypertension",
-        "Cardiomyopathy"
+        "Meckel's diverticulum",
+        "Intussusception",
+        "Hirschsprung disease",
+        "Volvulus"
       ],
-      "correctAnswer": 0,
-      "explanation": "Ischemic heart disease (coronary artery disease) is the most common cause of heart failure in developed countries, followed by hypertension and valvular heart disease.",
-      "difficulty": "medium"
+      "correctAnswer": 2,
+      "explanation": "Hirschsprung disease (congenital aganglionic megacolon) is caused by the failure of neural crest cells to migrate, leading to an absence of the Meissner and Auerbach plexuses in the affected distal bowel segment.",
+      "difficulty": "hard"
     },
     {
       "id": 16,
-      "question": "A patient presents with painless progressive jaundice, palpable gallbladder (Courvoisier's sign), and weight loss. What is the most likely diagnosis?",
+      "question": "In the context of spirometry and body plethysmography, a significantly reduced FEV1/FVC ratio (< 70%) coupled with an abnormally high total lung capacity (TLC) is the physiological hallmark of which condition?",
       "options": [
-        "Choledocholithiasis",
-        "Pancreatic head carcinoma",
-        "Acute cholecystitis",
-        "Hepatitis"
+        "Idiopathic pulmonary fibrosis",
+        "Sarcoidosis",
+        "Kyphoscoliosis",
+        "Chronic obstructive pulmonary disease"
       ],
-      "correctAnswer": 1,
-      "explanation": "Courvoisier's law states that in the presence of jaundice, a palpably enlarged gallbladder suggests malignant obstruction (e.g., pancreatic head carcinoma or cholangiocarcinoma) rather than gallstones.",
-      "difficulty": "medium"
+      "correctAnswer": 3,
+      "explanation": "COPD is an obstructive lung disease defined by a decreased FEV1/FVC ratio. Due to air trapping and loss of elastic recoil (especially in emphysema), patients exhibit hyperinflation, manifesting as an increased Total Lung Capacity (TLC).",
+      "difficulty": "hard"
     },
     {
       "id": 17,
-      "question": "Which of the following is the most common cause of pulmonary embolism?",
+      "question": "A 45-year-old female presents with severe pruritus, fatigue, and jaundice. Liver biopsy shows non-suppurative granulomatous destruction of intralobular bile ducts. Which autoantibody is the most specific serological marker?",
       "options": [
-        "Air embolism",
-        "Fat embolism",
-        "Deep vein thrombosis of femoral veins",
-        "Tumor embolism"
+        "Anti-mitochondrial antibodies (AMA)",
+        "Anti-smooth muscle antibodies (ASMA)",
+        "Anti-nuclear antibodies (ANA)",
+        "Anti-LKM-1 antibodies"
       ],
-      "correctAnswer": 2,
-      "explanation": "Over 90% of pulmonary emboli originate from deep vein thrombosis, most commonly from the femoral or iliac veins.",
-      "difficulty": "medium"
+      "correctAnswer": 0,
+      "explanation": "Primary Biliary Cholangitis (PBC) is an autoimmune destruction of small intrahepatic bile ducts. Anti-mitochondrial antibodies (AMA) are found in over 90-95% of patients and are the diagnostic hallmark.",
+      "difficulty": "hard"
     },
     {
       "id": 18,
-      "question": "What is the mechanism of action of warfarin?",
+      "question": "In the central nervous system, which specific type of neuroglial cell is responsible for the myelination of multiple axons simultaneously, and is primarily targeted in Multiple Sclerosis?",
       "options": [
-        "Inhibits thrombin directly",
-        "Activates antithrombin III",
-        "Inhibits platelet aggregation",
-        "Inhibits vitamin K epoxide reductase, preventing clotting factor synthesis"
+        "Schwann cells",
+        "Oligodendrocytes",
+        "Astrocytes",
+        "Microglia"
       ],
-      "correctAnswer": 3,
-      "explanation": "Warfarin is a vitamin K antagonist that inhibits vitamin K epoxide reductase complex 1 (VKORC1), preventing the recycling of vitamin K and thus the synthesis of functional clotting factors II, VII, IX, and X.",
-      "difficulty": "medium"
+      "correctAnswer": 1,
+      "explanation": "Oligodendrocytes are responsible for producing and maintaining myelin sheaths in the CNS, with one cell capable of myelinating up to 50 distinct axonal segments. They are the target of autoimmune demyelination in Multiple Sclerosis.",
+      "difficulty": "hard"
     },
     {
       "id": 19,
-      "question": "A 25-year-old woman presents with malar rash, photosensitivity, oral ulcers, and arthritis. ANA is positive. Which additional finding would be most specific for SLE diagnosis?",
+      "question": "The presence of distinct target cells (codocytes) on a peripheral blood smear is least likely to be associated with which of the following hematological states?",
       "options": [
-        "Anti-dsDNA antibodies",
-        "Rheumatoid factor",
-        "Anti-CCP antibodies",
-        "ANCA"
+        "Thalassemia",
+        "Splenectomy",
+        "Hereditary spherocytosis",
+        "Liver disease"
       ],
-      "correctAnswer": 0,
-      "explanation": "Anti-double-stranded DNA (anti-dsDNA) antibodies are highly specific for systemic lupus erythematosus (SLE) and are part of the diagnostic criteria.",
-      "difficulty": "medium"
+      "correctAnswer": 2,
+      "explanation": "Target cells form due to an excess of red cell membrane relative to intracellular volume (e.g., in thalassemia, liver disease, or asplenia). Hereditary spherocytosis features a decreased membrane-to-volume ratio, presenting with spherocytes, not target cells.",
+      "difficulty": "hard"
     },
     {
       "id": 20,
-      "question": "What is the normal anion gap range?",
+      "question": "Which of the following first-line anti-tuberculosis medications functions primarily by inhibiting the synthesis of mycolic acids, which are essential, complex lipid components of the mycobacterial cell wall?",
       "options": [
-        "12-16 mEq/L",
-        "8-12 mEq/L",
-        "4-8 mEq/L",
-        "16-20 mEq/L"
+        "Rifampin",
+        "Ethambutol",
+        "Pyrazinamide",
+        "Isoniazid"
       ],
-      "correctAnswer": 1,
-      "explanation": "The normal anion gap (calculated as [Na+] - [Cl- + HCO3-]) ranges from 8 to 12 mEq/L when using standard laboratory methods.",
-      "difficulty": "medium"
+      "correctAnswer": 3,
+      "explanation": "Isoniazid (INH) is a prodrug activated by the mycobacterial catalase-peroxidase (KatG) that specifically inhibits InhA, an enzyme crucial for the synthesis of mycolic acids in the mycobacterial cell wall.",
+      "difficulty": "hard"
     },
     {
       "id": 21,
-      "question": "Which of the following is the most specific tumor marker for hepatocellular carcinoma?",
+      "question": "In classical galactosemia, the accumulation of toxic galactitol leading to infantile cataracts, severe hepatomegaly, and failure to thrive is due to an autosomal recessive deficiency in which enzyme?",
       "options": [
-        "CEA (Carcinoembryonic antigen)",
-        "AFP (Alpha-fetoprotein)",
-        "CA 19-9",
-        "PSA (Prostate-specific antigen)"
+        "Galactose-1-phosphate uridyltransferase",
+        "Galactokinase",
+        "Aldolase B",
+        "Fructokinase"
       ],
-      "correctAnswer": 1,
-      "explanation": "Alpha-fetoprotein (AFP) is the most specific tumor marker for hepatocellular carcinoma, particularly when levels are >400 ng/mL. However, AFP can also be elevated in germ cell tumors and during pregnancy.",
+      "correctAnswer": 0,
+      "explanation": "Classical galactosemia is caused by a profound deficiency of galactose-1-phosphate uridyltransferase (GALT), leading to accumulation of galactose-1-phosphate and galactitol, causing multiorgan toxicity if lactose is ingested.",
       "difficulty": "hard"
     },
     {
       "id": 22,
-      "question": "A patient presents with recurrent episodes of vertigo, tinnitus, hearing loss, and aural fullness. Which condition is most likely?",
+      "question": "Paroxysmal nocturnal hemoglobinuria (PNH) manifests with intravascular hemolysis and venous thrombosis. This condition is mechanistically caused by an acquired somatic mutation in which specific gene?",
       "options": [
-        "Benign paroxysmal positional vertigo (BPPV)",
-        "Vestibular neuritis",
-        "Meniere's disease",
-        "Acoustic neuroma"
+        "JAK2",
+        "PIGA",
+        "BCR-ABL",
+        "RUNX1"
       ],
-      "correctAnswer": 2,
-      "explanation": "Meniere's disease is characterized by the triad of episodic vertigo, fluctuating sensorineural hearing loss, and tinnitus, often with aural fullness. BPPV presents with brief vertigo episodes triggered by positional changes without hearing loss.",
+      "correctAnswer": 1,
+      "explanation": "PNH is caused by an acquired clonal somatic mutation in the PIGA gene in hematopoietic stem cells. This defect prevents the synthesis of GPI anchors, leaving red cells devoid of protective surface proteins CD55 and CD59, making them susceptible to complement-mediated lysis.",
       "difficulty": "hard"
     },
     {
       "id": 23,
-      "question": "What is the mechanism of action of sirolimus (rapamycin) as an immunosuppressant?",
+      "question": "Which specific anatomical structures serve as one-way valves and represent the primary physiological site of cerebrospinal fluid (CSF) drainage and absorption into the dural venous sinuses?",
       "options": [
-        "Inhibits calcineurin phosphatase activity",
-        "Blocks IL-2 receptor signaling",
-        "Inhibits purine synthesis",
-        "Inhibits mTOR pathway, blocking IL-2-mediated signal transduction"
+        "Choroid plexus",
+        "Foramen of Monro",
+        "Arachnoid granulations",
+        "Aqueduct of Sylvius"
       ],
-      "correctAnswer": 3,
-      "explanation": "Sirolimus (rapamycin) binds to FKBP12 and inhibits the mammalian target of rapamycin (mTOR) pathway, thereby blocking IL-2-mediated signal transduction and T-cell proliferation. Unlike calcineurin inhibitors, it does not inhibit IL-2 production.",
+      "correctAnswer": 2,
+      "explanation": "Arachnoid granulations (or villi) act as one-way valves that allow the passive transport and absorption of CSF from the subarachnoid space directly into the superior sagittal sinus and the general venous circulation.",
       "difficulty": "hard"
     },
     {
       "id": 24,
-      "question": "Which of the following statements about the pathophysiology of preeclampsia is correct?",
+      "question": "A patient carrying a pathogenic RET proto-oncogene mutation is diagnosed with Multiple Endocrine Neoplasia type 2A (MEN 2A). Alongside medullary thyroid carcinoma and pheochromocytoma, what is the third classic tumor of this syndrome?",
       "options": [
-        "It is primarily caused by maternal endothelial dysfunction due to placental factors",
-        "It results from excessive progesterone production",
-        "It is caused by maternal hypervolemia",
-        "It is due to fetal insulin resistance"
+        "Pituitary adenoma",
+        "Pancreatic neuroendocrine tumor",
+        "Adrenal cortical adenoma",
+        "Parathyroid hyperplasia"
       ],
-      "correctAnswer": 0,
-      "explanation": "Preeclampsia pathophysiology involves abnormal placental implantation leading to release of anti-angiogenic factors (sFlt-1, soluble endoglin) causing maternal endothelial dysfunction, vasoconstriction, and the characteristic hypertension and proteinuria.",
+      "correctAnswer": 3,
+      "explanation": "The MEN 2A syndrome classic triad includes Medullary thyroid carcinoma (100%), Pheochromocytoma (50%), and Parathyroid hyperplasia/adenoma (20-30%), which distinguishes it from MEN 2B (which features mucosal neuromas and marfanoid habitus instead of parathyroid disease).",
       "difficulty": "hard"
     },
     {
       "id": 25,
-      "question": "A 62-year-old man presents with progressive dysphagia to solids and liquids, weight loss, and regurgitation of undigested food. Barium swallow shows a 'bird's beak' appearance. What is the most likely diagnosis?",
+      "question": "The intravenous pharmacological agent abciximab, utilized primarily during percutaneous coronary interventions, exerts its potent antiplatelet effect by acting as a direct antagonist at which specific surface receptor?",
       "options": [
-        "Diffuse esophageal spasm",
-        "Achalasia",
-        "Esophageal carcinoma",
-        "Zenker's diverticulum"
+        "Glycoprotein IIb/IIIa",
+        "P2Y12 ADP receptor",
+        "Protease-activated receptor-1 (PAR-1)",
+        "Thromboxane A2 receptor"
       ],
-      "correctAnswer": 1,
-      "explanation": "The classic 'bird's beak' appearance on barium swallow is diagnostic of achalasia, resulting from failure of lower esophageal sphincter relaxation and absent esophageal peristalsis. Symptoms include dysphagia to both solids and liquids, regurgitation of undigested food, and chest pain.",
+      "correctAnswer": 0,
+      "explanation": "Abciximab is a monoclonal antibody Fab fragment that binds to the glycoprotein IIb/IIIa receptor on platelets. This blocks the binding of fibrinogen and von Willebrand factor, thus preventing the final common pathway of platelet aggregation.",
       "difficulty": "hard"
     },
     {
       "id": 26,
-      "question": "What is the most common cause of Cushing's syndrome?",
+      "question": "Which specific type of renal tubular acidosis is characterized by a failure of alpha-intercalated cells in the collecting duct to secrete hydrogen ions, leading to persistently basic urine and a high risk of calcium phosphate nephrolithiasis?",
       "options": [
-        "Pituitary adenoma (Cushing's disease)",
-        "Adrenal adenoma",
-        "Exogenous glucocorticoid use",
-        "Ectopic ACTH production"
+        "Type 2 (Proximal)",
+        "Type 1 (Distal)",
+        "Type 4 (Hyperkalemic)",
+        "Type 3 (Mixed)"
       ],
-      "correctAnswer": 2,
-      "explanation": "Exogenous glucocorticoid use is the most common cause of Cushing's syndrome overall. Among endogenous causes, pituitary adenoma (Cushing's disease) accounts for 60-70% of cases.",
+      "correctAnswer": 1,
+      "explanation": "Type 1 (Distal) RTA is caused by a defect in hydrogen ion secretion in the distal tubule. The inability to acidify the urine leads to a pH > 5.5, hypokalemia, and precipitation of calcium phosphate stones in an alkaline environment.",
       "difficulty": "hard"
     },
     {
       "id": 27,
-      "question": "Which of the following is the most accurate statement regarding the diagnosis of polycystic ovary syndrome (PCOS) according to Rotterdam criteria?",
+      "question": "In a patient suffering from advanced carcinoid syndrome due to a metastatic midgut neuroendocrine tumor, which specific cardiac valvulopathy is most commonly observed due to plaque-like fibrous endocardial thickening?",
       "options": [
-        "Requires presence of all three: oligo/anovulation, hyperandrogenism, and polycystic ovaries",
-        "Requires elevated LH/FSH ratio >2:1",
-        "Diagnosis requires insulin resistance and obesity",
-        "Diagnosis requires two of three: oligo/anovulation, hyperandrogenism, or polycystic ovaries"
+        "Mitral stenosis",
+        "Aortic regurgitation",
+        "Tricuspid regurgitation",
+        "Mitral valve prolapse"
       ],
-      "correctAnswer": 3,
-      "explanation": "According to the Rotterdam criteria, PCOS is diagnosed when at least two of the following three criteria are present: oligo- or anovulation, clinical and/or biochemical signs of hyperandrogenism, and polycystic ovaries on ultrasound. Other causes must be excluded.",
+      "correctAnswer": 2,
+      "explanation": "Carcinoid heart disease predominantly affects the right side of the heart because the vasoactive substances (e.g., serotonin) are inactivated by pulmonary monoamine oxidase before reaching the left heart. Tricuspid regurgitation is the most common resultant lesion.",
       "difficulty": "hard"
     },
     {
       "id": 28,
-      "question": "A patient presents with acute onset of severe back pain followed by lower extremity weakness and urinary retention. MRI shows a spinal epidural abscess. What is the most common causative organism?",
+      "question": "Which of the following fungal pathogens is characterized as heavily encapsulated, produces a positive India ink preparation showing a wide unstained halo, and is a major cause of fatal meningoencephalitis in AIDS patients?",
       "options": [
-        "Staphylococcus aureus",
-        "Escherichia coli",
-        "Pseudomonas aeruginosa",
-        "Mycobacterium tuberculosis"
+        "Histoplasma capsulatum",
+        "Coccidioides immitis",
+        "Blastomyces dermatitidis",
+        "Cryptococcus neoformans"
       ],
-      "correctAnswer": 0,
-      "explanation": "Staphylococcus aureus is the most common causative organism of spinal epidural abscess, accounting for approximately 60-70% of cases. Other organisms include streptococci, gram-negative bacteria (like E. coli), and anaerobes.",
+      "correctAnswer": 3,
+      "explanation": "Cryptococcus neoformans is an encapsulated yeast found in soil and pigeon droppings. The thick polysaccharide capsule repels India ink, creating a clear halo. It frequently causes severe meningoencephalitis in severely immunocompromised individuals.",
       "difficulty": "hard"
     },
     {
       "id": 29,
-      "question": "What is the mechanism of action of imatinib in chronic myeloid leukemia (CML)?",
+      "question": "An X-linked recessive neurodegenerative disorder caused by a severe loss-of-function mutation in the ATP7A gene, leading to profound systemic copper deficiency, brittle 'kinky' hair, and hypotonia, is known as:",
       "options": [
-        "Inhibits DNA topoisomerase II",
-        "Blocks BCR-ABL tyrosine kinase activity",
-        "Inhibits proteasome function",
-        "Activates p53 tumor suppressor"
+        "Wilson's disease",
+        "Menkes disease",
+        "Hemochromatosis",
+        "Hunter syndrome"
       ],
       "correctAnswer": 1,
-      "explanation": "Imatinib (Gleevec) is a tyrosine kinase inhibitor that specifically targets the BCR-ABL fusion protein resulting from the Philadelphia chromosome translocation. It binds to the ATP-binding site of BCR-ABL, inhibiting its constitutive tyrosine kinase activity and downstream signaling pathways.",
+      "explanation": "Menkes disease is caused by defective ATP7A, which impairs copper absorption from the GI tract and delivery to the brain. This causes a deficiency in copper-dependent enzymes (like lysyl oxidase), leading to kinky hair, growth retardation, and severe neurodegeneration.",
       "difficulty": "hard"
     },
     {
       "id": 30,
-      "question": "A 30-year-old woman presents with recurrent miscarriages and livedo reticularis. Laboratory studies show prolonged aPTT that does not correct with mixing. Which antibody is most likely present?",
+      "question": "The distinctive histological finding of optically clear, overlapping nuclei with dispersed chromatin, colloquially termed 'Orphan Annie eye' nuclei, is absolutely characteristic of which specific thyroid malignancy?",
       "options": [
-        "Antinuclear antibody (ANA)",
-        "Anti-dsDNA antibody",
-        "Lupus anticoagulant",
-        "Anti-cardiolipin IgG"
+        "Follicular thyroid carcinoma",
+        "Medullary thyroid carcinoma",
+        "Anaplastic thyroid carcinoma",
+        "Papillary thyroid carcinoma"
       ],
-      "correctAnswer": 2,
-      "explanation": "Lupus anticoagulant (part of antiphospholipid syndrome) causes a prolonged aPTT that does not correct with mixing due to phospholipid-binding antibodies.",
+      "correctAnswer": 3,
+      "explanation": "Papillary thyroid carcinoma is the most common thyroid cancer. Its diagnostic histological hallmarks include 'Orphan Annie eye' nuclei (empty-appearing nuclei due to dispersed chromatin), nuclear grooves, intranuclear inclusions, and psammoma bodies.",
       "difficulty": "hard"
     }
   ]
