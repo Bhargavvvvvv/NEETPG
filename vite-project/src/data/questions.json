@@ -2,461 +2,201 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the most common cause of uncomplicated urinary tract infections?",
+      "question": "What is the most common anatomical site for the presentation of ectopic thyroid tissue?",
       "options": [
-        "Escherichia coli",
-        "Staphylococcus aureus",
-        "Pseudomonas aeruginosa",
-        "Enterococcus faecalis"
+        "Lingual thyroid",
+        "Submandibular region",
+        "Anterior mediastinum",
+        "Cervical lymph nodes"
       ],
       "correctAnswer": 0,
-      "explanation": "Escherichia coli is the most common bacterial pathogen responsible for uncomplicated UTIs.",
-      "difficulty": "easy"
+      "explanation": "The lingual thyroid is the most common type of ectopic thyroid tissue, occurring when the thyroid gland fails to descend from the foramen cecum to its normal pretracheal position.",
+      "difficulty": "medium"
     },
     {
       "id": 2,
-      "question": "Which organelle is classically known as the powerhouse of the cell?",
+      "question": "Which is considered the single best initial screening test for evaluating suspected thyroid dysfunction?",
       "options": [
-        "Nucleus",
-        "Mitochondria",
-        "Golgi apparatus",
-        "Endoplasmic reticulum"
+        "Total T4 level",
+        "Thyroid-stimulating hormone (TSH)",
+        "Free T4 level",
+        "Free T3 level"
       ],
       "correctAnswer": 1,
-      "explanation": "Mitochondria generate most of the cell's supply of ATP, acting as the powerhouse.",
-      "difficulty": "easy"
+      "explanation": "Serum TSH is the most sensitive first-line screening test for both hypothyroidism and hyperthyroidism due to the highly responsive negative feedback loop between the thyroid and pituitary.",
+      "difficulty": "medium"
     },
     {
       "id": 3,
-      "question": "What is the approximate normal lifespan of a mature red blood cell?",
+      "question": "Which section of the gastrointestinal tract is the most frequent site for a volvulus in adults?",
       "options": [
-        "60 days",
-        "90 days",
-        "120 days",
-        "150 days"
+        "Cecum",
+        "Transverse colon",
+        "Sigmoid colon",
+        "Terminal ileum"
       ],
       "correctAnswer": 2,
-      "explanation": "The normal lifespan of a circulating erythrocyte is roughly 120 days.",
-      "difficulty": "easy"
+      "explanation": "The sigmoid colon is the most common site of volvulus in adults, typically presenting with a characteristic 'coffee bean' sign on an abdominal X-ray.",
+      "difficulty": "medium"
     },
     {
       "id": 4,
-      "question": "Which mosquito vector is primarily responsible for the transmission of Dengue fever?",
+      "question": "The presence of binucleated giant cells with prominent nucleoli (Reed-Sternberg cells) is the histological hallmark of which disease?",
       "options": [
-        "Anopheles mosquito",
-        "Culex mosquito",
-        "Sandfly",
-        "Aedes aegypti mosquito"
+        "Burkitt Lymphoma",
+        "Follicular Lymphoma",
+        "Mantle Cell Lymphoma",
+        "Hodgkin Lymphoma"
       ],
       "correctAnswer": 3,
-      "explanation": "Dengue fever is transmitted primarily by the Aedes aegypti mosquito.",
-      "difficulty": "easy"
+      "explanation": "Reed-Sternberg cells, classically described as having an 'owl-eye' appearance, are the pathognomonic malignant cells found in classical Hodgkin Lymphoma.",
+      "difficulty": "medium"
     },
     {
       "id": 5,
-      "question": "Which bone is the longest and strongest in the human body?",
+      "question": "Which congenital heart defect is most classically associated with Congenital Rubella Syndrome?",
       "options": [
-        "Femur",
-        "Tibia",
-        "Humerus",
-        "Fibula"
+        "Patent Ductus Arteriosus (PDA)",
+        "Ventricular Septal Defect (VSD)",
+        "Atrial Septal Defect (ASD)",
+        "Tetralogy of Fallot"
       ],
       "correctAnswer": 0,
-      "explanation": "The femur is the longest, heaviest, and strongest bone in the body.",
-      "difficulty": "easy"
+      "explanation": "The classic triad of Congenital Rubella Syndrome includes cataracts, sensorineural hearing loss, and a congenital heart defect, most commonly Patent Ductus Arteriosus (PDA).",
+      "difficulty": "medium"
     },
     {
       "id": 6,
-      "question": "A severe deficiency of Vitamin C classically leads to which condition?",
+      "question": "What is the specific pharmacological antidote of choice for severe beta-blocker toxicity?",
       "options": [
-        "Rickets",
-        "Scurvy",
-        "Pellagra",
-        "Beriberi"
+        "Intravenous Calcium",
+        "Glucagon",
+        "High-dose Insulin",
+        "Atropine"
       ],
       "correctAnswer": 1,
-      "explanation": "Vitamin C deficiency results in impaired collagen synthesis, leading to scurvy.",
-      "difficulty": "easy"
+      "explanation": "Glucagon is the antidote for beta-blocker overdose. It bypasses the blocked beta receptors and directly stimulates adenylate cyclase, increasing intracellular cAMP.",
+      "difficulty": "medium"
     },
     {
       "id": 7,
-      "question": "Which blood type is considered the universal red blood cell donor?",
+      "question": "Which anatomical variant is the most common form of intussusception seen in the pediatric population?",
       "options": [
-        "A positive",
-        "AB positive",
-        "O negative",
-        "B negative"
+        "Colocolic",
+        "Ileoileal",
+        "Ileocolic",
+        "Cecocecal"
       ],
       "correctAnswer": 2,
-      "explanation": "O negative blood lacks A, B, and Rh antigens, making it the universal donor.",
-      "difficulty": "easy"
+      "explanation": "Ileocolic intussusception, where the terminal ileum telescopes into the ascending colon, accounts for up to 90% of all pediatric intussusception cases.",
+      "difficulty": "medium"
     },
     {
       "id": 8,
-      "question": "How many cervical vertebrae are present in the standard human spine?",
+      "question": "What is the initial investigation of choice for a patient presenting with a 'thunderclap' headache suspected to be a subarachnoid hemorrhage within 6 hours of onset?",
       "options": [
-        "5",
-        "6",
-        "12",
-        "7"
+        "MRI of the brain",
+        "Lumbar Puncture",
+        "CT Angiography",
+        "Non-contrast CT of the head"
       ],
       "correctAnswer": 3,
-      "explanation": "The human vertebral column typically contains 7 cervical vertebrae.",
-      "difficulty": "easy"
+      "explanation": "A non-contrast CT scan of the head is highly sensitive for detecting acute subarachnoid hemorrhage when performed within the first 6 hours of symptom onset.",
+      "difficulty": "medium"
     },
     {
       "id": 9,
-      "question": "What is the normal resting heart rate range for a healthy adult?",
+      "question": "Which of the following correctly lists the Vitamin K-dependent coagulation factors?",
       "options": [
-        "60-100 bpm",
-        "40-60 bpm",
-        "100-120 bpm",
-        "120-140 bpm"
+        "Factors II, VII, IX, X",
+        "Factors I, II, V, VIII",
+        "Factors XI, XII, XIII",
+        "Factors V, VII, IX, XI"
       ],
       "correctAnswer": 0,
-      "explanation": "A normal resting heart rate for adults ranges from 60 to 100 beats per minute.",
-      "difficulty": "easy"
+      "explanation": "Vitamin K is essential for the gamma-carboxylation of glutamic acid residues on coagulation factors II, VII, IX, and X.",
+      "difficulty": "medium"
     },
     {
       "id": 10,
-      "question": "What is the primary first-line medication for the treatment of anaphylaxis?",
+      "question": "What is the overall most common cause of Cushing's syndrome in clinical practice?",
       "options": [
-        "Atropine",
-        "Epinephrine",
-        "Diphenhydramine",
-        "Hydrocortisone"
+        "Pituitary microadenoma",
+        "Exogenous (iatrogenic) corticosteroids",
+        "Primary adrenal adenoma",
+        "Ectopic ACTH production"
       ],
       "correctAnswer": 1,
-      "explanation": "Intramuscular epinephrine is the first-line medication for life-threatening anaphylaxis.",
-      "difficulty": "easy"
+      "explanation": "While pituitary adenomas are the most common endogenous cause, the use of exogenous corticosteroids is the overall most frequent cause of Cushing's syndrome.",
+      "difficulty": "medium"
     },
     {
       "id": 11,
-      "question": "Where is dietary iron primarily absorbed in the gastrointestinal tract?",
+      "question": "Which class of medications is considered the long-term first-line pharmacological treatment for Generalized Anxiety Disorder (GAD)?",
       "options": [
-        "Stomach",
-        "Ileum",
-        "Duodenum",
-        "Colon"
+        "Benzodiazepines",
+        "Buspirone",
+        "Selective Serotonin Reuptake Inhibitors (SSRIs)",
+        "Beta-blockers"
       ],
       "correctAnswer": 2,
-      "explanation": "Iron is predominantly absorbed in the proximal small intestine, specifically the duodenum.",
+      "explanation": "SSRIs (and SNRIs) are the first-line maintenance pharmacological treatment for Generalized Anxiety Disorder due to their efficacy and favorable safety profile.",
       "difficulty": "medium"
     },
     {
       "id": 12,
-      "question": "What is the specific antidote for acetaminophen toxicity?",
+      "question": "Which of the following is the most common histological type of malignant gastric neoplasm?",
       "options": [
-        "Naloxone",
-        "Flumazenil",
-        "Atropine",
-        "N-acetylcysteine"
+        "Squamous cell carcinoma",
+        "Gastric lymphoma (MALToma)",
+        "Gastrointestinal stromal tumor (GIST)",
+        "Adenocarcinoma"
       ],
       "correctAnswer": 3,
-      "explanation": "N-acetylcysteine replenishes glutathione stores and is the specific antidote.",
+      "explanation": "Gastric adenocarcinoma is by far the most common histological subtype of stomach cancer, accounting for approximately 90-95% of all malignant gastric tumors.",
       "difficulty": "medium"
     },
     {
       "id": 13,
-      "question": "Which microorganism is the causative agent of Syphilis?",
+      "question": "Which pathognomonic histological finding is observed in the brain tissue of patients infected with the Rabies virus?",
       "options": [
-        "Treponema pallidum",
-        "Neisseria gonorrhoeae",
-        "Chlamydia trachomatis",
-        "Haemophilus ducreyi"
+        "Negri bodies",
+        "Lewy bodies",
+        "Cowdry type A inclusions",
+        "Hirano bodies"
       ],
       "correctAnswer": 0,
-      "explanation": "Syphilis is caused by the spirochete Treponema pallidum.",
+      "explanation": "Negri bodies are characteristic eosinophilic cytoplasmic inclusions found in the neurons in rabies encephalitis.",
       "difficulty": "medium"
     },
     {
       "id": 14,
-      "question": "Which of the following is the largest organ in the human body by surface area?",
+      "question": "Which of the following vaccines is formulated as a live attenuated virus?",
       "options": [
-        "Liver",
-        "Skin",
-        "Lungs",
-        "Brain"
+        "Hepatitis B vaccine",
+        "Measles vaccine",
+        "Diphtheria-Tetanus-Pertussis (DPT)",
+        "Rabies vaccine"
       ],
       "correctAnswer": 1,
-      "explanation": "The skin is the body's largest organ by surface area and weight.",
+      "explanation": "The measles vaccine (usually given as part of MMR) is a live attenuated viral vaccine.",
       "difficulty": "medium"
     },
     {
       "id": 15,
-      "question": "Vitamin B12 deficiency is most classically associated with which specific type of anemia?",
+      "question": "A classic 'thumbprint sign' seen on a lateral soft-tissue radiograph of the neck is highly suggestive of which condition?",
       "options": [
-        "Microcytic hypochromic anemia",
-        "Hemolytic anemia",
-        "Pernicious anemia",
-        "Aplastic anemia"
+        "Croup (Laryngotracheobronchitis)",
+        "Retropharyngeal abscess",
+        "Acute epiglottitis",
+        "Bacterial tracheitis"
       ],
       "correctAnswer": 2,
-      "explanation": "Pernicious anemia impairs intrinsic factor production, leading to B12 malabsorption.",
+      "explanation": "The 'thumbprint sign' on a lateral neck X-ray represents an enlarged, swollen epiglottis protruding into the airway.",
       "difficulty": "medium"
     },
     {
       "id": 16,
-      "question": "What is the approximate normal tidal volume in a healthy adult at rest?",
-      "options": [
-        "150 mL",
-        "300 mL",
-        "1000 mL",
-        "500 mL"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Tidal volume is approximately 500 mL in a healthy resting adult.",
-      "difficulty": "medium"
-    },
-    {
-      "id": 17,
-      "question": "Which cranial nerve is widely known as the Vagus nerve?",
-      "options": [
-        "Cranial Nerve X",
-        "Cranial Nerve IX",
-        "Cranial Nerve XI",
-        "Cranial Nerve VII"
-      ],
-      "correctAnswer": 0,
-      "explanation": "The Vagus nerve is the tenth cranial nerve (CN X).",
-      "difficulty": "medium"
-    },
-    {
-      "id": 18,
-      "question": "What is the primary intracellular cation in the human body?",
-      "options": [
-        "Sodium",
-        "Potassium",
-        "Calcium",
-        "Magnesium"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Potassium is the major intracellular cation essential for membrane potential.",
-      "difficulty": "medium"
-    },
-    {
-      "id": 19,
-      "question": "The first cervical vertebra (C1) is also anatomically referred to as what?",
-      "options": [
-        "Axis",
-        "Prominens",
-        "Atlas",
-        "Coccyx"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The first cervical vertebra is named the Atlas.",
-      "difficulty": "medium"
-    },
-    {
-      "id": 20,
-      "question": "Which hormone, secreted by the pineal gland, primarily regulates sleep-wake cycles?",
-      "options": [
-        "Cortisol",
-        "Thyroxine",
-        "Insulin",
-        "Melatonin"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Melatonin is a hormone produced by the pineal gland to regulate circadian rhythm.",
-      "difficulty": "medium"
-    },
-    {
-      "id": 21,
-      "question": "What is considered the drug of choice for the treatment of Trigeminal Neuralgia?",
-      "options": [
-        "Carbamazepine",
-        "Gabapentin",
-        "Phenytoin",
-        "Valproic acid"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Carbamazepine is the first-line medication for trigeminal neuralgia.",
-      "difficulty": "medium"
-    },
-    {
-      "id": 22,
-      "question": "Which tumor marker is most classically monitored in ovarian cancer?",
-      "options": [
-        "CEA",
-        "CA-125",
-        "AFP",
-        "PSA"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Cancer Antigen 125 (CA-125) is elevated in epithelial ovarian cancers.",
-      "difficulty": "medium"
-    },
-    {
-      "id": 23,
-      "question": "Which carpal bone is the most frequently fractured?",
-      "options": [
-        "Lunate",
-        "Pisiform",
-        "Scaphoid",
-        "Trapezium"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The scaphoid is the most commonly fractured carpal bone from a fall.",
-      "difficulty": "medium"
-    },
-    {
-      "id": 24,
-      "question": "Wernicke's encephalopathy is primarily caused by a deficiency in which vitamin?",
-      "options": [
-        "Riboflavin (B2)",
-        "Niacin (B3)",
-        "Pyridoxine (B6)",
-        "Thiamine (B1)"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Wernicke's encephalopathy is driven by a deficiency of Vitamin B1 (thiamine).",
-      "difficulty": "medium"
-    },
-    {
-      "id": 25,
-      "question": "Which clinical feature is a classic hallmark motor symptom of Parkinson's disease?",
-      "options": [
-        "Resting tremor",
-        "Intention tremor",
-        "Chorea",
-        "Athetosis"
-      ],
-      "correctAnswer": 0,
-      "explanation": "A 'pill-rolling' resting tremor is a cardinal motor manifestation.",
-      "difficulty": "medium"
-    },
-    {
-      "id": 26,
-      "question": "The Philadelphia chromosome is most strongly associated with which malignancy?",
-      "options": [
-        "Acute Lymphoblastic Leukemia",
-        "Chronic Myeloid Leukemia",
-        "Hodgkin Lymphoma",
-        "Multiple Myeloma"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The t(9;22) translocation creates the BCR-ABL1 fusion gene defining CML.",
-      "difficulty": "medium"
-    },
-    {
-      "id": 27,
-      "question": "Kimmelstiel-Wilson nodules are a pathognomonic finding indicative of what condition?",
-      "options": [
-        "Hypertensive nephrosclerosis",
-        "Lupus nephritis",
-        "Diabetic nephropathy",
-        "IgA nephropathy"
-      ],
-      "correctAnswer": 2,
-      "explanation": "These nodules are nodular glomerulosclerosis found in advanced diabetic nephropathy.",
-      "difficulty": "medium"
-    },
-    {
-      "id": 28,
-      "question": "What is the recommended first-line intravenous treatment for Status Epilepticus?",
-      "options": [
-        "Phenobarbital",
-        "Propofol",
-        "Levetiracetam",
-        "Lorazepam"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Intravenous benzodiazepines like lorazepam are the drugs of choice.",
-      "difficulty": "medium"
-    },
-    {
-      "id": 29,
-      "question": "Aschoff bodies are classically found in patients suffering from which condition?",
-      "options": [
-        "Rheumatic fever",
-        "Infective endocarditis",
-        "Viral myocarditis",
-        "Chagas disease"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Aschoff bodies are focal myocardial inflammation seen in acute rheumatic heart disease.",
-      "difficulty": "medium"
-    },
-    {
-      "id": 30,
-      "question": "Which is the most common histological type of thyroid carcinoma?",
-      "options": [
-        "Follicular carcinoma",
-        "Papillary carcinoma",
-        "Medullary carcinoma",
-        "Anaplastic carcinoma"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Papillary thyroid carcinoma accounts for approximately 80% of all thyroid cancers.",
-      "difficulty": "medium"
-    },
-    {
-      "id": 31,
-      "question": "A 'cherry-red spot' on the macula is a classic finding in an infant with which disease?",
-      "options": [
-        "Gaucher's disease",
-        "Fabry disease",
-        "Tay-Sachs disease",
-        "Pompe disease"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Tay-Sachs disease leaves the central fovea appearing as a cherry-red spot.",
-      "difficulty": "medium"
-    },
-    {
-      "id": 32,
-      "question": "Courvoisier's law is highly suggestive of what condition?",
-      "options": [
-        "Choledocholithiasis",
-        "Acute cholecystitis",
-        "Hepatocellular carcinoma",
-        "Carcinoma of the head of pancreas"
-      ],
-      "correctAnswer": 3,
-      "explanation": "A palpable, non-tender gallbladder strongly points toward an obstructing pancreatic malignancy.",
-      "difficulty": "medium"
-    },
-    {
-      "id": 33,
-      "question": "The presence of hypersegmented neutrophils is strongly indicative of what type of anemia?",
-      "options": [
-        "Megaloblastic anemia",
-        "Iron deficiency anemia",
-        "Lead poisoning",
-        "Thalassemia"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Hypersegmented neutrophils are a hallmark finding in megaloblastic anemias.",
-      "difficulty": "medium"
-    },
-    {
-      "id": 34,
-      "question": "A surge in which hormone directly triggers ovulation?",
-      "options": [
-        "Follicle-Stimulating Hormone",
-        "Luteinizing Hormone",
-        "Estrogen",
-        "Progesterone"
-      ],
-      "correctAnswer": 1,
-      "explanation": "The LH surge triggers the release of the ovum.",
-      "difficulty": "medium"
-    },
-    {
-      "id": 35,
-      "question": "Which specific organism is the most common causative agent of gas gangrene?",
-      "options": [
-        "Staphylococcus aureus",
-        "Streptococcus pyogenes",
-        "Clostridium perfringens",
-        "Pseudomonas aeruginosa"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Clostridium perfringens produces toxins causing rapid tissue necrosis and gas formation.",
-      "difficulty": "medium"
-    },
-    {
-      "id": 36,
       "question": "What is the most common anatomical site for an ectopic pregnancy to implant?",
       "options": [
         "Ovary",
@@ -465,449 +205,449 @@
         "Ampulla of the fallopian tube"
       ],
       "correctAnswer": 3,
-      "explanation": "Over 90% occur in the fallopian tube, most frequently in the ampullary segment.",
+      "explanation": "Over 90% of ectopic pregnancies occur in the fallopian tube, with the ampullary segment being the most frequent site.",
       "difficulty": "medium"
+    },
+    {
+      "id": 17,
+      "question": "What is considered the drug of choice for the treatment of Trigeminal Neuralgia?",
+      "options": [
+        "Carbamazepine",
+        "Gabapentin",
+        "Phenytoin",
+        "Valproic acid"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Carbamazepine is the first-line and most effective medication for managing the sharp, shooting facial pain characteristic of trigeminal neuralgia.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 18,
+      "question": "What is the single most common cause of primary hyperparathyroidism in the general population?",
+      "options": [
+        "Parathyroid hyperplasia",
+        "Parathyroid adenoma",
+        "Parathyroid carcinoma",
+        "Multiple Endocrine Neoplasia Type 1"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A solitary, benign parathyroid adenoma is responsible for approximately 80-85% of all cases of primary hyperparathyroidism.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 19,
+      "question": "DiGeorge syndrome is genetically characterized by a microdeletion on which specific chromosome?",
+      "options": [
+        "Chromosome 11p13",
+        "Chromosome 15q11-13",
+        "Chromosome 22q11.2",
+        "Chromosome 5p15.2"
+      ],
+      "correctAnswer": 2,
+      "explanation": "DiGeorge syndrome is a primary immunodeficiency disorder caused by a microdeletion on the long arm of chromosome 22 (22q11.2).",
+      "difficulty": "medium"
+    },
+    {
+      "id": 20,
+      "question": "What is the non-invasive imaging modality of choice for diagnosing a suspected deep vein thrombosis (DVT)?",
+      "options": [
+        "D-dimer assay",
+        "Contrast venography",
+        "CT venography",
+        "Venous duplex ultrasound"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Venous duplex ultrasound (Doppler) is the standard, first-line non-invasive imaging test used to confirm the presence of a deep vein thrombosis.",
+      "difficulty": "medium"
+    },
+    {
+      "id": 21,
+      "question": "A patient with recurrent nephrolithiasis and peptic ulcers is diagnosed with MEN1. The mutated gene encodes which protein?",
+      "options": [
+        "Menin",
+        "Ret",
+        "Merlin",
+        "Neurofibromin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The MEN1 gene located on chromosome 11 encodes the tumor suppressor protein menin.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 22,
+      "question": "Hyper-IgM syndrome is primarily characterized by a defect in which of the following?",
+      "options": [
+        "CD8 on Cytotoxic T cells",
+        "CD40 ligand (CD154) on T cells",
+        "MHC Class II expression",
+        "IL-2 receptor gamma chain"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hyper-IgM syndrome is primarily an X-linked recessive disorder caused by a defect in the CD40L on helper T cells, preventing B cell class switching.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 23,
+      "question": "In a pediatric patient diagnosed with tuberous sclerosis, which primary cardiac tumor is most likely to be found?",
+      "options": [
+        "Myxoma",
+        "Fibroma",
+        "Rhabdomyoma",
+        "Lipoma"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rhabdomyomas are the most common primary cardiac tumors in children and are strongly associated with tuberous sclerosis complex.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 24,
+      "question": "The 'Figure of 3' sign on a plain chest radiograph is a classic hallmark for which congenital defect?",
+      "options": [
+        "Tetralogy of Fallot",
+        "Transposition of the great arteries",
+        "Ebstein's anomaly",
+        "Coarctation of the aorta"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Coarctation of the aorta produces a 'Figure of 3' sign on chest X-ray due to pre-stenotic aortic dilation and post-stenotic dilation.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 25,
+      "question": "Which anti-arrhythmic medication is a class IC agent that acts by heavily blocking fast sodium channels?",
+      "options": [
+        "Flecainide",
+        "Amiodarone",
+        "Sotalol",
+        "Procainamide"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Flecainide is a Class IC antiarrhythmic that heavily blocks sodium channels, widening the QRS complex.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 26,
+      "question": "The pathogenesis of Wilson's disease is primarily driven by a mutation in which specific gene?",
+      "options": [
+        "ATP7A",
+        "ATP7B",
+        "HFE",
+        "CERP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Wilson's disease is an autosomal recessive disorder caused by a mutation in the ATP7B gene on chromosome 13.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 27,
+      "question": "Which intracellular histopathological inclusion is the absolute diagnostic hallmark of Parkinson's disease?",
+      "options": [
+        "Neurofibrillary tangles",
+        "Pick bodies",
+        "Lewy bodies",
+        "Hirano bodies"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lewy bodies are the pathognomonic finding in the substantia nigra pars compacta of patients with Parkinson's disease.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 28,
+      "question": "Niemann-Pick disease type A is characterized by a severe deficiency in which lysosomal enzyme?",
+      "options": [
+        "Hexosaminidase A",
+        "Glucocerebrosidase",
+        "Alpha-galactosidase A",
+        "Sphingomyelinase"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Niemann-Pick disease is an autosomal recessive sphingolipidosis caused by a deficiency in sphingomyelinase.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 29,
+      "question": "In acute promyelocytic leukemia (APL), all-trans retinoic acid (ATRA) targets the fusion protein resulting from which translocation?",
+      "options": [
+        "t(15;17)",
+        "t(9;22)",
+        "t(8;14)",
+        "t(11;14)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "APL is characterized by the t(15;17) translocation creating the PML-RARA fusion protein, which is directly targeted by ATRA.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 30,
+      "question": "The presence of anti-U1 RNP autoantibodies in high titers is the defining diagnostic criterion for which condition?",
+      "options": [
+        "Systemic lupus erythematosus",
+        "Mixed connective tissue disease",
+        "Sjogren's syndrome",
+        "Dermatomyositis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mixed Connective Tissue Disease (MCTD) presents with overlapping features, and high titers of anti-U1 RNP antibodies are a sine qua non for its diagnosis.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 31,
+      "question": "Which of the following oncogenic viral agents is definitively proven to be the causative agent of Kaposi sarcoma?",
+      "options": [
+        "Epstein-Barr virus (EBV)",
+        "Cytomegalovirus (CMV)",
+        "Human herpesvirus 8 (HHV-8)",
+        "Human papillomavirus 16 (HPV-16)"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Human herpesvirus 8 (HHV-8), also known as KSHV, drives the angiogenesis and proliferation characterizing Kaposi sarcoma.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 32,
+      "question": "The classic 'tram-track' appearance of the glomerular basement membrane is the defining feature of which pathology?",
+      "options": [
+        "IgA nephropathy",
+        "Post-streptococcal glomerulonephritis",
+        "Focal segmental glomerulosclerosis",
+        "Membranoproliferative glomerulonephritis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Type 1 MPGN is characterized by subendothelial immune complex deposits triggering mesangial ingrowth, splitting the basement membrane.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 33,
+      "question": "Which highly lipophilic calcium channel blocker is uniquely indicated to prevent vasospasm following a subarachnoid hemorrhage?",
+      "options": [
+        "Nimodipine",
+        "Amlodipine",
+        "Diltiazem",
+        "Verapamil"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Nimodipine crosses the blood-brain barrier effectively to prevent and reduce the severity of delayed cerebral vasospasm.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 34,
+      "question": "Which specific histological variant of thyroid carcinoma originates from parafollicular C cells and features an amyloid stroma?",
+      "options": [
+        "Papillary carcinoma",
+        "Medullary carcinoma",
+        "Follicular carcinoma",
+        "Anaplastic carcinoma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Medullary thyroid carcinoma arises from neuroendocrine parafollicular C cells, producing calcitonin that misfolds into amyloid.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 35,
+      "question": "Failure of vagal neural crest cells to properly migrate into the distal colon specifically results in which congenital anomaly?",
+      "options": [
+        "Meckel's diverticulum",
+        "Intussusception",
+        "Hirschsprung disease",
+        "Volvulus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hirschsprung disease is caused by the failure of neural crest cells to migrate, leading to an aganglionic distal bowel segment.",
+      "difficulty": "hard"
+    },
+    {
+      "id": 36,
+      "question": "A spirometry reading showing FEV1/FVC ratio < 70% coupled with an abnormally high total lung capacity (TLC) indicates?",
+      "options": [
+        "Idiopathic pulmonary fibrosis",
+        "Sarcoidosis",
+        "Kyphoscoliosis",
+        "Chronic obstructive pulmonary disease"
+      ],
+      "correctAnswer": 3,
+      "explanation": "COPD is an obstructive lung disease defined by a decreased FEV1/FVC ratio, with hyperinflation manifesting as an increased TLC.",
+      "difficulty": "hard"
     },
     {
       "id": 37,
-      "question": "An 'apple core' lesion visualized on a barium enema is classically associated with which pathology?",
+      "question": "Which autoantibody is the most specific serological marker for Primary Biliary Cholangitis?",
       "options": [
-        "Colorectal carcinoma",
-        "Crohn's disease",
-        "Ulcerative colitis",
-        "Diverticulitis"
+        "Anti-mitochondrial antibodies (AMA)",
+        "Anti-smooth muscle antibodies (ASMA)",
+        "Anti-nuclear antibodies (ANA)",
+        "Anti-LKM-1 antibodies"
       ],
       "correctAnswer": 0,
-      "explanation": "The sign represents a stricture caused by an annular constricting colorectal carcinoma.",
-      "difficulty": "medium"
+      "explanation": "Anti-mitochondrial antibodies (AMA) are found in over 90-95% of patients and are the diagnostic hallmark of PBC.",
+      "difficulty": "hard"
     },
     {
       "id": 38,
-      "question": "What is the primary first-line drug for the treatment of childhood absence seizures?",
+      "question": "In the CNS, which specific type of neuroglial cell is responsible for the myelination of multiple axons simultaneously?",
       "options": [
-        "Phenytoin",
-        "Ethosuximide",
-        "Carbamazepine",
-        "Diazepam"
+        "Schwann cells",
+        "Oligodendrocytes",
+        "Astrocytes",
+        "Microglia"
       ],
       "correctAnswer": 1,
-      "explanation": "Ethosuximide is highly effective and specific for treating absence seizures.",
-      "difficulty": "medium"
+      "explanation": "Oligodendrocytes are responsible for producing and maintaining myelin sheaths in the CNS, and are targeted in Multiple Sclerosis.",
+      "difficulty": "hard"
     },
     {
       "id": 39,
-      "question": "Which specific type of cast is considered pathognomonic for acute tubular necrosis?",
+      "question": "The presence of distinct target cells on a peripheral blood smear is least likely to be associated with which condition?",
       "options": [
-        "RBC casts",
-        "WBC casts",
-        "Muddy brown granular casts",
-        "Hyaline casts"
+        "Thalassemia",
+        "Splenectomy",
+        "Hereditary spherocytosis",
+        "Liver disease"
       ],
       "correctAnswer": 2,
-      "explanation": "Muddy brown casts are formed from sloughed necrotic tubular epithelial cells.",
-      "difficulty": "medium"
+      "explanation": "Hereditary spherocytosis features a decreased membrane-to-volume ratio, presenting with spherocytes, not target cells.",
+      "difficulty": "hard"
     },
     {
       "id": 40,
-      "question": "What is the most common organism responsible for atypical 'walking' pneumonia?",
+      "question": "Which first-line anti-tuberculosis medication primarily functions by inhibiting the synthesis of mycolic acids?",
       "options": [
-        "Streptococcus pneumoniae",
-        "Haemophilus influenzae",
-        "Klebsiella pneumoniae",
-        "Mycoplasma pneumoniae"
+        "Rifampin",
+        "Ethambutol",
+        "Pyrazinamide",
+        "Isoniazid"
       ],
       "correctAnswer": 3,
-      "explanation": "Mycoplasma pneumoniae is the leading cause of walking pneumonia.",
-      "difficulty": "medium"
+      "explanation": "Isoniazid specifically inhibits the synthesis of mycolic acids, which are essential lipid components of the mycobacterial cell wall.",
+      "difficulty": "hard"
     },
     {
       "id": 41,
-      "question": "Which interleukin is primarily responsible for the recruitment of eosinophils in asthma?",
+      "question": "In classical galactosemia, the accumulation of toxic galactitol is due to a deficiency in which enzyme?",
       "options": [
-        "IL-5",
-        "IL-2",
-        "IL-8",
-        "IL-10"
+        "Galactose-1-phosphate uridyltransferase",
+        "Galactokinase",
+        "Aldolase B",
+        "Fructokinase"
       ],
       "correctAnswer": 0,
-      "explanation": "Interleukin-5 is the major cytokine involved in eosinophil recruitment.",
+      "explanation": "Classical galactosemia is caused by a profound deficiency of galactose-1-phosphate uridyltransferase (GALT).",
       "difficulty": "hard"
     },
     {
       "id": 42,
-      "question": "What is the specific genetic defect associated with Chediak-Higashi syndrome?",
+      "question": "Paroxysmal nocturnal hemoglobinuria (PNH) is mechanistically caused by an acquired somatic mutation in which gene?",
       "options": [
-        "WAS gene",
-        "LYST gene",
-        "ATM gene",
-        "BTK gene"
+        "JAK2",
+        "PIGA",
+        "BCR-ABL",
+        "RUNX1"
       ],
       "correctAnswer": 1,
-      "explanation": "It is caused by an autosomal recessive mutation in the LYST gene.",
+      "explanation": "PNH is caused by a somatic mutation in the PIGA gene, preventing the synthesis of GPI anchors for CD55 and CD59.",
       "difficulty": "hard"
     },
     {
       "id": 43,
-      "question": "Call-Exner bodies are the classic histological hallmark of which ovarian tumor?",
+      "question": "Which anatomical structures serve as one-way valves for CSF drainage into the dural venous sinuses?",
       "options": [
-        "Dysgerminoma",
-        "Yolk sac tumor",
-        "Granulosa cell tumor",
-        "Krukenberg tumor"
+        "Choroid plexus",
+        "Foramen of Monro",
+        "Arachnoid granulations",
+        "Aqueduct of Sylvius"
       ],
       "correctAnswer": 2,
-      "explanation": "They are pathognomonic for granulosa cell tumors.",
+      "explanation": "Arachnoid granulations act as one-way valves that allow the absorption of CSF into the superior sagittal sinus.",
       "difficulty": "hard"
     },
     {
       "id": 44,
-      "question": "What is the precise mechanism of action of Omalizumab?",
+      "question": "Alongside medullary thyroid carcinoma and pheochromocytoma, what is the third classic tumor of MEN 2A?",
       "options": [
-        "Leukotriene receptor antagonist",
-        "Mast cell stabilizer",
-        "Anti-IL-5 monoclonal antibody",
-        "Anti-IgE monoclonal antibody"
+        "Pituitary adenoma",
+        "Pancreatic neuroendocrine tumor",
+        "Adrenal cortical adenoma",
+        "Parathyroid hyperplasia"
       ],
       "correctAnswer": 3,
-      "explanation": "Omalizumab binds to free IgE in the serum.",
+      "explanation": "The classic triad of MEN 2A includes Medullary thyroid carcinoma, Pheochromocytoma, and Parathyroid hyperplasia/adenoma.",
       "difficulty": "hard"
     },
     {
       "id": 45,
-      "question": "Electron microscopy in Minimal Change Disease characteristically shows what finding?",
+      "question": "The intravenous pharmacological agent abciximab acts as a direct antagonist at which specific surface receptor?",
       "options": [
-        "Podocyte foot process effacement",
-        "Subepithelial immune complex humps",
-        "Tram-track basement membrane",
-        "Linear IgG deposition"
+        "Glycoprotein IIb/IIIa",
+        "P2Y12 ADP receptor",
+        "Protease-activated receptor-1",
+        "Thromboxane A2 receptor"
       ],
       "correctAnswer": 0,
-      "explanation": "It reveals diffuse effacement of podocyte foot processes.",
+      "explanation": "Abciximab binds to the glycoprotein IIb/IIIa receptor on platelets, preventing fibrinogen binding and platelet aggregation.",
       "difficulty": "hard"
     },
     {
       "id": 46,
-      "question": "What is the pharmacological treatment of choice for Primary Biliary Cholangitis?",
+      "question": "Which type of renal tubular acidosis is characterized by a failure of the distal tubule to secrete hydrogen ions?",
       "options": [
-        "Corticosteroids",
-        "Ursodeoxycholic acid",
-        "Interferon-alpha",
-        "D-penicillamine"
+        "Type 2 (Proximal)",
+        "Type 1 (Distal)",
+        "Type 4 (Hyperkalemic)",
+        "Type 3 (Mixed)"
       ],
       "correctAnswer": 1,
-      "explanation": "UDCA improves biliary secretion to delay progression.",
+      "explanation": "Type 1 (Distal) RTA is caused by a defect in hydrogen ion secretion in the distal tubule, leading to basic urine.",
       "difficulty": "hard"
     },
     {
       "id": 47,
-      "question": "Pompe disease is caused by the systemic deficiency of which enzyme?",
+      "question": "In a patient suffering from advanced carcinoid syndrome, which cardiac valvulopathy is most commonly observed?",
       "options": [
-        "Glucose-6-phosphatase",
-        "Debranching enzyme",
-        "Acid alpha-glucosidase",
-        "Muscle phosphorylase"
+        "Mitral stenosis",
+        "Aortic regurgitation",
+        "Tricuspid regurgitation",
+        "Mitral valve prolapse"
       ],
       "correctAnswer": 2,
-      "explanation": "It results from a deficiency of lysosomal acid alpha-glucosidase.",
+      "explanation": "Carcinoid heart disease predominantly affects the right side, making tricuspid regurgitation the most common resultant lesion.",
       "difficulty": "hard"
     },
     {
       "id": 48,
-      "question": "What is the most common congenital cardiac anomaly associated with Turner syndrome?",
+      "question": "Which fungal pathogen is encapsulated, produces a positive India ink preparation, and frequently causes meningoencephalitis?",
       "options": [
-        "Ventricular septal defect",
-        "Atrial septal defect",
-        "Tetralogy of Fallot",
-        "Bicuspid aortic valve"
+        "Histoplasma capsulatum",
+        "Coccidioides immitis",
+        "Blastomyces dermatitidis",
+        "Cryptococcus neoformans"
       ],
       "correctAnswer": 3,
-      "explanation": "Bicuspid aortic valve is the most frequently occurring cardiovascular defect.",
+      "explanation": "Cryptococcus neoformans is an encapsulated yeast whose thick polysaccharide capsule repels India ink, creating a clear halo.",
       "difficulty": "hard"
     },
     {
       "id": 49,
-      "question": "Which autoantibody is highly specific for diffuse systemic sclerosis?",
+      "question": "An X-linked recessive disorder caused by an ATP7A mutation leading to severe copper deficiency and 'kinky' hair is:",
       "options": [
-        "Anti-Scl-70",
-        "Anti-centromere",
-        "Anti-Ro",
-        "Anti-Jo-1"
+        "Menkes disease",
+        "Wilson's disease",
+        "Hemochromatosis",
+        "Hunter syndrome"
       ],
       "correctAnswer": 0,
-      "explanation": "Anti-Scl-70 antibodies are highly specific for diffuse cutaneous systemic sclerosis.",
+      "explanation": "Menkes disease is caused by defective ATP7A, impairing copper absorption and leading to kinky hair and neurodegeneration.",
       "difficulty": "hard"
     },
     {
       "id": 50,
-      "question": "A massive 'water bottle' heart on chest X-ray indicates what condition?",
+      "question": "The finding of optically clear, overlapping nuclei termed 'Orphan Annie eye' nuclei is characteristic of which malignancy?",
       "options": [
-        "Left ventricular hypertrophy",
-        "Pericardial effusion",
-        "Dilated cardiomyopathy",
-        "Tetralogy of Fallot"
+        "Follicular thyroid carcinoma",
+        "Papillary thyroid carcinoma",
+        "Medullary thyroid carcinoma",
+        "Anaplastic thyroid carcinoma"
       ],
       "correctAnswer": 1,
-      "explanation": "A large pericardial effusion causes uniform enlargement resembling a water bottle.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 51,
-      "question": "Genetic testing in MEN1 reveals a mutation encoding which protein?",
-      "options": [
-        "Ret",
-        "Merlin",
-        "Menin",
-        "Neurofibromin"
-      ],
-      "correctAnswer": 2,
-      "explanation": "The MEN1 gene encodes the tumor suppressor protein menin.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 52,
-      "question": "Hyper-IgM syndrome is primarily caused by a defect in what?",
-      "options": [
-        "Selective IgA",
-        "CD8 T cells",
-        "MHC Class II",
-        "CD40 ligand"
-      ],
-      "correctAnswer": 3,
-      "explanation": "It is caused by a defect in the CD40L on helper T cells preventing class switching.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 53,
-      "question": "Which cardiac tumor is most commonly associated with tuberous sclerosis?",
-      "options": [
-        "Rhabdomyoma",
-        "Myxoma",
-        "Fibroma",
-        "Lipoma"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Rhabdomyomas are strongly associated with tuberous sclerosis complex.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 54,
-      "question": "The 'Figure of 3' sign on a chest radiograph is a hallmark for what?",
-      "options": [
-        "Tetralogy of Fallot",
-        "Coarctation of the aorta",
-        "Ebstein's anomaly",
-        "Transposition of the great arteries"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Coarctation of the aorta produces this sign due to pre- and post-stenotic dilation.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 55,
-      "question": "Which of the following is a Class IC anti-arrhythmic medication?",
-      "options": [
-        "Amiodarone",
-        "Sotalol",
-        "Flecainide",
-        "Procainamide"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Flecainide is a Class IC agent that heavily blocks fast sodium channels.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 56,
-      "question": "Wilson's disease is driven by a mutation in which gene?",
-      "options": [
-        "ATP7A",
-        "ATP1A1",
-        "ATP2A1",
-        "ATP7B"
-      ],
-      "correctAnswer": 3,
-      "explanation": "It is an autosomal recessive disorder caused by a mutation in the ATP7B gene.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 57,
-      "question": "Which intracellular inclusion is the diagnostic hallmark of Parkinson's disease?",
-      "options": [
-        "Lewy bodies",
-        "Pick bodies",
-        "Neurofibrillary tangles",
-        "Hirano bodies"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Lewy bodies are the pathognomonic finding in the substantia nigra.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 58,
-      "question": "Niemann-Pick disease type A is caused by a deficiency in which enzyme?",
-      "options": [
-        "Hexosaminidase A",
-        "Sphingomyelinase",
-        "Alpha-galactosidase A",
-        "Glucocerebrosidase"
-      ],
-      "correctAnswer": 1,
-      "explanation": "It is caused by a deficiency in sphingomyelinase.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 59,
-      "question": "Acute promyelocytic leukemia is characterized by which chromosomal translocation?",
-      "options": [
-        "t(9;22)",
-        "t(8;14)",
-        "t(15;17)",
-        "t(11;14)"
-      ],
-      "correctAnswer": 2,
-      "explanation": "APL features the t(15;17) translocation creating the PML-RARA fusion protein.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 60,
-      "question": "High titers of anti-U1 RNP autoantibodies are diagnostic for what condition?",
-      "options": [
-        "Systemic lupus erythematosus",
-        "Sjogren's syndrome",
-        "Dermatomyositis",
-        "Mixed connective tissue disease"
-      ],
-      "correctAnswer": 3,
-      "explanation": "They are the essential diagnostic criterion for MCTD.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 61,
-      "question": "Which viral agent is definitively proven to cause Kaposi sarcoma?",
-      "options": [
-        "Human herpesvirus 8 (HHV-8)",
-        "Cytomegalovirus (CMV)",
-        "Epstein-Barr virus (EBV)",
-        "Human papillomavirus (HPV)"
-      ],
-      "correctAnswer": 0,
-      "explanation": "HHV-8 is the causative agent driving angiogenesis in Kaposi sarcoma.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 62,
-      "question": "The 'tram-track' appearance of the GBM is the defining feature of what pathology?",
-      "options": [
-        "IgA nephropathy",
-        "Membranoproliferative glomerulonephritis",
-        "Focal segmental glomerulosclerosis",
-        "Post-streptococcal glomerulonephritis"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Type 1 MPGN features subendothelial deposits splitting the basement membrane.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 63,
-      "question": "Which calcium channel blocker is uniquely indicated to prevent vasospasm after subarachnoid hemorrhage?",
-      "options": [
-        "Amlodipine",
-        "Diltiazem",
-        "Nimodipine",
-        "Verapamil"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Nimodipine is highly lipophilic and crosses the BBB to prevent cerebral vasospasm.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 64,
-      "question": "Medullary thyroid carcinoma originates from which specific cells?",
-      "options": [
-        "Follicular cells",
-        "Hurthle cells",
-        "Chief cells",
-        "Parafollicular C cells"
-      ],
-      "correctAnswer": 3,
-      "explanation": "It arises from the neuroendocrine parafollicular C cells.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 65,
-      "question": "Hirschsprung disease specifically results from a failure of what process?",
-      "options": [
-        "Neural crest cell migration",
-        "Endodermal folding",
-        "Mesodermal differentiation",
-        "Apoptosis of gut tissue"
-      ],
-      "correctAnswer": 0,
-      "explanation": "It is caused by the failure of vagal neural crest cells to migrate properly.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 66,
-      "question": "In spirometry, what defines COPD?",
-      "options": [
-        "Restrictive pattern",
-        "FEV1/FVC ratio < 70%",
-        "Increased DLCO",
-        "Decreased TLC"
-      ],
-      "correctAnswer": 1,
-      "explanation": "COPD is an obstructive disease defined by a decreased FEV1/FVC ratio.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 67,
-      "question": "Which autoantibody is the most specific serological marker for Primary Biliary Cholangitis?",
-      "options": [
-        "Anti-smooth muscle",
-        "Anti-nuclear",
-        "Anti-mitochondrial",
-        "Anti-LKM"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Anti-mitochondrial antibodies (AMA) are found in over 90% of PBC patients.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 68,
-      "question": "Which neuroglial cell is responsible for myelination in the central nervous system?",
-      "options": [
-        "Schwann cells",
-        "Astrocytes",
-        "Microglia",
-        "Oligodendrocytes"
-      ],
-      "correctAnswer": 3,
-      "explanation": "Oligodendrocytes produce and maintain myelin sheaths in the CNS.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 69,
-      "question": "The presence of target cells is least likely to be associated with which state?",
-      "options": [
-        "Hereditary spherocytosis",
-        "Thalassemia",
-        "Splenectomy",
-        "Liver disease"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Hereditary spherocytosis features spherocytes, not target cells.",
-      "difficulty": "hard"
-    },
-    {
-      "id": 70,
-      "question": "Isoniazid functions primarily by inhibiting the synthesis of what?",
-      "options": [
-        "RNA polymerase",
-        "Mycolic acids",
-        "Cell membrane",
-        "Protein synthesis"
-      ],
-      "correctAnswer": 1,
-      "explanation": "INH specifically inhibits enzymes crucial for mycolic acid synthesis.",
+      "explanation": "Diagnostic histological hallmarks of Papillary thyroid carcinoma include 'Orphan Annie eye' nuclei and psammoma bodies.",
       "difficulty": "hard"
     }
   ]
